@@ -6555,3 +6555,27 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [27Dec2024 06:03:31.212] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
 [27Dec2024 06:08:31.213] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
 [27Dec2024 06:08:31.225] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[27Dec2024 06:09:46.116] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Gernold}[style={}] has been infected
+[27Dec2024 06:09:52.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was shot by Skeleton
+[27Dec2024 06:09:52.111] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[27Dec2024 06:09:52.114] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[27Dec2024 06:10:07.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was shot by Skeleton
+[27Dec2024 06:10:07.769] [Server thread/DEBUG] [tombstone/]: A new grave of the player manu was created at position [x:966, y:63, z:199, dim:minecraft:overworld]
+[27Dec2024 06:11:42.477] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4177, l='ServerLevel[🗡No ties amigos?☠]', x=122.74, y=45.00, z=44.81, removed=DISCARDED]
+[27Dec2024 06:11:44.477] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2380ms or 47 ticks behind
+[27Dec2024 06:13:12.989] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4177, l='ServerLevel[🗡No ties amigos?☠]', x=122.74, y=45.00, z=44.81, removed=DISCARDED]
+[27Dec2024 06:13:33.468] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[27Dec2024 06:13:33.484] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[27Dec2024 06:16:51.043] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4177, l='ServerLevel[🗡No ties amigos?☠]', x=122.74, y=45.00, z=44.81, removed=DISCARDED]
+[27Dec2024 06:18:12.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to manu]
+[27Dec2024 06:18:18.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was zapped to death whilst trying to escape ADMIN
+[27Dec2024 06:18:18.657] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[27Dec2024 06:18:18.659] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[27Dec2024 06:18:25.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was electrocuted
+[27Dec2024 06:18:25.005] [Server thread/DEBUG] [tombstone/]: A new grave of the player manu was created at position [x:1044, y:67, z:86, dim:minecraft:overworld]
+[27Dec2024 06:18:33.518] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[27Dec2024 06:18:33.534] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[27Dec2024 06:23:33.469] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[27Dec2024 06:23:33.482] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[27Dec2024 06:28:33.515] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[27Dec2024 06:28:33.526] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠

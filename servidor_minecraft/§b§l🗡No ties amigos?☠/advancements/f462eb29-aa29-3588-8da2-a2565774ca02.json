@@ -7005,9 +7005,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/stripped_blackwood_wood": {
+    "criteria": {
+      "has_log": "2024-12-27 06:26:15 +0000"
+    },
+    "done": true
+  },
   "mca:merchant": {
     "criteria": {
       "baby": "2024-12-27 05:54:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/blackwood_hanging_sign": {
+    "criteria": {
+      "has_stripped_blackwood_log": "2024-12-27 06:26:15 +0000"
     },
     "done": true
   },

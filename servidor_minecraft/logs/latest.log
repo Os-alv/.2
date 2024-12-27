@@ -239,3 +239,17 @@
 [27Dec2024 05:47:30.496] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
 [27Dec2024 05:48:02.478] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
 [27Dec2024 05:54:47.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [Merchant]
+[27Dec2024 06:09:46.116] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Gernold}[style={}] has been infected
+[27Dec2024 06:09:52.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was shot by Skeleton
+[27Dec2024 06:09:52.111] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[27Dec2024 06:09:52.114] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[27Dec2024 06:10:07.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was shot by Skeleton
+[27Dec2024 06:11:42.477] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4177, l='ServerLevel[🗡No ties amigos?☠]', x=122.74, y=45.00, z=44.81, removed=DISCARDED]
+[27Dec2024 06:11:44.477] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2380ms or 47 ticks behind
+[27Dec2024 06:13:12.989] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4177, l='ServerLevel[🗡No ties amigos?☠]', x=122.74, y=45.00, z=44.81, removed=DISCARDED]
+[27Dec2024 06:16:51.043] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4177, l='ServerLevel[🗡No ties amigos?☠]', x=122.74, y=45.00, z=44.81, removed=DISCARDED]
+[27Dec2024 06:18:12.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to manu]
+[27Dec2024 06:18:18.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was zapped to death whilst trying to escape ADMIN
+[27Dec2024 06:18:18.657] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[27Dec2024 06:18:18.659] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[27Dec2024 06:18:25.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was electrocuted
