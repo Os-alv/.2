@@ -258,3 +258,5 @@
 [27Dec2024 06:37:40.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN left the game
 [27Dec2024 06:37:40.732] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ADMIN
 [27Dec2024 06:37:40.771] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27Dec2024 06:48:36.110] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Kirito'/23031, l='ServerLevel[🗡No ties amigos?☠]', x=862.49, y=64.56, z=-17.16] died, message: 'Kirito suffocated in a wall'
+[27Dec2024 06:48:36.111] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Kirito'/23031, l='ServerLevel[🗡No ties amigos?☠]', x=862.49, y=64.56, z=-17.16] died: Kirito suffocated in a wall
