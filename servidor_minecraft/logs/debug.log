@@ -6579,3 +6579,13 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [27Dec2024 06:23:33.482] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
 [27Dec2024 06:28:33.515] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
 [27Dec2024 06:28:33.526] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[27Dec2024 06:31:14.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has completed the challenge [Best Friends]
+[27Dec2024 06:33:33.500] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[27Dec2024 06:33:33.514] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[27Dec2024 06:37:40.729] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN lost connection: Timed out
+[27Dec2024 06:37:40.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN left the game
+[27Dec2024 06:37:40.732] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of ADMIN
+[27Dec2024 06:37:40.732] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ADMIN
+[27Dec2024 06:37:40.771] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27Dec2024 06:38:33.417] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[27Dec2024 06:38:33.428] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠

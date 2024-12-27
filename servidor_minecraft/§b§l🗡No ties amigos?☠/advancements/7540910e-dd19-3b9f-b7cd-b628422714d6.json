@@ -149,7 +149,8 @@
       "pine_log": "2024-12-20 01:02:00 +0000",
       "silver_birch_log": "2024-12-11 21:29:03 +0000",
       "redwood_log": "2024-12-11 05:52:58 +0000",
-      "green_bioshroom_stem": "2024-12-11 06:39:55 +0000"
+      "green_bioshroom_stem": "2024-12-11 06:39:55 +0000",
+      "blackwood_log": "2024-12-27 06:37:34 +0000"
     },
     "done": false
   },
@@ -6766,6 +6767,30 @@
   "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2024-12-21 06:23:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/blackwood_branch_from_blackwood_log": {
+    "criteria": {
+      "has_log": "2024-12-27 06:37:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/brown_dye_from_cattail": {
+    "criteria": {
+      "has_cattail": "2024-12-27 06:32:58 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/blackwood_wood": {
+    "criteria": {
+      "has_log": "2024-12-27 06:37:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/blackwood_planks": {
+    "criteria": {
+      "has_logs": "2024-12-27 06:37:34 +0000"
     },
     "done": true
   },

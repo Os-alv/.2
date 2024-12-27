@@ -7005,9 +7005,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2024-12-27 06:35:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-12-27 06:35:28 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/stripped_blackwood_wood": {
     "criteria": {
       "has_log": "2024-12-27 06:26:15 +0000"
+    },
+    "done": true
+  },
+  "mca:best_friend": {
+    "criteria": {
+      "baby": "2024-12-27 06:31:14 +0000"
     },
     "done": true
   },
