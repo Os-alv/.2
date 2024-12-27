@@ -6770,9 +6770,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2024-12-27 06:54:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2024-12-27 06:54:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2024-12-27 06:54:30 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/blackwood_branch_from_blackwood_log": {
     "criteria": {
       "has_log": "2024-12-27 06:37:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2024-12-27 06:54:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2024-12-27 06:54:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-27 06:52:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-27 06:54:30 +0000"
     },
     "done": true
   },
@@ -6785,6 +6827,12 @@
   "regions_unexplored:recipes/building_blocks/blackwood_wood": {
     "criteria": {
       "has_log": "2024-12-27 06:37:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-27 06:52:08 +0000"
     },
     "done": true
   },

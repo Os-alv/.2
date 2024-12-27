@@ -6595,3 +6595,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [27Dec2024 06:48:33.588] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
 [27Dec2024 06:48:36.110] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Kirito'/23031, l='ServerLevel[🗡No ties amigos?☠]', x=862.49, y=64.56, z=-17.16] died, message: 'Kirito suffocated in a wall'
 [27Dec2024 06:48:36.111] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Kirito'/23031, l='ServerLevel[🗡No ties amigos?☠]', x=862.49, y=64.56, z=-17.16] died: Kirito suffocated in a wall
+[27Dec2024 06:53:33.429] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[27Dec2024 06:53:33.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[27Dec2024 06:58:33.453] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[27Dec2024 06:58:33.466] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
