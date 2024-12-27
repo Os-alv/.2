@@ -260,3 +260,8 @@
 [27Dec2024 06:37:40.771] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [27Dec2024 06:48:36.110] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Kirito'/23031, l='ServerLevel[🗡No ties amigos?☠]', x=862.49, y=64.56, z=-17.16] died, message: 'Kirito suffocated in a wall'
 [27Dec2024 06:48:36.111] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Kirito'/23031, l='ServerLevel[🗡No ties amigos?☠]', x=862.49, y=64.56, z=-17.16] died: Kirito suffocated in a wall
+[27Dec2024 07:05:32.657] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4177, l='ServerLevel[🗡No ties amigos?☠]', x=122.74, y=45.00, z=44.81, removed=DISCARDED]
+[27Dec2024 07:08:31.828] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4177, l='ServerLevel[🗡No ties amigos?☠]', x=122.74, y=45.00, z=44.81, removed=DISCARDED]
+[27Dec2024 07:08:31.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manu moved too quickly! 7.459752313336054,0.8232407249357578,-7.075795089854381
+[27Dec2024 07:08:49.922] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4177, l='ServerLevel[🗡No ties amigos?☠]', x=122.74, y=45.00, z=44.81, removed=DISCARDED]
+[27Dec2024 07:09:52.006] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4177, l='ServerLevel[🗡No ties amigos?☠]', x=122.74, y=45.00, z=44.81, removed=DISCARDED]
