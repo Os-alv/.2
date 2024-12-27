@@ -236,3 +236,6 @@
 [27Dec2024 05:46:26.528] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4177, l='ServerLevel[🗡No ties amigos?☠]', x=122.74, y=45.00, z=44.81, removed=DISCARDED]
 [27Dec2024 05:46:44.752] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4177, l='ServerLevel[🗡No ties amigos?☠]', x=122.74, y=45.00, z=44.81, removed=DISCARDED]
 [27Dec2024 05:46:47.148] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3102ms or 62 ticks behind
+[27Dec2024 05:47:30.496] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[27Dec2024 05:48:02.478] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[27Dec2024 05:54:47.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [Merchant]
