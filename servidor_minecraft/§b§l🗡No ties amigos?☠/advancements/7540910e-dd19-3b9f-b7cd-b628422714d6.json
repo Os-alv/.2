@@ -6854,5 +6854,11 @@
     },
     "done": true
   },
+  "mca:adventure/kill_grim_reaper": {
+    "criteria": {
+      "killed_reaper": "2024-12-28 06:41:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

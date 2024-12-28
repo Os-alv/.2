@@ -56,6 +56,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "silver_birch_forest": "2024-12-12 05:07:18 +0000",
+      "shrubland": "2024-12-28 06:40:11 +0000",
       "pine_taiga": "2024-12-18 05:04:55 +0000",
       "muddy_river": "2024-12-14 04:59:48 +0000",
       "autumnal_maple_forest": "2024-12-18 05:08:25 +0000",
@@ -90,6 +91,7 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "silver_birch_forest": "2024-12-12 05:07:18 +0000",
+      "shrubland": "2024-12-28 06:40:11 +0000",
       "pine_taiga": "2024-12-18 05:04:55 +0000",
       "muddy_river": "2024-12-14 04:59:48 +0000",
       "autumnal_maple_forest": "2024-12-18 05:08:25 +0000",
@@ -7123,6 +7125,18 @@
   "mca:twins": {
     "criteria": {
       "baby": "2024-12-28 05:33:18 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/staff_of_life": {
+    "criteria": {
+      "has_item": "2024-12-28 06:41:49 +0000"
+    },
+    "done": true
+  },
+  "mca:adventure/scythe_kill": {
+    "criteria": {
+      "iron": "2024-12-28 06:44:12 +0000"
     },
     "done": true
   },

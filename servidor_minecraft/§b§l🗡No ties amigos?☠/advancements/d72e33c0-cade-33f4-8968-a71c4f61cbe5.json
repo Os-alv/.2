@@ -1021,8 +1021,10 @@
       "minecraft:old_growth_pine_taiga": "2024-12-20 01:24:11 +0000",
       "minecraft:taiga": "2024-12-20 01:21:55 +0000",
       "minecraft:deep_ocean": "2024-12-28 05:17:45 +0000",
+      "minecraft:birch_forest": "2024-12-28 06:47:48 +0000",
       "minecraft:bamboo_jungle": "2024-12-20 02:54:15 +0000",
       "minecraft:beach": "2024-12-11 18:39:05 +0000",
+      "minecraft:dark_forest": "2024-12-28 06:48:00 +0000",
       "minecraft:sparse_jungle": "2024-12-21 05:20:49 +0000",
       "minecraft:river": "2024-12-11 06:00:41 +0000",
       "minecraft:lukewarm_ocean": "2024-12-12 06:14:23 +0000",
@@ -1036,6 +1038,7 @@
       "minecraft:ocean": "2024-12-11 18:42:14 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-20 02:02:38 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-21 05:29:26 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-28 06:46:26 +0000",
       "minecraft:savanna": "2024-12-20 03:28:25 +0000",
       "minecraft:plains": "2024-12-11 19:17:24 +0000"
     },
@@ -2264,6 +2267,7 @@
       "rotten_flesh": "2024-12-14 08:14:13 +0000",
       "beetroot": "2024-12-11 07:41:55 +0000",
       "cod": "2024-12-20 00:46:30 +0000",
+      "cooked_salmon": "2024-12-28 06:43:25 +0000",
       "carrot": "2024-12-12 05:06:52 +0000"
     },
     "done": false
@@ -6568,6 +6572,12 @@
   "terramity:stone_mask_advancement": {
     "criteria": {
       "stone_mask_advancement_0": "2024-12-28 05:59:16 +0000"
+    },
+    "done": true
+  },
+  "goblins_tyranny:goblins_encounter_success": {
+    "criteria": {
+      "goblins_encounter_success_0": "2024-12-28 06:47:57 +0000"
     },
     "done": true
   },
