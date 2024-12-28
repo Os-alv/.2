@@ -6842,5 +6842,11 @@
     },
     "done": true
   },
+  "minecraft:husbandry/obtain_sniffer_egg": {
+    "criteria": {
+      "obtain_sniffer_egg": "2024-12-28 05:36:11 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

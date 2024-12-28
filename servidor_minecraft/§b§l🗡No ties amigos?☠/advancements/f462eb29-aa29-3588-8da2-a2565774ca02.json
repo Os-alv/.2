@@ -7054,6 +7054,12 @@
     },
     "done": true
   },
+  "mca:twins": {
+    "criteria": {
+      "baby": "2024-12-28 05:33:18 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/pine_trapdoor": {
     "criteria": {
       "has_pine_planks": "2024-12-28 05:10:35 +0000"
