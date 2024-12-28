@@ -2187,8 +2187,10 @@
       "bread": "2024-12-11 07:12:14 +0000",
       "rotten_flesh": "2024-12-11 06:41:53 +0000",
       "glow_berries": "2024-12-11 06:35:48 +0000",
+      "salmon": "2024-12-28 07:06:19 +0000",
       "melon_slice": "2024-12-27 05:50:25 +0000",
       "cooked_chicken": "2024-12-11 06:29:53 +0000",
+      "cod": "2024-12-28 07:04:06 +0000",
       "carrot": "2024-12-12 06:37:04 +0000"
     },
     "done": false
@@ -6854,9 +6856,75 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "pufferfish": "2024-12-28 06:59:05 +0000"
+    },
+    "done": true
+  },
   "mca:adventure/kill_grim_reaper": {
     "criteria": {
       "killed_reaper": "2024-12-28 06:41:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-12-28 06:58:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-28 06:58:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2024-12-28 06:58:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-28 06:58:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2024-12-28 06:58:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2024-12-28 06:58:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-28 06:58:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2024-12-28 06:58:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-28 06:58:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-28 06:58:15 +0000"
     },
     "done": true
   },
