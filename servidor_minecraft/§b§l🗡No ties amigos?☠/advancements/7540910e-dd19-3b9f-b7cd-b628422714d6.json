@@ -6848,5 +6848,11 @@
     },
     "done": true
   },
+  "terramity:stone_mask_advancement": {
+    "criteria": {
+      "stone_mask_advancement_0": "2024-12-28 05:48:24 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
