@@ -295,6 +295,7 @@
       "magnolia_log": "2024-12-18 02:46:02 +0000",
       "willow_log": "2024-12-11 22:06:30 +0000",
       "yellow_bioshroom_stem": "2024-12-12 03:04:28 +0000",
+      "pine_log": "2024-12-28 04:59:47 +0000",
       "small_oak_log": "2024-12-11 22:49:17 +0000",
       "cobalt_log": "2024-12-12 02:50:41 +0000",
       "redwood_log": "2024-12-11 05:52:48 +0000",
@@ -7005,6 +7006,30 @@
     },
     "done": true
   },
+  "mca:merchant": {
+    "criteria": {
+      "baby": "2024-12-27 05:54:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/stripped_blackwood_wood": {
+    "criteria": {
+      "has_log": "2024-12-27 06:26:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/blackwood_hanging_sign": {
+    "criteria": {
+      "has_stripped_blackwood_log": "2024-12-27 06:26:15 +0000"
+    },
+    "done": true
+  },
+  "mca:best_friend": {
+    "criteria": {
+      "baby": "2024-12-27 06:31:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_cocoa_beans": "2024-12-27 06:35:28 +0000"
@@ -7017,27 +7042,27 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/stripped_blackwood_wood": {
+  "regions_unexplored:recipes/building_blocks/pine_planks": {
     "criteria": {
-      "has_log": "2024-12-27 06:26:15 +0000"
+      "has_logs": "2024-12-28 04:59:47 +0000"
     },
     "done": true
   },
-  "mca:best_friend": {
+  "regions_unexplored:recipes/decorations/pine_shrub": {
     "criteria": {
-      "baby": "2024-12-27 06:31:14 +0000"
+      "has_pine_sapling": "2024-12-28 04:59:45 +0000"
     },
     "done": true
   },
-  "mca:merchant": {
+  "regions_unexplored:recipes/decorations/pine_branch_from_pine_log": {
     "criteria": {
-      "baby": "2024-12-27 05:54:47 +0000"
+      "has_log": "2024-12-28 04:59:47 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/blackwood_hanging_sign": {
+  "regions_unexplored:recipes/building_blocks/pine_wood": {
     "criteria": {
-      "has_stripped_blackwood_log": "2024-12-27 06:26:15 +0000"
+      "has_log": "2024-12-28 04:59:47 +0000"
     },
     "done": true
   },
