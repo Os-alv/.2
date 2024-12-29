@@ -7069,3 +7069,41 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [29Dec2024 05:15:24.355] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
 [29Dec2024 05:15:39.467] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
 [29Dec2024 05:15:39.478] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[29Dec2024 05:19:03.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> [x:189, y:62, z:-3022, dim:minecraft:overworld]
+[29Dec2024 05:20:21.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to ram]
+[29Dec2024 05:20:34.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was slain by Dungeon Effigy
+[29Dec2024 05:20:34.150] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[29Dec2024 05:20:34.158] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[29Dec2024 05:20:39.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[29Dec2024 05:20:39.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[29Dec2024 05:21:30.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was slain by Dungeon Effigy
+[29Dec2024 05:21:30.253] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[29Dec2024 05:21:30.259] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[29Dec2024 05:22:13.399] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[29Dec2024 05:22:13.401] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[29Dec2024 05:22:13.403] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 15 bread
+[29Dec2024 05:22:13.404] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[29Dec2024 05:22:13.408] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 7 | client: 8
+[29Dec2024 05:22:39.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has completed the challenge [The Power of the Sun]
+[29Dec2024 05:23:03.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was shot by Dungeon Sentry
+[29Dec2024 05:23:03.100] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
+[29Dec2024 05:23:03.103] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[29Dec2024 05:23:58.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was slain by Dungeon Effigy
+[29Dec2024 05:23:58.856] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[29Dec2024 05:23:58.860] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[29Dec2024 05:24:21.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Dungeon Effigy
+[29Dec2024 05:24:21.253] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[29Dec2024 05:24:21.256] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[29Dec2024 05:24:44.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was slain by Dungeon Effigy
+[29Dec2024 05:24:44.989] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[29Dec2024 05:24:45.004] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[29Dec2024 05:25:20.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu experienced kinetic energy whilst trying to escape Dungeon Effigy
+[29Dec2024 05:25:20.807] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[29Dec2024 05:25:20.809] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[29Dec2024 05:25:25.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was slain by Dungeon Effigy
+[29Dec2024 05:25:25.976] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[29Dec2024 05:25:25.980] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[29Dec2024 05:25:39.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[29Dec2024 05:25:39.608] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[29Dec2024 05:25:51.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu experienced kinetic energy
+[29Dec2024 05:25:51.075] [Server thread/DEBUG] [tombstone/]: A new grave of the player manu was created at position [x:205, y:63, z:-3037, dim:minecraft:overworld]
