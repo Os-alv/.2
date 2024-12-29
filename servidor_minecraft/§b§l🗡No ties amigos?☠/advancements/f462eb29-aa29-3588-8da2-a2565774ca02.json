@@ -7465,5 +7465,11 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_reach": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-29 07:19:09 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

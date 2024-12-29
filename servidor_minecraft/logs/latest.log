@@ -677,3 +677,97 @@
 [29Dec2024 07:06:39.405] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
 [29Dec2024 07:06:45.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was slain by Dungeon Effigy
 [29Dec2024 07:11:13.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has reached the goal [Death Will Not Be Enough]
+[29Dec2024 07:18:52.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ram to manu]
+[29Dec2024 07:19:01.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to ram]
+[29Dec2024 07:19:08.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has reached the goal [A little cleaning is necessary]
+[29Dec2024 07:19:09.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has reached the goal [The long arm of the law]
+[29Dec2024 07:19:30.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was wiped off the map
+[29Dec2024 07:19:30.398] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[29Dec2024 07:19:30.405] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[29Dec2024 07:19:35.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was wiped off the map
+[29Dec2024 07:19:35.649] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[29Dec2024 07:19:35.655] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[29Dec2024 07:19:50.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was simmered in stygian blood
+[29Dec2024 07:19:50.116] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
+[29Dec2024 07:19:50.118] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[29Dec2024 07:20:35.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram was wiped off the map
+[29Dec2024 07:20:37.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! -33.0,3.78821891643166,-11.0
+[29Dec2024 07:20:47.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Dungeon Effigy
+[29Dec2024 07:20:47.246] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[29Dec2024 07:20:47.264] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[29Dec2024 07:20:48.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was blown up by Dungeon Effigy
+[29Dec2024 07:20:48.354] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[29Dec2024 07:21:46.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was wiped off the map
+[29Dec2024 07:21:46.898] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[29Dec2024 07:21:46.903] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[29Dec2024 07:21:52.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was simmered in stygian blood
+[29Dec2024 07:21:52.696] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
+[29Dec2024 07:21:52.700] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[29Dec2024 07:21:53.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! 5.8680933818490075,-0.5885525929978215,-8.163137024563639
+[29Dec2024 07:22:57.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was wiped off the map
+[29Dec2024 07:22:57.701] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[29Dec2024 07:22:57.706] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[29Dec2024 07:23:12.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram boiled away whilst trying to escape Trial Guardian
+[29Dec2024 07:23:12.349] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[29Dec2024 07:23:12.352] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[29Dec2024 07:23:13.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was wiped off the map
+[29Dec2024 07:23:13.348] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
+[29Dec2024 07:23:13.353] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[29Dec2024 07:23:26.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN was wiped off the map
+[29Dec2024 07:23:34.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was wiped off the map
+[29Dec2024 07:24:12.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram was simmered in stygian blood
+[29Dec2024 07:26:45.800] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[29Dec2024 07:26:45.801] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[29Dec2024 07:26:45.801] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 20 bread
+[29Dec2024 07:26:45.802] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[29Dec2024 07:26:45.802] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 1
+[29Dec2024 07:26:46.043] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[29Dec2024 07:26:46.043] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[29Dec2024 07:26:46.043] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 20 bread
+[29Dec2024 07:26:46.044] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[29Dec2024 07:26:46.044] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 1
+[29Dec2024 07:26:46.597] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[29Dec2024 07:26:46.598] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[29Dec2024 07:26:46.598] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 20 bread
+[29Dec2024 07:26:46.598] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[29Dec2024 07:26:46.599] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 1
+[29Dec2024 07:26:46.944] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[29Dec2024 07:26:46.945] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[29Dec2024 07:26:46.945] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 20 bread
+[29Dec2024 07:26:46.946] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[29Dec2024 07:26:46.946] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 1
+[29Dec2024 07:26:47.192] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[29Dec2024 07:26:47.197] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
+[29Dec2024 07:26:47.198] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 20 bread
+[29Dec2024 07:26:47.199] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[29Dec2024 07:26:47.200] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 1
+[29Dec2024 07:26:47.594] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[29Dec2024 07:26:47.598] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 5 is dual wielding: false
+[29Dec2024 07:26:47.601] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 20 bread
+[29Dec2024 07:26:47.601] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[29Dec2024 07:26:47.602] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 1
+[29Dec2024 07:26:47.872] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[29Dec2024 07:26:47.875] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 6 is dual wielding: false
+[29Dec2024 07:26:47.877] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 20 bread
+[29Dec2024 07:26:47.879] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[29Dec2024 07:26:47.880] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 1
+[29Dec2024 07:26:48.090] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[29Dec2024 07:26:48.093] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 7 is dual wielding: false
+[29Dec2024 07:26:48.095] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 20 bread
+[29Dec2024 07:26:48.096] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[29Dec2024 07:26:48.096] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 1
+[29Dec2024 07:26:48.336] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[29Dec2024 07:26:48.337] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 8 is dual wielding: false
+[29Dec2024 07:26:48.337] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 20 bread
+[29Dec2024 07:26:48.338] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[29Dec2024 07:26:48.338] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 1
+[29Dec2024 07:26:48.624] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[29Dec2024 07:26:48.627] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 9 is dual wielding: false
+[29Dec2024 07:26:48.629] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 20 bread
+[29Dec2024 07:26:48.631] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[29Dec2024 07:26:48.632] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 1
+[29Dec2024 07:26:48.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram was turned to stone by Gorgon
+[29Dec2024 07:26:48.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram moved too quickly! 0.3371956108252334,0.0,-10.068681469206695
+[29Dec2024 07:26:48.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! -9.687601222072772,2.3937796879152273,-2.3802760657428816
+[29Dec2024 07:26:48.827] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[29Dec2024 07:26:48.833] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7895ms or 157 ticks behind

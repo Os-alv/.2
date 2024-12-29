@@ -7034,6 +7034,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_purification": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-29 07:19:08 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_aquatic_life": {
     "criteria": {
       "has_magic_scroll": "2024-12-29 05:55:00 +0000"
