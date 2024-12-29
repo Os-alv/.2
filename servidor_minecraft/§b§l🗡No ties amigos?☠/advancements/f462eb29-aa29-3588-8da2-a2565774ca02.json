@@ -7189,147 +7189,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/socotra_wood": {
-    "criteria": {
-      "has_log": "2024-12-29 05:10:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2024-12-29 04:30:17 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/baobab_wood": {
-    "criteria": {
-      "has_log": "2024-12-29 04:55:01 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/baobab_slab": {
-    "criteria": {
-      "has_baobab_planks": "2024-12-29 04:55:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2024-12-29 04:58:28 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/baobab_pressure_plate": {
-    "criteria": {
-      "has_baobab_planks": "2024-12-29 04:55:06 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_red_leggings": {
-    "criteria": {
-      "has_item": "2024-12-29 04:53:15 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/baobab_door": {
-    "criteria": {
-      "has_baobab_planks": "2024-12-29 04:55:06 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/baobab_sign": {
-    "criteria": {
-      "has_baobab_planks": "2024-12-29 04:55:06 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/socotra_branch_from_socotra_log": {
-    "criteria": {
-      "has_log": "2024-12-29 05:10:12 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_red_boots": {
-    "criteria": {
-      "has_item": "2024-12-29 04:53:15 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:this_tree_bleeds_red": {
-    "criteria": {
-      "socotra_log": "2024-12-29 05:10:12 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/baobab_branch_from_baobab_log": {
-    "criteria": {
-      "has_log": "2024-12-29 04:55:01 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/baobab_fence": {
-    "criteria": {
-      "has_baobab_planks": "2024-12-29 04:55:06 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_cyclops": {
-    "criteria": {
-      "killed_fire_dragon": "2024-12-29 04:52:11 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/baobab_trapdoor": {
-    "criteria": {
-      "has_baobab_planks": "2024-12-29 04:55:06 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/tarantula_hawk": {
-    "criteria": {
-      "killed_by": "2024-12-29 04:59:08 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/baobab_button": {
-    "criteria": {
-      "has_baobab_planks": "2024-12-29 04:55:06 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/baobab_stairs": {
-    "criteria": {
-      "has_baobab_planks": "2024-12-29 04:55:06 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
-    "criteria": {
-      "has_sea_serpent_scales_red": "2024-12-29 04:53:15 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/socotra_planks": {
-    "criteria": {
-      "has_logs": "2024-12-29 05:10:12 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/baobab_fence_gate": {
-    "criteria": {
-      "has_baobab_planks": "2024-12-29 04:55:06 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_red_chestplate": {
-    "criteria": {
-      "has_item": "2024-12-29 04:53:15 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/baobab_planks": {
-    "criteria": {
-      "has_logs": "2024-12-29 04:55:01 +0000"
     },
     "done": true
   },
@@ -7351,9 +7213,147 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-29 04:52:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_leggings": {
+    "criteria": {
+      "has_item": "2024-12-29 04:53:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_boots": {
+    "criteria": {
+      "has_item": "2024-12-29 04:53:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
+    "criteria": {
+      "has_sea_serpent_scales_red": "2024-12-29 04:53:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-29 04:53:15 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_red_helmet": {
     "criteria": {
       "has_item": "2024-12-29 04:53:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/baobab_wood": {
+    "criteria": {
+      "has_log": "2024-12-29 04:55:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/baobab_branch_from_baobab_log": {
+    "criteria": {
+      "has_log": "2024-12-29 04:55:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/baobab_planks": {
+    "criteria": {
+      "has_logs": "2024-12-29 04:55:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/baobab_slab": {
+    "criteria": {
+      "has_baobab_planks": "2024-12-29 04:55:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/baobab_pressure_plate": {
+    "criteria": {
+      "has_baobab_planks": "2024-12-29 04:55:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/baobab_door": {
+    "criteria": {
+      "has_baobab_planks": "2024-12-29 04:55:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/baobab_sign": {
+    "criteria": {
+      "has_baobab_planks": "2024-12-29 04:55:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/baobab_fence": {
+    "criteria": {
+      "has_baobab_planks": "2024-12-29 04:55:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/baobab_trapdoor": {
+    "criteria": {
+      "has_baobab_planks": "2024-12-29 04:55:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/baobab_button": {
+    "criteria": {
+      "has_baobab_planks": "2024-12-29 04:55:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/baobab_stairs": {
+    "criteria": {
+      "has_baobab_planks": "2024-12-29 04:55:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/baobab_fence_gate": {
+    "criteria": {
+      "has_baobab_planks": "2024-12-29 04:55:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-29 04:58:28 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2024-12-29 04:59:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/socotra_wood": {
+    "criteria": {
+      "has_log": "2024-12-29 05:10:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/socotra_branch_from_socotra_log": {
+    "criteria": {
+      "has_log": "2024-12-29 05:10:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:this_tree_bleeds_red": {
+    "criteria": {
+      "socotra_log": "2024-12-29 05:10:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/socotra_planks": {
+    "criteria": {
+      "has_logs": "2024-12-29 05:10:12 +0000"
     },
     "done": true
   },

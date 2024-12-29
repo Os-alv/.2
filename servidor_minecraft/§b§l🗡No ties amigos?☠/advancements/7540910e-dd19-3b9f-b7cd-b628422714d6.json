@@ -6960,7 +6960,19 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/brimwood_sapling_from_brimwood_shrub": {
+    "criteria": {
+      "has_brimwood_shrub": "2024-12-29 04:43:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-29 04:59:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2024-12-29 04:59:18 +0000"
     },
@@ -6972,9 +6984,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/misc/brimwood_sapling_from_brimwood_shrub": {
+  "mowziesmobs:kill_umvuthi": {
     "criteria": {
-      "has_brimwood_shrub": "2024-12-29 04:43:25 +0000"
+      "barako": "2024-12-29 05:07:30 +0000"
     },
     "done": true
   },
@@ -6984,15 +6996,27 @@
     },
     "done": true
   },
-  "mowziesmobs:kill_umvuthi": {
+  "tombstone:adventure/use_mercy": {
     "criteria": {
-      "barako": "2024-12-29 05:07:30 +0000"
+      "has_magic_scroll": "2024-12-29 05:31:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
+  "tombstone:adventure/mutual_aid": {
     "criteria": {
-      "has_iron_block": "2024-12-29 04:59:18 +0000"
+      "coded_trigger": "2024-12-29 05:31:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2024-12-29 05:51:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_aquatic_life": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-29 05:55:00 +0000"
     },
     "done": true
   },

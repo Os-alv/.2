@@ -436,3 +436,103 @@
 [29Dec2024 05:25:25.976] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
 [29Dec2024 05:25:25.980] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
 [29Dec2024 05:25:51.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu experienced kinetic energy
+[29Dec2024 05:26:16.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Dungeon Effigy
+[29Dec2024 05:26:16.799] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[29Dec2024 05:26:16.804] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[29Dec2024 05:26:20.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was slain by Dungeon Effigy
+[29Dec2024 05:26:20.704] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[29Dec2024 05:26:20.712] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[29Dec2024 05:26:21.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was blown up by Dungeon Effigy
+[29Dec2024 05:26:21.282] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[29Dec2024 05:27:20.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram was slain by Dungeon Effigy
+[29Dec2024 05:27:56.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was shot by Dungeon Sentry
+[29Dec2024 05:27:56.807] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
+[29Dec2024 05:27:56.811] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[29Dec2024 05:28:02.979] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d72e33c0-cade-33f4-8968-a71c4f61cbe5 timed out
+[29Dec2024 05:28:02.980] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player ram
+[29Dec2024 05:28:02.981] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to ram
+[29Dec2024 05:28:05.446] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram lost connection: Disconnected
+[29Dec2024 05:28:05.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram left the game
+[29Dec2024 05:28:05.448] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ram
+[29Dec2024 05:28:11.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to manu]
+[29Dec2024 05:29:36.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was shot by Dungeon Sentry
+[29Dec2024 05:29:36.796] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[29Dec2024 05:29:36.798] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[29Dec2024 05:29:52.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was shot by Dungeon Sentry
+[29Dec2024 05:30:19.602] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ram[/127.202.63.170:34779] logged in with entity id 29883 at (207.4895513844026, 63.0, -3036.002961896651)
+[29Dec2024 05:30:19.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram joined the game
+[29Dec2024 05:30:20.613] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ram (18)
+[29Dec2024 05:30:20.614] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ram
+[29Dec2024 05:30:26.122] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d72e33c0-cade-33f4-8968-a71c4f61cbe5
+[29Dec2024 05:30:27.124] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d72e33c0-cade-33f4-8968-a71c4f61cbe5
+[29Dec2024 05:30:27.125] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ram (d72e33c0-cade-33f4-8968-a71c4f61cbe5) successfully connected to voice chat
+[29Dec2024 05:30:40.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was shot by Dungeon Sentry
+[29Dec2024 05:30:40.215] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[29Dec2024 05:30:40.217] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[29Dec2024 05:30:46.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was shot by Dungeon Sentry
+[29Dec2024 05:31:35.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has made the advancement [Mutual Aid]
+[29Dec2024 05:31:35.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has reached the goal [A self-respecting Soul]
+[29Dec2024 05:33:29.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [Cover Me with Diamonds]
+[29Dec2024 05:35:07.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Dungeon Effigy
+[29Dec2024 05:35:07.050] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[29Dec2024 05:35:07.056] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[29Dec2024 05:35:46.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was slain by Dungeon Effigy
+[29Dec2024 05:36:12.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was slain by Dungeon Effigy
+[29Dec2024 05:36:12.657] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
+[29Dec2024 05:36:12.665] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[29Dec2024 05:36:19.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Dungeon Effigy
+[29Dec2024 05:36:19.294] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[29Dec2024 05:36:19.303] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[29Dec2024 05:36:25.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was slain by Dungeon Effigy
+[29Dec2024 05:36:42.771] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player f462eb29-aa29-3588-8da2-a2565774ca02 timed out
+[29Dec2024 05:36:42.772] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player ADMIN
+[29Dec2024 05:36:42.774] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to ADMIN
+[29Dec2024 05:36:42.775] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 7540910e-dd19-3b9f-b7cd-b628422714d6 timed out
+[29Dec2024 05:36:42.775] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player manu
+[29Dec2024 05:36:42.775] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to manu
+[29Dec2024 05:36:52.999] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN lost connection: Timed out
+[29Dec2024 05:36:53.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN left the game
+[29Dec2024 05:36:53.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN was slain by Dungeon Effigy
+[29Dec2024 05:36:53.018] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ADMIN
+[29Dec2024 05:36:53.041] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manu lost connection: Timed out
+[29Dec2024 05:36:53.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu left the game
+[29Dec2024 05:36:53.042] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client manu
+[29Dec2024 05:44:28.837] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ADMIN[/127.227.189.202:56927] logged in with entity id 32306 at (190.60570812052958, 88.0, -3046.4987663016373)
+[29Dec2024 05:44:28.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN joined the game
+[29Dec2024 05:44:29.281] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ADMIN (18)
+[29Dec2024 05:44:29.281] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ADMIN
+[29Dec2024 05:44:38.475] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f462eb29-aa29-3588-8da2-a2565774ca02
+[29Dec2024 05:44:39.477] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f462eb29-aa29-3588-8da2-a2565774ca02
+[29Dec2024 05:44:39.479] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ADMIN (f462eb29-aa29-3588-8da2-a2565774ca02) successfully connected to voice chat
+[29Dec2024 05:48:16.568] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: manu[/127.227.189.202:35621] logged in with entity id 33513 at (814.4968754626374, 67.0, 22.311456875439067)
+[29Dec2024 05:48:16.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu joined the game
+[29Dec2024 05:48:19.580] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of manu (18)
+[29Dec2024 05:48:19.582] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to manu
+[29Dec2024 05:48:25.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to ram]
+[29Dec2024 05:48:29.642] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7540910e-dd19-3b9f-b7cd-b628422714d6
+[29Dec2024 05:48:30.629] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7540910e-dd19-3b9f-b7cd-b628422714d6
+[29Dec2024 05:48:30.630] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player manu (7540910e-dd19-3b9f-b7cd-b628422714d6) successfully connected to voice chat
+[29Dec2024 05:50:04.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was shot by Dungeon Sentry
+[29Dec2024 05:50:04.353] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[29Dec2024 05:50:04.357] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[29Dec2024 05:50:33.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was shot by Dungeon Sentry
+[29Dec2024 05:50:33.397] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[29Dec2024 05:50:33.400] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[29Dec2024 05:51:34.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has made the advancement [Where Is The Stone Pen?]
+[29Dec2024 05:52:54.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported manu to ram]
+[29Dec2024 05:53:38.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Dungeon Effigy
+[29Dec2024 05:53:38.394] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[29Dec2024 05:53:38.405] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[29Dec2024 05:53:39.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was slain by Dungeon Effigy
+[29Dec2024 05:53:39.801] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[29Dec2024 05:53:39.827] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[29Dec2024 05:53:49.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to manu]
+[29Dec2024 05:53:52.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu blew up
+[29Dec2024 05:53:52.321] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[29Dec2024 05:55:00.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has reached the goal [Waterworld]
+[29Dec2024 05:55:36.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was slain by Dungeon Effigy
+[29Dec2024 05:55:36.494] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[29Dec2024 05:55:36.500] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[29Dec2024 05:55:46.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was slain by Dungeon Effigy
+[29Dec2024 05:55:46.945] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
+[29Dec2024 05:55:46.953] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved

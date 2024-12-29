@@ -6730,15 +6730,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-12-29 05:13:14 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/banana": {
     "criteria": {
       "banana": "2024-12-29 05:13:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_planks": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "has_logs": "2024-12-29 05:13:14 +0000"
+      "diamond_boots": "2024-12-29 05:33:29 +0000"
     },
     "done": true
   },
