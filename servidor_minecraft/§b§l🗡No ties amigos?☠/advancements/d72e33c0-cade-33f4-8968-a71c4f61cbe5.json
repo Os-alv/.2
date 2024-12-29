@@ -57,6 +57,7 @@
     "criteria": {
       "silver_birch_forest": "2024-12-11 19:29:28 +0000",
       "shrubland": "2024-12-28 06:27:48 +0000",
+      "dry_bushland": "2024-12-29 05:06:10 +0000",
       "fen": "2024-12-20 01:24:58 +0000",
       "pine_taiga": "2024-12-20 02:39:10 +0000",
       "muddy_river": "2024-12-20 01:05:47 +0000",
@@ -91,6 +92,7 @@
     "criteria": {
       "silver_birch_forest": "2024-12-11 19:29:28 +0000",
       "shrubland": "2024-12-28 06:27:48 +0000",
+      "dry_bushland": "2024-12-29 05:06:10 +0000",
       "fen": "2024-12-20 01:24:58 +0000",
       "pine_taiga": "2024-12-20 02:39:10 +0000",
       "muddy_river": "2024-12-20 01:05:47 +0000",
@@ -6707,6 +6709,36 @@
   "iceandfire:recipes/tools/copper_sword": {
     "criteria": {
       "has_the_recipe": "2024-12-29 03:54:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_mangrove_wood": {
+    "criteria": {
+      "has_log": "2024-12-29 05:07:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2024-12-29 05:07:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-29 05:07:14 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2024-12-29 05:13:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-12-29 05:13:14 +0000"
     },
     "done": true
   },

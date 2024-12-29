@@ -56,6 +56,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "silver_birch_forest": "2024-12-11 21:29:04 +0000",
+      "dry_bushland": "2024-12-29 05:06:17 +0000",
       "fen": "2024-12-20 01:25:02 +0000",
       "pine_taiga": "2024-12-14 04:58:57 +0000",
       "autumnal_maple_forest": "2024-12-20 00:24:15 +0000",
@@ -94,6 +95,7 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "silver_birch_forest": "2024-12-11 21:29:04 +0000",
+      "dry_bushland": "2024-12-29 05:06:17 +0000",
       "fen": "2024-12-20 01:25:02 +0000",
       "pine_taiga": "2024-12-14 04:58:57 +0000",
       "autumnal_maple_forest": "2024-12-20 00:24:15 +0000",
@@ -2179,6 +2181,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-29 05:13:00 +0000",
       "cooked_mutton": "2024-12-12 03:32:58 +0000",
       "sweet_berries": "2024-12-11 07:15:51 +0000",
       "cooked_beef": "2024-12-12 02:39:09 +0000",
@@ -6963,9 +6966,21 @@
     },
     "done": true
   },
+  "mowziesmobs:sneak_grove": {
+    "criteria": {
+      "steal_crystal": "2024-12-29 05:06:48 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/brimwood_sapling_from_brimwood_shrub": {
     "criteria": {
       "has_brimwood_shrub": "2024-12-29 04:43:25 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2024-12-29 05:07:30 +0000"
     },
     "done": true
   },
