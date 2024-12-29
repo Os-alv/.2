@@ -807,3 +807,11 @@
 [29Dec2024 07:37:42.210] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
 [29Dec2024 07:37:42.213] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
 [29Dec2024 07:38:01.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ram to manu]
+[29Dec2024 07:41:12.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> [x:20, y:69, z:-708, dim:minecraft:overworld]
+[29Dec2024 07:41:49.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> [x:30, y:62, z:-679, dim:minecraft:overworld]
+[29Dec2024 07:45:13.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! 2.883300337996843,-10.63868240483211,0.006050979347918428
+[29Dec2024 07:45:35.643] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2105ms or 42 ticks behind
+[29Dec2024 07:46:17.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was slain by Zombie
+[29Dec2024 07:46:17.047] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[29Dec2024 07:46:17.058] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[29Dec2024 07:48:05.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has completed the challenge [A Soul for a Soul]
