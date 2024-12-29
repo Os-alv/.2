@@ -7967,3 +7967,8 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [29Dec2024 07:06:39.405] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
 [29Dec2024 07:06:45.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was slain by Dungeon Effigy
 [29Dec2024 07:06:45.603] [Server thread/DEBUG] [tombstone/]: A new grave of the player manu was created at position [x:1113, y:72, z:3, dim:minecraft:overworld]
+[29Dec2024 07:10:39.510] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[29Dec2024 07:10:39.525] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[29Dec2024 07:11:13.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has reached the goal [Death Will Not Be Enough]
+[29Dec2024 07:15:39.552] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[29Dec2024 07:15:39.572] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠

@@ -676,3 +676,4 @@
 [29Dec2024 07:06:39.402] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
 [29Dec2024 07:06:39.405] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
 [29Dec2024 07:06:45.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was slain by Dungeon Effigy
+[29Dec2024 07:11:13.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has reached the goal [Death Will Not Be Enough]
