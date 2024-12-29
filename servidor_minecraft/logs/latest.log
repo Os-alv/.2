@@ -626,3 +626,25 @@
 [29Dec2024 06:26:16.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram was simmered in stygian blood
 [29Dec2024 06:26:16.550] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
 [29Dec2024 06:26:47.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ram to ADMIN]
+[29Dec2024 06:28:39.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Trial Guardian
+[29Dec2024 06:28:39.657] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[29Dec2024 06:28:39.666] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[29Dec2024 06:28:47.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN boiled away whilst trying to escape Trial Guardian
+[29Dec2024 06:28:47.547] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
+[29Dec2024 06:28:47.558] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[29Dec2024 06:28:47.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was slain by Trial Guardian
+[29Dec2024 06:28:49.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN was simmered in stygian blood
+[29Dec2024 06:28:49.547] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[29Dec2024 06:29:31.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to ram]
+[29Dec2024 06:32:04.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to ram]
+[29Dec2024 06:37:18.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu blew up
+[29Dec2024 06:37:18.947] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[29Dec2024 06:37:18.950] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[29Dec2024 06:37:25.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was wiped off the map
+[29Dec2024 06:37:25.140] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[29Dec2024 06:37:25.156] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[29Dec2024 06:37:25.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu blew up
+[29Dec2024 06:40:21.996] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Satu'/50080, l='ServerLevel[🗡No ties amigos?☠]', x=949.58, y=66.00, z=12.42] died: Satu burned to death
+[29Dec2024 06:40:47.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to manu]
+[29Dec2024 06:46:37.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ram to manu]
+[29Dec2024 06:46:49.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to manu]
