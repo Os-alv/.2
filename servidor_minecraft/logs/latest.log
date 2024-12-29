@@ -815,3 +815,26 @@
 [29Dec2024 07:46:17.047] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
 [29Dec2024 07:46:17.058] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
 [29Dec2024 07:48:05.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has completed the challenge [A Soul for a Soul]
+[29Dec2024 07:48:42.423] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ulpt'/83576, l='ServerLevel[🗡No ties amigos?☠]', x=738.30, y=68.00, z=128.26] died, message: 'Ulpt was slain by ADMIN'
+[29Dec2024 07:48:42.427] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ulpt'/83576, l='ServerLevel[🗡No ties amigos?☠]', x=738.30, y=68.00, z=128.26] died: Ulpt was slain by ADMIN
+[29Dec2024 07:48:46.982] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Rupert'/84774, l='ServerLevel[🗡No ties amigos?☠]', x=747.19, y=68.00, z=129.31] died, message: 'Rupert was slain by ADMIN'
+[29Dec2024 07:48:46.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [Crime in Town]
+[29Dec2024 07:48:46.986] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Rupert'/84774, l='ServerLevel[🗡No ties amigos?☠]', x=747.19, y=68.00, z=129.31] died: Rupert was slain by ADMIN
+[29Dec2024 07:49:44.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Dungeon Effigy
+[29Dec2024 07:49:44.355] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[29Dec2024 07:49:44.357] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[29Dec2024 07:49:57.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported manu to ADMIN]
+[29Dec2024 07:50:23.619] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Manuel'/83567, l='ServerLevel[🗡No ties amigos?☠]', x=739.74, y=68.00, z=110.26] died, message: 'Manuel was slain by ADMIN'
+[29Dec2024 07:50:23.620] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Manuel'/83567, l='ServerLevel[🗡No ties amigos?☠]', x=739.74, y=68.00, z=110.26] died: Manuel was slain by ADMIN
+[29Dec2024 07:59:44.001] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[29Dec2024 07:59:44.003] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[29Dec2024 08:00:43.301] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN lost connection: Disconnected
+[29Dec2024 08:00:43.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN left the game
+[29Dec2024 08:00:43.303] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ADMIN
+[29Dec2024 08:13:42.446] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 7540910e-dd19-3b9f-b7cd-b628422714d6 timed out
+[29Dec2024 08:13:42.448] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player manu
+[29Dec2024 08:13:42.449] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to manu
+[29Dec2024 08:13:53.753] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manu lost connection: Timed out
+[29Dec2024 08:13:53.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu left the game
+[29Dec2024 08:13:53.754] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client manu
+[29Dec2024 08:13:53.795] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice

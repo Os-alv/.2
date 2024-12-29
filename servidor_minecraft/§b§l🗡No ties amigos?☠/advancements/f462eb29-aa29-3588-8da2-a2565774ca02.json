@@ -7429,6 +7429,12 @@
     },
     "done": true
   },
+  "mca:adventure/scythe_revive": {
+    "criteria": {
+      "iron": "2024-12-29 07:48:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2024-12-29 07:05:17 +0000"
@@ -7462,6 +7468,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-29 07:05:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/crime_in_town": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 07:48:46 +0000"
     },
     "done": true
   },
