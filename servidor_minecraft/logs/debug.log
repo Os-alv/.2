@@ -7868,3 +7868,28 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [29Dec2024 06:16:23.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Dungeon Effigy
 [29Dec2024 06:16:23.446] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
 [29Dec2024 06:16:23.451] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[29Dec2024 06:16:56.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was shot by Dungeon Sentry
+[29Dec2024 06:16:56.280] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
+[29Dec2024 06:16:56.284] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[29Dec2024 06:19:53.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to ram]
+[29Dec2024 06:20:39.593] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[29Dec2024 06:20:39.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[29Dec2024 06:20:42.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported manu to ram]
+[29Dec2024 06:22:12.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported manu to ram]
+[29Dec2024 06:23:12.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to ram]
+[29Dec2024 06:24:26.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to ram]
+[29Dec2024 06:24:35.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was simmered in stygian blood
+[29Dec2024 06:24:35.250] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[29Dec2024 06:24:35.252] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[29Dec2024 06:24:37.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram was simmered in stygian blood
+[29Dec2024 06:24:37.248] [Server thread/DEBUG] [tombstone/]: A new grave of the player ram was created at position [x:197, y:38, z:-3046, dim:minecraft:overworld]
+[29Dec2024 06:24:37.269] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[29Dec2024 06:25:39.390] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[29Dec2024 06:25:39.401] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[29Dec2024 06:26:14.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was simmered in stygian blood
+[29Dec2024 06:26:14.547] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[29Dec2024 06:26:14.551] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[29Dec2024 06:26:16.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram was simmered in stygian blood
+[29Dec2024 06:26:16.548] [Server thread/DEBUG] [tombstone/]: A new grave of the player ram was created at position [x:203, y:36, z:-3066, dim:minecraft:overworld]
+[29Dec2024 06:26:16.550] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[29Dec2024 06:26:47.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ram to ADMIN]
