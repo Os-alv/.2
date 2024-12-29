@@ -7780,3 +7780,63 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [29Dec2024 05:55:46.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was slain by Dungeon Effigy
 [29Dec2024 05:55:46.945] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
 [29Dec2024 05:55:46.953] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[29Dec2024 05:57:12.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Dungeon Effigy
+[29Dec2024 05:57:12.347] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[29Dec2024 05:57:12.352] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[29Dec2024 05:57:18.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was slain by Dungeon Effigy
+[29Dec2024 05:57:18.569] [Server thread/DEBUG] [tombstone/]: A new grave of the player manu was created at position [x:195, y:100, z:-3056, dim:minecraft:overworld]
+[29Dec2024 05:57:43.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was shot by Dungeon Sentry
+[29Dec2024 05:57:43.651] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[29Dec2024 05:57:43.656] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[29Dec2024 05:57:58.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was shot by Dungeon Sentry
+[29Dec2024 05:57:58.462] [Server thread/DEBUG] [tombstone/]: A new grave of the player manu was created at position [x:196, y:101, z:-3055, dim:minecraft:overworld]
+[29Dec2024 05:58:16.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was blown up by Dungeon Effigy
+[29Dec2024 05:58:16.153] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[29Dec2024 05:58:16.155] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[29Dec2024 05:58:25.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu blew up
+[29Dec2024 05:58:46.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was shot by Dungeon Sentry
+[29Dec2024 05:58:46.903] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[29Dec2024 05:58:46.906] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[29Dec2024 05:58:51.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to manu]
+[29Dec2024 05:59:02.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was shot by Dungeon Sentry
+[29Dec2024 05:59:02.117] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
+[29Dec2024 05:59:02.123] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[29Dec2024 05:59:08.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was shot by Dungeon Sentry
+[29Dec2024 05:59:38.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has made the advancement [Poseidon, God of the Seas]
+[29Dec2024 06:00:27.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was shot by Dungeon Sentry
+[29Dec2024 06:00:27.548] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[29Dec2024 06:00:27.551] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[29Dec2024 06:00:35.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was shot by Dungeon Sentry
+[29Dec2024 06:00:35.265] [Server thread/DEBUG] [tombstone/]: A new grave of the player manu was created at position [x:197, y:100, z:-3049, dim:minecraft:overworld]
+[29Dec2024 06:00:40.300] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[29Dec2024 06:00:40.319] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[29Dec2024 06:01:03.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Dungeon Effigy
+[29Dec2024 06:01:03.400] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[29Dec2024 06:01:03.402] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[29Dec2024 06:01:06.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was slain by Dungeon Effigy
+[29Dec2024 06:01:07.000] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[29Dec2024 06:01:07.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was blown up by Dungeon Effigy
+[29Dec2024 06:01:07.006] [Server thread/DEBUG] [tombstone/]: A new grave of the player manu was created at position [x:185, y:100, z:-3049, dim:minecraft:overworld]
+[29Dec2024 06:01:07.007] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[29Dec2024 06:01:07.008] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[29Dec2024 06:01:14.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram blew up
+[29Dec2024 06:01:14.108] [Server thread/DEBUG] [tombstone/]: A new grave of the player ram was created at position [x:190, y:100, z:-3049, dim:minecraft:overworld]
+[29Dec2024 06:01:14.109] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[29Dec2024 06:03:16.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Dungeon Effigy
+[29Dec2024 06:03:16.397] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[29Dec2024 06:03:16.405] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[29Dec2024 06:03:32.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was slain by Dungeon Effigy
+[29Dec2024 06:03:32.005] [Server thread/DEBUG] [tombstone/]: A new grave of the player manu was created at position [x:191, y:106, z:-3051, dim:minecraft:overworld]
+[29Dec2024 06:04:19.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was shot by Dungeon Sentry
+[29Dec2024 06:04:19.300] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[29Dec2024 06:04:19.303] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[29Dec2024 06:04:25.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was shot by Dungeon Sentry
+[29Dec2024 06:04:25.798] [Server thread/DEBUG] [tombstone/]: A new grave of the player manu was created at position [x:206, y:106, z:-3054, dim:minecraft:overworld]
+[29Dec2024 06:04:51.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was shot by Dungeon Sentry
+[29Dec2024 06:04:51.498] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[29Dec2024 06:04:51.501] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[29Dec2024 06:05:39.478] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[29Dec2024 06:05:39.495] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[29Dec2024 06:06:04.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was shot by Dungeon Sentry
+[29Dec2024 06:06:04.149] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
+[29Dec2024 06:06:04.153] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
