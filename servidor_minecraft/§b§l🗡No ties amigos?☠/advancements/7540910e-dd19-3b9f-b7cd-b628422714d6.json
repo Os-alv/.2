@@ -6957,9 +6957,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-29 04:59:18 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/brimwood_sapling_from_brimwood_shrub": {
     "criteria": {
       "has_brimwood_shrub": "2024-12-29 04:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-29 04:59:18 +0000"
     },
     "done": true
   },

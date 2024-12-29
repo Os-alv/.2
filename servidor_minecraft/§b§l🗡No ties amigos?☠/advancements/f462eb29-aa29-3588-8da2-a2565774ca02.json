@@ -63,6 +63,7 @@
       "willow_forest": "2024-12-11 07:31:58 +0000",
       "frozen_tundra": "2024-12-18 05:09:27 +0000",
       "barley_fields": "2024-12-21 05:13:12 +0000",
+      "rocky_reef": "2024-12-29 04:53:54 +0000",
       "grassy_beach": "2024-12-11 05:52:05 +0000",
       "scorching_caves": "2024-12-12 01:20:12 +0000",
       "blackwood_taiga": "2024-12-11 06:55:10 +0000",
@@ -77,8 +78,10 @@
       "towering_cliffs": "2024-12-20 01:42:02 +0000",
       "infernal_holt": "2024-12-12 03:00:26 +0000",
       "cold_boreal_taiga": "2024-12-21 05:49:28 +0000",
+      "saguaro_desert": "2024-12-29 04:58:09 +0000",
       "temperate_grove": "2024-12-11 06:52:18 +0000",
       "cold_river": "2024-12-14 05:28:17 +0000",
+      "baobab_savanna": "2024-12-29 04:54:50 +0000",
       "grassland": "2024-12-21 04:53:23 +0000",
       "prairie": "2024-12-21 05:12:56 +0000",
       "gravel_beach": "2024-12-14 04:57:54 +0000",
@@ -98,6 +101,7 @@
       "willow_forest": "2024-12-11 07:31:58 +0000",
       "frozen_tundra": "2024-12-18 05:09:27 +0000",
       "barley_fields": "2024-12-21 05:13:12 +0000",
+      "rocky_reef": "2024-12-29 04:53:54 +0000",
       "grassy_beach": "2024-12-11 05:52:05 +0000",
       "blackwood_taiga": "2024-12-11 06:55:10 +0000",
       "rocky_meadow": "2024-12-11 21:28:46 +0000",
@@ -108,8 +112,10 @@
       "boreal_forest": "2024-12-12 07:31:45 +0000",
       "towering_cliffs": "2024-12-20 01:42:02 +0000",
       "cold_boreal_taiga": "2024-12-21 05:49:28 +0000",
+      "saguaro_desert": "2024-12-29 04:58:09 +0000",
       "temperate_grove": "2024-12-11 06:52:18 +0000",
       "cold_river": "2024-12-14 05:28:17 +0000",
+      "baobab_savanna": "2024-12-29 04:54:50 +0000",
       "grassland": "2024-12-21 04:53:23 +0000",
       "prairie": "2024-12-21 05:12:56 +0000",
       "gravel_beach": "2024-12-14 04:57:54 +0000",
@@ -297,6 +303,7 @@
       "magnolia_log": "2024-12-18 02:46:02 +0000",
       "willow_log": "2024-12-11 22:06:30 +0000",
       "yellow_bioshroom_stem": "2024-12-12 03:04:28 +0000",
+      "baobab_log": "2024-12-29 04:55:01 +0000",
       "pine_log": "2024-12-28 04:59:47 +0000",
       "small_oak_log": "2024-12-11 22:49:17 +0000",
       "cobalt_log": "2024-12-12 02:50:41 +0000",
@@ -7180,6 +7187,120 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/baobab_wood": {
+    "criteria": {
+      "has_log": "2024-12-29 04:55:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/baobab_slab": {
+    "criteria": {
+      "has_baobab_planks": "2024-12-29 04:55:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-29 04:58:28 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/baobab_pressure_plate": {
+    "criteria": {
+      "has_baobab_planks": "2024-12-29 04:55:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_leggings": {
+    "criteria": {
+      "has_item": "2024-12-29 04:53:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/baobab_door": {
+    "criteria": {
+      "has_baobab_planks": "2024-12-29 04:55:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/baobab_sign": {
+    "criteria": {
+      "has_baobab_planks": "2024-12-29 04:55:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_boots": {
+    "criteria": {
+      "has_item": "2024-12-29 04:53:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/baobab_branch_from_baobab_log": {
+    "criteria": {
+      "has_log": "2024-12-29 04:55:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/baobab_fence": {
+    "criteria": {
+      "has_baobab_planks": "2024-12-29 04:55:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-29 04:52:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/baobab_trapdoor": {
+    "criteria": {
+      "has_baobab_planks": "2024-12-29 04:55:06 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2024-12-29 04:59:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/baobab_button": {
+    "criteria": {
+      "has_baobab_planks": "2024-12-29 04:55:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/baobab_stairs": {
+    "criteria": {
+      "has_baobab_planks": "2024-12-29 04:55:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
+    "criteria": {
+      "has_sea_serpent_scales_red": "2024-12-29 04:53:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/baobab_fence_gate": {
+    "criteria": {
+      "has_baobab_planks": "2024-12-29 04:55:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-29 04:53:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/baobab_planks": {
+    "criteria": {
+      "has_logs": "2024-12-29 04:55:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2024-12-29 04:30:17 +0000"
@@ -7195,6 +7316,12 @@
   "mowziesmobs:kill_foliaath": {
     "criteria": {
       "foliaath": "2024-12-29 04:48:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_helmet": {
+    "criteria": {
+      "has_item": "2024-12-29 04:53:15 +0000"
     },
     "done": true
   },
