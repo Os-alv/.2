@@ -75,6 +75,7 @@
       "boreal_forest": "2024-12-14 04:59:16 +0000",
       "blackstone_basin": "2024-12-12 02:48:37 +0000",
       "towering_cliffs": "2024-12-20 01:01:45 +0000",
+      "infernal_holt": "2024-12-29 04:43:13 +0000",
       "cold_boreal_taiga": "2024-12-18 05:26:41 +0000",
       "temperate_grove": "2024-12-11 07:31:55 +0000",
       "cold_river": "2024-12-14 05:04:26 +0000",
@@ -3091,7 +3092,8 @@
   "regions_unexplored:eternal_expedition": {
     "criteria": {
       "mycotoxic_undergrowth": "2024-12-12 03:07:47 +0000",
-      "blackstone_basin": "2024-12-12 02:48:37 +0000"
+      "blackstone_basin": "2024-12-12 02:48:37 +0000",
+      "infernal_holt": "2024-12-29 04:43:13 +0000"
     },
     "done": false
   },
@@ -3272,7 +3274,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-12-12 03:02:36 +0000",
-      "minecraft:nether_wastes": "2024-12-12 03:02:38 +0000"
+      "minecraft:nether_wastes": "2024-12-12 03:02:38 +0000",
+      "minecraft:soul_sand_valley": "2024-12-29 04:43:31 +0000"
     },
     "done": false
   },
@@ -6951,6 +6954,12 @@
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2024-12-29 04:19:33 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/brimwood_sapling_from_brimwood_shrub": {
+    "criteria": {
+      "has_brimwood_shrub": "2024-12-29 04:43:25 +0000"
     },
     "done": true
   },

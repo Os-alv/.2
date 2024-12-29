@@ -243,3 +243,75 @@
 [29Dec2024 04:21:41.352] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of manu (18)
 [29Dec2024 04:21:41.355] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to manu
 [29Dec2024 04:22:00.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ADMIN> me olles?
+[29Dec2024 04:24:34.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> no me escuchas por que
+[29Dec2024 04:24:41.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> si
+[29Dec2024 04:24:55.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> pero yo no puedo tener activado el micro
+[29Dec2024 04:24:59.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> me lo cierra
+[29Dec2024 04:27:59.963] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4225ms or 84 ticks behind
+[29Dec2024 04:28:30.052] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manu lost connection: Timed out
+[29Dec2024 04:28:30.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu left the game
+[29Dec2024 04:28:30.055] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client manu
+[29Dec2024 04:36:14.591] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: manu[/127.227.189.202:39177] logged in with entity id 4203 at (98.99516712897108, 46.0, 24.050095590896785)
+[29Dec2024 04:36:14.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu joined the game
+[29Dec2024 04:36:16.342] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of manu (18)
+[29Dec2024 04:36:16.346] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to manu
+[29Dec2024 04:36:31.984] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7540910e-dd19-3b9f-b7cd-b628422714d6
+[29Dec2024 04:36:32.984] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7540910e-dd19-3b9f-b7cd-b628422714d6
+[29Dec2024 04:36:32.985] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player manu (7540910e-dd19-3b9f-b7cd-b628422714d6) successfully connected to voice chat
+[29Dec2024 04:38:04.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2917ms or 58 ticks behind
+[29Dec2024 04:38:04.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manu moved too quickly! 7.1631202407753705,0.0,7.350016309310767
+[29Dec2024 04:38:26.519] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
+[29Dec2024 04:39:14.456] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Dec2024 04:39:16.238] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Dec2024 04:39:16.563] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Dec2024 04:39:16.564] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Dec2024 04:39:17.776] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Dec2024 04:39:29.573] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Dec2024 04:39:29.694] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Dec2024 04:39:29.704] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Dec2024 04:39:29.705] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Dec2024 04:39:50.320] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[29Dec2024 04:39:50.732] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Dec2024 04:41:00.769] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Dec2024 04:41:00.771] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Dec2024 04:41:00.772] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Dec2024 04:41:00.774] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Dec2024 04:45:23.777] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2239ms or 44 ticks behind
+[29Dec2024 04:45:25.115] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Dec2024 04:45:25.126] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Dec2024 04:45:25.136] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Dec2024 04:45:25.138] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Dec2024 04:45:26.056] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Dec2024 04:45:26.058] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Dec2024 04:45:26.059] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Dec2024 04:45:26.060] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Dec2024 04:45:26.062] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Dec2024 04:45:36.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. %1$s was slain by %2$s
+[29Dec2024 04:45:36.922] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[29Dec2024 04:45:36.959] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[29Dec2024 04:45:55.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ram to ADMIN]
+[29Dec2024 04:45:56.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram was shot by ADMIN
+[29Dec2024 04:45:56.964] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[29Dec2024 04:46:14.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manu moved too quickly! 1.383456675654756,-10.983667688999148,-0.5023916367958918
+[29Dec2024 04:46:16.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu fell from a high place
+[29Dec2024 04:46:16.423] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[29Dec2024 04:46:16.480] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[29Dec2024 04:46:41.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu fell from a high place
+[29Dec2024 04:48:00.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [Jennifer Dumped Me]
+[29Dec2024 04:52:11.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [My Name is Nobody]
+[29Dec2024 04:52:15.953] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Dec2024 04:52:15.957] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Dec2024 04:52:15.960] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Dec2024 04:52:15.961] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Dec2024 04:52:23.471] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Dec2024 04:52:23.473] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Dec2024 04:52:23.475] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Dec2024 04:52:23.477] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Dec2024 04:52:23.725] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[29Dec2024 04:52:34.498] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 7540910e-dd19-3b9f-b7cd-b628422714d6 timed out
+[29Dec2024 04:52:34.499] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player manu
+[29Dec2024 04:52:34.502] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to manu
+[29Dec2024 04:52:38.693] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7540910e-dd19-3b9f-b7cd-b628422714d6
+[29Dec2024 04:52:39.679] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7540910e-dd19-3b9f-b7cd-b628422714d6
+[29Dec2024 04:52:39.679] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player manu (7540910e-dd19-3b9f-b7cd-b628422714d6) successfully connected to voice chat
+[29Dec2024 04:53:53.042] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3105ms or 62 ticks behind
