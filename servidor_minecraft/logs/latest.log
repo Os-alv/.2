@@ -199,3 +199,6 @@
 [29Dec2024 03:45:02.959] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ram
 [29Dec2024 03:45:02.999] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3935ms or 78 ticks behind
 [29Dec2024 03:53:16.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [Enchanter]
+[29Dec2024 04:12:19.022] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram lost connection: Disconnected
+[29Dec2024 04:12:19.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram left the game
+[29Dec2024 04:12:19.031] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ram
