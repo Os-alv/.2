@@ -7417,6 +7417,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_assistance": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 07:30:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2024-12-29 07:05:17 +0000"
