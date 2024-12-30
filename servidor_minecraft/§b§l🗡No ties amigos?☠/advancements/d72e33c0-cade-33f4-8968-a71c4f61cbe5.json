@@ -6756,6 +6756,24 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2024-12-29 07:35:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-29 07:37:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-29 07:37:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2024-12-29 08:03:11 +0000"
@@ -6768,27 +6786,15 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
-    "criteria": {
-      "has_silver_ingot": "2024-12-29 07:37:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2024-12-29 08:03:11 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
+  "tombstone:adventure/create_familiar_receptacle": {
     "criteria": {
-      "has_silver_ingot": "2024-12-29 07:37:37 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/gorgon_head": {
-    "criteria": {
-      "bestiary": "2024-12-29 07:35:56 +0000"
+      "has_familiar_receptacle": "2024-12-30 05:45:08 +0000"
     },
     "done": true
   },

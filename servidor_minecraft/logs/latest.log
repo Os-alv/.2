@@ -1,840 +1,283 @@
-[29Dec2024 04:13:27.139] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[29Dec2024 04:13:27.144] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[29Dec2024 04:13:28.473] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[29Dec2024 04:13:28.540] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/.2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[29Dec2024 04:13:29.076] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/.2/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[29Dec2024 04:13:29.078] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/.2/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[29Dec2024 04:13:29.079] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/.2/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[29Dec2024 04:13:29.083] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/.2/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[29Dec2024 04:13:29.329] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
-[29Dec2024 04:13:32.974] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[29Dec2024 04:13:33.142] [main/ERROR] [mixin/]: Mixin config cannibal.mixin.json does not specify "minVersion" property
-[29Dec2024 04:13:33.415] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
-[29Dec2024 04:13:33.419] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[29Dec2024 04:13:33.591] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Dec2024 04:13:36.247] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.2.0).
-[29Dec2024 04:13:54.266] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[29Dec2024 04:13:56.598] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[29Dec2024 04:13:56.601] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[29Dec2024 04:14:02.069] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.GrimReaperEntity from class forge.net.mca.util.network.datasync.CEnumParameter
-[29Dec2024 04:14:02.104] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:02.104] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:02.105] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:02.105] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:02.106] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:02.106] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:02.106] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:02.107] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[29Dec2024 04:14:02.109] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:02.110] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:02.111] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:02.112] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:02.113] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:02.113] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:02.114] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:02.114] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:02.115] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:02.115] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:02.116] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:02.116] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[29Dec2024 04:14:02.117] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:02.121] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:02.122] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[29Dec2024 04:14:02.122] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:02.123] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[29Dec2024 04:14:02.123] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[29Dec2024 04:14:02.124] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:02.124] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:02.125] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:02.125] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:02.126] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:02.128] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:02.132] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:02.133] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:02.135] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:02.135] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:02.136] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:02.841] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[29Dec2024 04:14:02.948] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[29Dec2024 04:14:02.969] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 1 plugin(s)
-[29Dec2024 04:14:02.969] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[29Dec2024 04:14:02.978] [modloading-worker-0/INFO] [Sound Physics - General/]: Initializing Simple Voice Chat integration
-[29Dec2024 04:14:02.984] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 1 plugin(s)
-[29Dec2024 04:14:02.986] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'sound_physics_remastered'
-[29Dec2024 04:14:03.132] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
-[29Dec2024 04:14:03.600] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.10-7 Target: null
-[29Dec2024 04:14:03.603] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[29Dec2024 04:14:03.611] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[29Dec2024 04:14:03.615] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[29Dec2024 04:14:03.616] [main/INFO] [terrablender/]: Registered region regions_unexplored:primary to index 1 for type OVERWORLD
-[29Dec2024 04:14:03.616] [main/INFO] [terrablender/]: Registered region regions_unexplored:secondary to index 2 for type OVERWORLD
-[29Dec2024 04:14:03.617] [main/INFO] [terrablender/]: Registered region regions_unexplored:nether to index 1 for type NETHER
-[29Dec2024 04:14:03.710] [main/INFO] [journeymap/]: Initializing Packet Registries
-[29Dec2024 04:14:03.861] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin waila:core at mcp.mobius.waila.plugin.core.WailaPluginCore
-[29Dec2024 04:14:03.884] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.WailaPluginVanilla
-[29Dec2024 04:14:03.888] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[29Dec2024 04:14:03.888] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[29Dec2024 04:14:03.975] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin waila:harvest at mcp.mobius.waila.plugin.harvest.WailaPluginHarvest
-[29Dec2024 04:14:03.981] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin waila:forge at mcp.mobius.waila.plugin.forge.WailaPluginForge
-[29Dec2024 04:14:03.989] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin securitycraft:plugin at net.geforcemods.securitycraft.compat.hudmods.WTHITDataProvider
-[29Dec2024 04:14:03.990] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin waila:extra at mcp.mobius.waila.plugin.extra.WailaPluginExtra
-[29Dec2024 04:14:04.108] [modloading-worker-0/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
-[29Dec2024 04:14:04.374] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.10 Target: 1.9.12
-[29Dec2024 04:14:04.374] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[29Dec2024 04:14:04.479] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.6.7 Target: 8.8.6
-[29Dec2024 04:14:04.479] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[29Dec2024 04:14:05.245] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.27 Target: null
-[29Dec2024 04:14:05.247] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
-[29Dec2024 04:14:05.398] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: AHEAD Current: 1.20.1-1.4.8 Target: null
-[29Dec2024 04:14:05.400] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[29Dec2024 04:14:05.641] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
-[29Dec2024 04:14:09.820] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[29Dec2024 04:14:13.645] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/.2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23185!/assets/.mcassetsroot' uses unexpected schema
-[29Dec2024 04:14:13.646] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/.2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23185!/data/.mcassetsroot' uses unexpected schema
-[29Dec2024 04:14:16.918] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[29Dec2024 04:14:23.314] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:roost:entities/roost_rider}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[29Dec2024 04:14:23.315] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:entities/villager}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[29Dec2024 04:14:23.534] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 23 recipes
-[29Dec2024 04:14:23.899] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement terramity:ocarina_advancement: Task Advancement{parentId=terramity:prismatic_jewel_advancement, display=net.minecraft.advancements.DisplayInfo@5909a262, rewards=AdvancementRewards{experience=60, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@441ef847}, criteria={ocarina_advancement_0=net.minecraft.advancements.Criterion@2f773cfc}, requirements=[[ocarina_advancement_0]], sends_telemetry_event=false}
-[29Dec2024 04:14:23.901] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement terramity:fairy_advancement: Task Advancement{parentId=terramity:deleted_mod_element, display=net.minecraft.advancements.DisplayInfo@e80ee15, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@441ef847}, criteria={fairy_advancement_0=net.minecraft.advancements.Criterion@1886b3e5}, requirements=[[fairy_advancement_0]], sends_telemetry_event=false}
-[29Dec2024 04:14:23.902] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement terramity:frenzied_flame_advancement: Task Advancement{parentId=terramity:prismatic_jewel_advancement, display=net.minecraft.advancements.DisplayInfo@628175d, rewards=AdvancementRewards{experience=100, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@441ef847}, criteria={frenzied_flame_advancement_0=net.minecraft.advancements.Criterion@2b1c95e6}, requirements=[[frenzied_flame_advancement_0]], sends_telemetry_event=false}
-[29Dec2024 04:14:23.904] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement terramity:microcosm_advancement: Task Advancement{parentId=terramity:prismatic_jewel_advancement, display=net.minecraft.advancements.DisplayInfo@938fbe7, rewards=AdvancementRewards{experience=20, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@441ef847}, criteria={microcosm_advancement_0=net.minecraft.advancements.Criterion@4644ec83}, requirements=[[microcosm_advancement_0]], sends_telemetry_event=false}
-[29Dec2024 04:14:23.905] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement terramity:opaline_moonstone_advancement: Task Advancement{parentId=terramity:prismatic_jewel_advancement, display=net.minecraft.advancements.DisplayInfo@2867a80c, rewards=AdvancementRewards{experience=20, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@441ef847}, criteria={opaline_moonstone_advancement_0=net.minecraft.advancements.Criterion@49a66977}, requirements=[[opaline_moonstone_advancement_0]], sends_telemetry_event=false}
-[29Dec2024 04:14:23.905] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement terramity:prismatic_jewel_advancement: Task Advancement{parentId=terramity:fairy_advancement, display=net.minecraft.advancements.DisplayInfo@25ed828a, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@441ef847}, criteria={prismatic_jewel_advancement_0=net.minecraft.advancements.Criterion@5f7aba91}, requirements=[[prismatic_jewel_advancement_0]], sends_telemetry_event=false}
-[29Dec2024 04:14:23.906] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement terramity:angel_feather_advancement: Task Advancement{parentId=terramity:prismatic_jewel_advancement, display=net.minecraft.advancements.DisplayInfo@5af4fceb, rewards=AdvancementRewards{experience=20, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@441ef847}, criteria={angel_feather_advancement_0=net.minecraft.advancements.Criterion@50d07b16}, requirements=[[angel_feather_advancement_0]], sends_telemetry_event=false}
-[29Dec2024 04:14:23.907] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4463 advancements
-[29Dec2024 04:14:23.946] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
-[29Dec2024 04:14:23.963] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[29Dec2024 04:14:28.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[29Dec2024 04:14:28.668] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[29Dec2024 04:14:28.668] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[29Dec2024 04:14:28.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[29Dec2024 04:14:28.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[29Dec2024 04:14:28.888] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[29Dec2024 04:14:29.027] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[29Dec2024 04:14:29.028] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[29Dec2024 04:14:29.029] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[29Dec2024 04:14:29.029] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[29Dec2024 04:14:29.064] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[29Dec2024 04:14:29.069] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[29Dec2024 04:14:30.264] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[29Dec2024 04:14:30.266] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[29Dec2024 04:14:30.269] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "🗡No ties amigos?☠"
-[29Dec2024 04:14:31.593] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:31.595] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:31.597] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:31.598] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:31.600] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:31.603] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:31.606] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:31.609] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[29Dec2024 04:14:31.612] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:31.615] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:31.618] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:31.621] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:31.624] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:31.627] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:31.630] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:31.633] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:31.636] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:31.638] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:31.640] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:31.642] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[29Dec2024 04:14:31.645] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:31.649] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:31.652] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[29Dec2024 04:14:31.655] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:31.658] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[29Dec2024 04:14:31.659] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[29Dec2024 04:14:31.661] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:31.663] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:31.666] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:31.670] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:31.673] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:31.685] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:31.686] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:31.687] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:31.688] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:31.689] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:31.691] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[29Dec2024 04:14:39.495] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[29Dec2024 04:14:41.154] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[29Dec2024 04:14:41.340] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[29Dec2024 04:14:41.749] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[29Dec2024 04:14:41.758] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[29Dec2024 04:14:41.863] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[29Dec2024 04:14:42.267] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[29Dec2024 04:14:42.602] [Server thread/INFO] [net.regions_unexplored.RegionsUnexploredMod/]: Loading dimension "minecraft:the_nether" with biome source: "minecraft:multi_noise".
-[29Dec2024 04:14:42.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[29Dec2024 04:14:43.431] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[29Dec2024 04:14:44.254] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[29Dec2024 04:14:45.203] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[29Dec2024 04:14:46.211] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[29Dec2024 04:14:52.734] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 04:14:52.744] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 04:14:52.749] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 04:14:52.756] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 04:14:52.762] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 04:14:52.766] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 04:14:52.770] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 04:14:52.774] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 04:14:52.778] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 04:14:52.781] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 04:14:52.785] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 04:14:52.789] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 04:14:52.793] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 04:14:52.797] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 04:14:52.801] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 04:14:52.805] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 04:14:52.808] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 04:14:52.811] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 04:14:52.814] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 04:14:52.818] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 04:14:52.822] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 04:14:53.108] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 04:14:53.607] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 04:14:54.110] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 04:14:54.607] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Dec2024 04:14:55.176] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[29Dec2024 04:14:55.531] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 12924 ms
-[29Dec2024 04:14:55.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (26.473s)! For help, type "help"
-[29Dec2024 04:14:55.658] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[29Dec2024 04:14:55.672] [Server thread/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
-[29Dec2024 04:14:55.722] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[29Dec2024 04:14:55.725] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[29Dec2024 04:14:56.109] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 161719 bytes (in 17 string chunks with the size of 10000)
-[29Dec2024 04:14:56.111] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
-[29Dec2024 04:14:56.118] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[29Dec2024 04:14:56.147] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'units-constitute.gl.at.ply.gg:3140'
-[29Dec2024 04:14:56.150] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 3140
-[29Dec2024 04:15:15.039] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ram[/127.202.63.170:41161] logged in with entity id 740 at (809.1824173656545, 76.0, 7.262254007929773)
-[29Dec2024 04:15:15.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram joined the game
-[29Dec2024 04:15:20.800] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ram (18)
-[29Dec2024 04:15:20.807] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ram
-[29Dec2024 04:15:20.852] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5915ms or 118 ticks behind
-[29Dec2024 04:15:22.585] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d72e33c0-cade-33f4-8968-a71c4f61cbe5
-[29Dec2024 04:15:23.582] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d72e33c0-cade-33f4-8968-a71c4f61cbe5
-[29Dec2024 04:15:23.587] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ram (d72e33c0-cade-33f4-8968-a71c4f61cbe5) successfully connected to voice chat
-[29Dec2024 04:16:28.518] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: manu[/127.227.189.202:45123] logged in with entity id 1020 at (795.240815777318, 72.0, 27.919342012487625)
-[29Dec2024 04:16:28.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu joined the game
-[29Dec2024 04:16:30.435] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of manu (18)
-[29Dec2024 04:16:30.437] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to manu
-[29Dec2024 04:16:54.907] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7540910e-dd19-3b9f-b7cd-b628422714d6
-[29Dec2024 04:16:56.382] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7540910e-dd19-3b9f-b7cd-b628422714d6
-[29Dec2024 04:16:56.383] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player manu (7540910e-dd19-3b9f-b7cd-b628422714d6) successfully connected to voice chat
-[29Dec2024 04:17:14.598] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['ASUNA'/840, l='ServerLevel[🗡No ties amigos?☠]', x=863.78, y=65.00, z=-17.68] died, message: 'ASUNA suffocated in a wall'
-[29Dec2024 04:17:14.601] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['ASUNA'/840, l='ServerLevel[🗡No ties amigos?☠]', x=863.78, y=65.00, z=-17.68] died: ASUNA suffocated in a wall
-[29Dec2024 04:18:11.833] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ADMIN[/127.227.189.202:59953] logged in with entity id 1176 at (830.1091048417821, 67.0, -47.89314682365342)
-[29Dec2024 04:18:11.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN joined the game
-[29Dec2024 04:18:14.009] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ADMIN (18)
-[29Dec2024 04:18:14.011] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ADMIN
-[29Dec2024 04:18:22.366] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f462eb29-aa29-3588-8da2-a2565774ca02
-[29Dec2024 04:18:23.366] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f462eb29-aa29-3588-8da2-a2565774ca02
-[29Dec2024 04:18:23.367] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ADMIN (f462eb29-aa29-3588-8da2-a2565774ca02) successfully connected to voice chat
-[29Dec2024 04:20:15.837] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 7540910e-dd19-3b9f-b7cd-b628422714d6 timed out
-[29Dec2024 04:20:15.841] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player manu
-[29Dec2024 04:20:15.847] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to manu
-[29Dec2024 04:20:28.848] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manu lost connection: Disconnected
-[29Dec2024 04:20:28.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu left the game
-[29Dec2024 04:20:28.854] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client manu
-[29Dec2024 04:20:28.905] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[29Dec2024 04:21:40.798] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: manu[/127.227.189.202:36053] logged in with entity id 1748 at (807.8252303618045, 72.0, 26.997196338389482)
-[29Dec2024 04:21:40.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu joined the game
-[29Dec2024 04:21:41.352] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of manu (18)
-[29Dec2024 04:21:41.355] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to manu
-[29Dec2024 04:22:00.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ADMIN> me olles?
-[29Dec2024 04:24:34.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> no me escuchas por que
-[29Dec2024 04:24:41.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> si
-[29Dec2024 04:24:55.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> pero yo no puedo tener activado el micro
-[29Dec2024 04:24:59.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> me lo cierra
-[29Dec2024 04:27:59.963] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4225ms or 84 ticks behind
-[29Dec2024 04:28:30.052] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manu lost connection: Timed out
-[29Dec2024 04:28:30.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu left the game
-[29Dec2024 04:28:30.055] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client manu
-[29Dec2024 04:36:14.591] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: manu[/127.227.189.202:39177] logged in with entity id 4203 at (98.99516712897108, 46.0, 24.050095590896785)
-[29Dec2024 04:36:14.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu joined the game
-[29Dec2024 04:36:16.342] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of manu (18)
-[29Dec2024 04:36:16.346] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to manu
-[29Dec2024 04:36:31.984] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7540910e-dd19-3b9f-b7cd-b628422714d6
-[29Dec2024 04:36:32.984] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7540910e-dd19-3b9f-b7cd-b628422714d6
-[29Dec2024 04:36:32.985] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player manu (7540910e-dd19-3b9f-b7cd-b628422714d6) successfully connected to voice chat
-[29Dec2024 04:38:04.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2917ms or 58 ticks behind
-[29Dec2024 04:38:04.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manu moved too quickly! 7.1631202407753705,0.0,7.350016309310767
-[29Dec2024 04:38:26.519] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
-[29Dec2024 04:39:14.456] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:39:16.238] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:39:16.563] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:39:16.564] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:39:17.776] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:39:29.573] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:39:29.694] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:39:29.704] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:39:29.705] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:39:50.320] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
-[29Dec2024 04:39:50.732] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:41:00.769] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:41:00.771] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:41:00.772] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:41:00.774] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:45:23.777] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2239ms or 44 ticks behind
-[29Dec2024 04:45:25.115] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:45:25.126] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:45:25.136] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:45:25.138] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:45:26.056] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:45:26.058] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:45:26.059] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:45:26.060] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:45:26.062] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:45:36.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. %1$s was slain by %2$s
-[29Dec2024 04:45:36.922] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
-[29Dec2024 04:45:36.959] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
-[29Dec2024 04:45:55.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ram to ADMIN]
-[29Dec2024 04:45:56.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram was shot by ADMIN
-[29Dec2024 04:45:56.964] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
-[29Dec2024 04:46:14.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manu moved too quickly! 1.383456675654756,-10.983667688999148,-0.5023916367958918
-[29Dec2024 04:46:16.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu fell from a high place
-[29Dec2024 04:46:16.423] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
-[29Dec2024 04:46:16.480] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[29Dec2024 04:46:41.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu fell from a high place
-[29Dec2024 04:48:00.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [Jennifer Dumped Me]
-[29Dec2024 04:52:11.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [My Name is Nobody]
-[29Dec2024 04:52:15.953] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:52:15.957] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:52:15.960] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:52:15.961] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:52:23.471] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:52:23.473] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:52:23.475] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:52:23.477] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:52:23.725] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:52:34.498] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 7540910e-dd19-3b9f-b7cd-b628422714d6 timed out
-[29Dec2024 04:52:34.499] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player manu
-[29Dec2024 04:52:34.502] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to manu
-[29Dec2024 04:52:38.693] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7540910e-dd19-3b9f-b7cd-b628422714d6
-[29Dec2024 04:52:39.679] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7540910e-dd19-3b9f-b7cd-b628422714d6
-[29Dec2024 04:52:39.679] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player manu (7540910e-dd19-3b9f-b7cd-b628422714d6) successfully connected to voice chat
-[29Dec2024 04:53:53.042] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3105ms or 62 ticks behind
-[29Dec2024 04:54:12.245] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4207ms or 84 ticks behind
-[29Dec2024 04:54:34.232] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6994ms or 139 ticks behind
-[29Dec2024 04:54:51.505] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2318ms or 46 ticks behind
-[29Dec2024 04:54:55.683] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:54:55.687] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:54:55.688] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:54:55.690] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:54:59.593] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:54:59.595] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:54:59.596] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:54:59.597] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:54:59.822] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:55:49.377] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:55:49.380] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:55:49.381] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:55:49.533] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:55:49.534] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:55:49.534] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:55:56.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to manu]
-[29Dec2024 04:57:50.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to manu]
-[29Dec2024 04:58:28.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [Voluntary Exile]
-[29Dec2024 04:59:08.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [Rigged from the Start]
-[29Dec2024 04:59:11.025] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:59:11.026] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:59:11.027] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:59:11.027] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:59:11.034] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:59:11.039] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:59:11.040] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:59:11.523] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:59:11.528] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:59:24.321] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:59:24.323] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:59:24.324] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:59:24.325] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:59:24.642] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:59:24.643] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:59:33.084] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:59:33.086] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:59:33.087] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:59:33.087] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 04:59:33.088] [Worker-Main-45/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 05:01:24.118] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 05:01:24.120] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 05:01:24.120] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 05:01:24.121] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 05:01:31.726] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 05:01:31.729] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 05:01:31.731] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 05:01:31.732] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 05:01:31.733] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 05:05:08.163] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
-[29Dec2024 05:05:25.409] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2271ms or 45 ticks behind
-[29Dec2024 05:05:53.014] [Worker-Main-44/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 05:05:53.017] [Worker-Main-44/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 05:05:53.018] [Worker-Main-44/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 05:05:53.018] [Worker-Main-44/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 05:06:10.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ram to ADMIN]
-[29Dec2024 05:06:17.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported manu to ADMIN]
-[29Dec2024 05:06:30.329] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 05:06:30.331] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 05:06:30.332] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 05:06:30.333] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 05:06:30.336] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 05:06:38.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manu moved too quickly! -6.871094199282027,3.0,-7.142847700603852
-[29Dec2024 05:06:48.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has made the advancement [Birds of a Feather]
-[29Dec2024 05:07:12.255] [Worker-Main-44/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 05:07:12.256] [Worker-Main-44/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 05:07:12.257] [Worker-Main-44/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 05:07:17.424] [Worker-Main-44/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 05:07:30.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has completed the challenge [Praise the Sun]
-[29Dec2024 05:08:54.585] [Worker-Main-44/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 05:08:54.593] [Worker-Main-44/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 05:08:54.593] [Worker-Main-44/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 05:08:55.265] [Worker-Main-44/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 05:08:55.266] [Worker-Main-44/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 05:08:55.267] [Worker-Main-44/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 05:08:55.267] [Worker-Main-44/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 05:10:12.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [This Tree Bleeds Red]
-[29Dec2024 05:10:32.016] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 05:10:32.018] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 05:10:32.019] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 05:10:32.019] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 05:10:32.019] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 05:10:35.619] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3081ms or 61 ticks behind
-[29Dec2024 05:13:36.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [Gone Bananas!]
-[29Dec2024 05:15:24.353] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
-[29Dec2024 05:15:24.355] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
-[29Dec2024 05:19:03.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> [x:189, y:62, z:-3022, dim:minecraft:overworld]
-[29Dec2024 05:20:21.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to ram]
-[29Dec2024 05:20:34.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was slain by Dungeon Effigy
-[29Dec2024 05:20:34.150] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
-[29Dec2024 05:20:34.158] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
-[29Dec2024 05:21:30.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was slain by Dungeon Effigy
-[29Dec2024 05:21:30.253] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
-[29Dec2024 05:21:30.259] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
-[29Dec2024 05:22:13.399] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[29Dec2024 05:22:13.401] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
-[29Dec2024 05:22:13.403] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 15 bread
-[29Dec2024 05:22:13.404] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
-[29Dec2024 05:22:13.408] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 7 | client: 8
-[29Dec2024 05:22:39.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has completed the challenge [The Power of the Sun]
-[29Dec2024 05:23:03.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was shot by Dungeon Sentry
-[29Dec2024 05:23:03.100] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
-[29Dec2024 05:23:03.103] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
-[29Dec2024 05:23:58.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was slain by Dungeon Effigy
-[29Dec2024 05:23:58.856] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
-[29Dec2024 05:23:58.860] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
-[29Dec2024 05:24:21.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Dungeon Effigy
-[29Dec2024 05:24:21.253] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
-[29Dec2024 05:24:21.256] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[29Dec2024 05:24:44.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was slain by Dungeon Effigy
-[29Dec2024 05:24:44.989] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
-[29Dec2024 05:24:45.004] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
-[29Dec2024 05:25:20.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu experienced kinetic energy whilst trying to escape Dungeon Effigy
-[29Dec2024 05:25:20.807] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
-[29Dec2024 05:25:20.809] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[29Dec2024 05:25:25.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was slain by Dungeon Effigy
-[29Dec2024 05:25:25.976] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
-[29Dec2024 05:25:25.980] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
-[29Dec2024 05:25:51.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu experienced kinetic energy
-[29Dec2024 05:26:16.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Dungeon Effigy
-[29Dec2024 05:26:16.799] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
-[29Dec2024 05:26:16.804] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[29Dec2024 05:26:20.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was slain by Dungeon Effigy
-[29Dec2024 05:26:20.704] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
-[29Dec2024 05:26:20.712] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
-[29Dec2024 05:26:21.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was blown up by Dungeon Effigy
-[29Dec2024 05:26:21.282] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[29Dec2024 05:27:20.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram was slain by Dungeon Effigy
-[29Dec2024 05:27:56.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was shot by Dungeon Sentry
-[29Dec2024 05:27:56.807] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
-[29Dec2024 05:27:56.811] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
-[29Dec2024 05:28:02.979] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d72e33c0-cade-33f4-8968-a71c4f61cbe5 timed out
-[29Dec2024 05:28:02.980] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player ram
-[29Dec2024 05:28:02.981] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to ram
-[29Dec2024 05:28:05.446] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram lost connection: Disconnected
-[29Dec2024 05:28:05.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram left the game
-[29Dec2024 05:28:05.448] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ram
-[29Dec2024 05:28:11.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to manu]
-[29Dec2024 05:29:36.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was shot by Dungeon Sentry
-[29Dec2024 05:29:36.796] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
-[29Dec2024 05:29:36.798] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[29Dec2024 05:29:52.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was shot by Dungeon Sentry
-[29Dec2024 05:30:19.602] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ram[/127.202.63.170:34779] logged in with entity id 29883 at (207.4895513844026, 63.0, -3036.002961896651)
-[29Dec2024 05:30:19.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram joined the game
-[29Dec2024 05:30:20.613] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ram (18)
-[29Dec2024 05:30:20.614] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ram
-[29Dec2024 05:30:26.122] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d72e33c0-cade-33f4-8968-a71c4f61cbe5
-[29Dec2024 05:30:27.124] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d72e33c0-cade-33f4-8968-a71c4f61cbe5
-[29Dec2024 05:30:27.125] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ram (d72e33c0-cade-33f4-8968-a71c4f61cbe5) successfully connected to voice chat
-[29Dec2024 05:30:40.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was shot by Dungeon Sentry
-[29Dec2024 05:30:40.215] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
-[29Dec2024 05:30:40.217] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[29Dec2024 05:30:46.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was shot by Dungeon Sentry
-[29Dec2024 05:31:35.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has made the advancement [Mutual Aid]
-[29Dec2024 05:31:35.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has reached the goal [A self-respecting Soul]
-[29Dec2024 05:33:29.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [Cover Me with Diamonds]
-[29Dec2024 05:35:07.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Dungeon Effigy
-[29Dec2024 05:35:07.050] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
-[29Dec2024 05:35:07.056] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[29Dec2024 05:35:46.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was slain by Dungeon Effigy
-[29Dec2024 05:36:12.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was slain by Dungeon Effigy
-[29Dec2024 05:36:12.657] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
-[29Dec2024 05:36:12.665] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
-[29Dec2024 05:36:19.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Dungeon Effigy
-[29Dec2024 05:36:19.294] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
-[29Dec2024 05:36:19.303] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[29Dec2024 05:36:25.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was slain by Dungeon Effigy
-[29Dec2024 05:36:42.771] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player f462eb29-aa29-3588-8da2-a2565774ca02 timed out
-[29Dec2024 05:36:42.772] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player ADMIN
-[29Dec2024 05:36:42.774] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to ADMIN
-[29Dec2024 05:36:42.775] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 7540910e-dd19-3b9f-b7cd-b628422714d6 timed out
-[29Dec2024 05:36:42.775] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player manu
-[29Dec2024 05:36:42.775] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to manu
-[29Dec2024 05:36:52.999] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN lost connection: Timed out
-[29Dec2024 05:36:53.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN left the game
-[29Dec2024 05:36:53.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN was slain by Dungeon Effigy
-[29Dec2024 05:36:53.018] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ADMIN
-[29Dec2024 05:36:53.041] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manu lost connection: Timed out
-[29Dec2024 05:36:53.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu left the game
-[29Dec2024 05:36:53.042] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client manu
-[29Dec2024 05:44:28.837] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ADMIN[/127.227.189.202:56927] logged in with entity id 32306 at (190.60570812052958, 88.0, -3046.4987663016373)
-[29Dec2024 05:44:28.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN joined the game
-[29Dec2024 05:44:29.281] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ADMIN (18)
-[29Dec2024 05:44:29.281] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ADMIN
-[29Dec2024 05:44:38.475] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f462eb29-aa29-3588-8da2-a2565774ca02
-[29Dec2024 05:44:39.477] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f462eb29-aa29-3588-8da2-a2565774ca02
-[29Dec2024 05:44:39.479] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ADMIN (f462eb29-aa29-3588-8da2-a2565774ca02) successfully connected to voice chat
-[29Dec2024 05:48:16.568] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: manu[/127.227.189.202:35621] logged in with entity id 33513 at (814.4968754626374, 67.0, 22.311456875439067)
-[29Dec2024 05:48:16.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu joined the game
-[29Dec2024 05:48:19.580] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of manu (18)
-[29Dec2024 05:48:19.582] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to manu
-[29Dec2024 05:48:25.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to ram]
-[29Dec2024 05:48:29.642] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7540910e-dd19-3b9f-b7cd-b628422714d6
-[29Dec2024 05:48:30.629] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7540910e-dd19-3b9f-b7cd-b628422714d6
-[29Dec2024 05:48:30.630] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player manu (7540910e-dd19-3b9f-b7cd-b628422714d6) successfully connected to voice chat
-[29Dec2024 05:50:04.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was shot by Dungeon Sentry
-[29Dec2024 05:50:04.353] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
-[29Dec2024 05:50:04.357] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
-[29Dec2024 05:50:33.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was shot by Dungeon Sentry
-[29Dec2024 05:50:33.397] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
-[29Dec2024 05:50:33.400] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
-[29Dec2024 05:51:34.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has made the advancement [Where Is The Stone Pen?]
-[29Dec2024 05:52:54.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported manu to ram]
-[29Dec2024 05:53:38.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Dungeon Effigy
-[29Dec2024 05:53:38.394] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
-[29Dec2024 05:53:38.405] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[29Dec2024 05:53:39.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was slain by Dungeon Effigy
-[29Dec2024 05:53:39.801] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
-[29Dec2024 05:53:39.827] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
-[29Dec2024 05:53:49.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to manu]
-[29Dec2024 05:53:52.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu blew up
-[29Dec2024 05:53:52.321] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[29Dec2024 05:55:00.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has reached the goal [Waterworld]
-[29Dec2024 05:55:36.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was slain by Dungeon Effigy
-[29Dec2024 05:55:36.494] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
-[29Dec2024 05:55:36.500] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
-[29Dec2024 05:55:46.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was slain by Dungeon Effigy
-[29Dec2024 05:55:46.945] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
-[29Dec2024 05:55:46.953] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
-[29Dec2024 05:57:12.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Dungeon Effigy
-[29Dec2024 05:57:12.347] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
-[29Dec2024 05:57:12.352] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[29Dec2024 05:57:18.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was slain by Dungeon Effigy
-[29Dec2024 05:57:43.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was shot by Dungeon Sentry
-[29Dec2024 05:57:43.651] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
-[29Dec2024 05:57:43.656] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[29Dec2024 05:57:58.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was shot by Dungeon Sentry
-[29Dec2024 05:58:16.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was blown up by Dungeon Effigy
-[29Dec2024 05:58:16.153] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
-[29Dec2024 05:58:16.155] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[29Dec2024 05:58:25.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu blew up
-[29Dec2024 05:58:46.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was shot by Dungeon Sentry
-[29Dec2024 05:58:46.903] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
-[29Dec2024 05:58:46.906] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[29Dec2024 05:58:51.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to manu]
-[29Dec2024 05:59:02.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was shot by Dungeon Sentry
-[29Dec2024 05:59:02.117] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
-[29Dec2024 05:59:02.123] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
-[29Dec2024 05:59:08.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was shot by Dungeon Sentry
-[29Dec2024 05:59:38.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has made the advancement [Poseidon, God of the Seas]
-[29Dec2024 06:00:27.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was shot by Dungeon Sentry
-[29Dec2024 06:00:27.548] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
-[29Dec2024 06:00:27.551] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[29Dec2024 06:00:35.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was shot by Dungeon Sentry
-[29Dec2024 06:01:03.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Dungeon Effigy
-[29Dec2024 06:01:03.400] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
-[29Dec2024 06:01:03.402] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[29Dec2024 06:01:06.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was slain by Dungeon Effigy
-[29Dec2024 06:01:07.000] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
-[29Dec2024 06:01:07.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was blown up by Dungeon Effigy
-[29Dec2024 06:01:07.007] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
-[29Dec2024 06:01:07.008] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[29Dec2024 06:01:14.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram blew up
-[29Dec2024 06:01:14.109] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
-[29Dec2024 06:03:16.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Dungeon Effigy
-[29Dec2024 06:03:16.397] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
-[29Dec2024 06:03:16.405] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[29Dec2024 06:03:32.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was slain by Dungeon Effigy
-[29Dec2024 06:04:19.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was shot by Dungeon Sentry
-[29Dec2024 06:04:19.300] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
-[29Dec2024 06:04:19.303] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[29Dec2024 06:04:25.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was shot by Dungeon Sentry
-[29Dec2024 06:04:51.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was shot by Dungeon Sentry
-[29Dec2024 06:04:51.498] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
-[29Dec2024 06:04:51.501] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[29Dec2024 06:06:04.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was shot by Dungeon Sentry
-[29Dec2024 06:06:04.149] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
-[29Dec2024 06:06:04.153] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
-[29Dec2024 06:08:51.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to ram]
-[29Dec2024 06:10:21.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Dungeon Effigy
-[29Dec2024 06:10:21.646] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
-[29Dec2024 06:10:21.653] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[29Dec2024 06:11:00.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has reached the goal [Great minds think alike]
-[29Dec2024 06:11:31.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was simmered in stygian blood
-[29Dec2024 06:11:31.548] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
-[29Dec2024 06:11:31.549] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[29Dec2024 06:11:33.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was simmered in stygian blood
-[29Dec2024 06:11:33.052] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[29Dec2024 06:11:51.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was simmered in stygian blood
-[29Dec2024 06:11:51.098] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
-[29Dec2024 06:11:51.104] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
-[29Dec2024 06:11:53.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN was simmered in stygian blood
-[29Dec2024 06:11:53.604] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
-[29Dec2024 06:14:48.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was shot by Dungeon Sentry
-[29Dec2024 06:14:48.268] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
-[29Dec2024 06:14:48.274] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[29Dec2024 06:15:59.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to ram]
-[29Dec2024 06:16:23.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Dungeon Effigy
-[29Dec2024 06:16:23.446] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
-[29Dec2024 06:16:23.451] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[29Dec2024 06:16:56.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was shot by Dungeon Sentry
-[29Dec2024 06:16:56.280] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
-[29Dec2024 06:16:56.284] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
-[29Dec2024 06:19:53.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to ram]
-[29Dec2024 06:20:42.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported manu to ram]
-[29Dec2024 06:22:12.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported manu to ram]
-[29Dec2024 06:23:12.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to ram]
-[29Dec2024 06:24:26.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to ram]
-[29Dec2024 06:24:35.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was simmered in stygian blood
-[29Dec2024 06:24:35.250] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
-[29Dec2024 06:24:35.252] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
-[29Dec2024 06:24:37.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram was simmered in stygian blood
-[29Dec2024 06:24:37.269] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
-[29Dec2024 06:26:14.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was simmered in stygian blood
-[29Dec2024 06:26:14.547] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
-[29Dec2024 06:26:14.551] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
-[29Dec2024 06:26:16.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram was simmered in stygian blood
-[29Dec2024 06:26:16.550] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
-[29Dec2024 06:26:47.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ram to ADMIN]
-[29Dec2024 06:28:39.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Trial Guardian
-[29Dec2024 06:28:39.657] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
-[29Dec2024 06:28:39.666] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[29Dec2024 06:28:47.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN boiled away whilst trying to escape Trial Guardian
-[29Dec2024 06:28:47.547] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
-[29Dec2024 06:28:47.558] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
-[29Dec2024 06:28:47.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was slain by Trial Guardian
-[29Dec2024 06:28:49.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN was simmered in stygian blood
-[29Dec2024 06:28:49.547] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
-[29Dec2024 06:29:31.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to ram]
-[29Dec2024 06:32:04.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to ram]
-[29Dec2024 06:37:18.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu blew up
-[29Dec2024 06:37:18.947] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
-[29Dec2024 06:37:18.950] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[29Dec2024 06:37:25.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was wiped off the map
-[29Dec2024 06:37:25.140] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
-[29Dec2024 06:37:25.156] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
-[29Dec2024 06:37:25.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu blew up
-[29Dec2024 06:40:21.996] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Satu'/50080, l='ServerLevel[🗡No ties amigos?☠]', x=949.58, y=66.00, z=12.42] died: Satu burned to death
-[29Dec2024 06:40:47.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to manu]
-[29Dec2024 06:46:37.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ram to manu]
-[29Dec2024 06:46:49.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to manu]
-[29Dec2024 06:47:17.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu boiled away whilst trying to escape Trial Guardian
-[29Dec2024 06:47:17.084] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
-[29Dec2024 06:47:17.091] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[29Dec2024 06:47:19.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was wiped off the map
-[29Dec2024 06:47:19.889] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
-[29Dec2024 06:47:19.911] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
-[29Dec2024 06:47:28.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram blew up
-[29Dec2024 06:47:28.256] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
-[29Dec2024 06:47:36.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu drowned
-[29Dec2024 06:47:36.762] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[29Dec2024 06:50:52.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was slain by Dungeon Effigy
-[29Dec2024 06:50:52.806] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
-[29Dec2024 06:50:52.809] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
-[29Dec2024 06:51:52.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram was slain by Dungeon Effigy
-[29Dec2024 06:54:00.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has reached the goal [Great minds think alike]
-[29Dec2024 06:56:57.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was simmered in stygian blood
-[29Dec2024 06:56:57.765] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
-[29Dec2024 06:56:57.766] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[29Dec2024 06:57:07.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was simmered in stygian blood
-[29Dec2024 06:57:47.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was blown up by Dungeon Effigy
-[29Dec2024 06:57:47.856] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
-[29Dec2024 06:57:47.860] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
-[29Dec2024 06:58:00.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ram to ADMIN]
-[29Dec2024 06:58:51.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> t
-[29Dec2024 07:06:39.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Dungeon Effigy
-[29Dec2024 07:06:39.402] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
-[29Dec2024 07:06:39.405] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[29Dec2024 07:06:45.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was slain by Dungeon Effigy
-[29Dec2024 07:11:13.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has reached the goal [Death Will Not Be Enough]
-[29Dec2024 07:18:52.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ram to manu]
-[29Dec2024 07:19:01.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to ram]
-[29Dec2024 07:19:08.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has reached the goal [A little cleaning is necessary]
-[29Dec2024 07:19:09.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has reached the goal [The long arm of the law]
-[29Dec2024 07:19:30.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was wiped off the map
-[29Dec2024 07:19:30.398] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
-[29Dec2024 07:19:30.405] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[29Dec2024 07:19:35.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was wiped off the map
-[29Dec2024 07:19:35.649] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
-[29Dec2024 07:19:35.655] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
-[29Dec2024 07:19:50.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was simmered in stygian blood
-[29Dec2024 07:19:50.116] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
-[29Dec2024 07:19:50.118] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
-[29Dec2024 07:20:35.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram was wiped off the map
-[29Dec2024 07:20:37.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! -33.0,3.78821891643166,-11.0
-[29Dec2024 07:20:47.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Dungeon Effigy
-[29Dec2024 07:20:47.246] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
-[29Dec2024 07:20:47.264] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[29Dec2024 07:20:48.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was blown up by Dungeon Effigy
-[29Dec2024 07:20:48.354] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[29Dec2024 07:21:46.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was wiped off the map
-[29Dec2024 07:21:46.898] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
-[29Dec2024 07:21:46.903] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
-[29Dec2024 07:21:52.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was simmered in stygian blood
-[29Dec2024 07:21:52.696] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
-[29Dec2024 07:21:52.700] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
-[29Dec2024 07:21:53.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! 5.8680933818490075,-0.5885525929978215,-8.163137024563639
-[29Dec2024 07:22:57.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was wiped off the map
-[29Dec2024 07:22:57.701] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
-[29Dec2024 07:22:57.706] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[29Dec2024 07:23:12.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram boiled away whilst trying to escape Trial Guardian
-[29Dec2024 07:23:12.349] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
-[29Dec2024 07:23:12.352] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
-[29Dec2024 07:23:13.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was wiped off the map
-[29Dec2024 07:23:13.348] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
-[29Dec2024 07:23:13.353] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
-[29Dec2024 07:23:26.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN was wiped off the map
-[29Dec2024 07:23:34.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was wiped off the map
-[29Dec2024 07:24:12.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram was simmered in stygian blood
-[29Dec2024 07:26:45.800] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[29Dec2024 07:26:45.801] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
-[29Dec2024 07:26:45.801] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 20 bread
-[29Dec2024 07:26:45.802] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
-[29Dec2024 07:26:45.802] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 1
-[29Dec2024 07:26:46.043] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[29Dec2024 07:26:46.043] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
-[29Dec2024 07:26:46.043] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 20 bread
-[29Dec2024 07:26:46.044] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
-[29Dec2024 07:26:46.044] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 1
-[29Dec2024 07:26:46.597] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[29Dec2024 07:26:46.598] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
-[29Dec2024 07:26:46.598] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 20 bread
-[29Dec2024 07:26:46.598] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
-[29Dec2024 07:26:46.599] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 1
-[29Dec2024 07:26:46.944] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[29Dec2024 07:26:46.945] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
-[29Dec2024 07:26:46.945] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 20 bread
-[29Dec2024 07:26:46.946] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
-[29Dec2024 07:26:46.946] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 1
-[29Dec2024 07:26:47.192] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[29Dec2024 07:26:47.197] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
-[29Dec2024 07:26:47.198] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 20 bread
-[29Dec2024 07:26:47.199] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
-[29Dec2024 07:26:47.200] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 1
-[29Dec2024 07:26:47.594] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[29Dec2024 07:26:47.598] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 5 is dual wielding: false
-[29Dec2024 07:26:47.601] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 20 bread
-[29Dec2024 07:26:47.601] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
-[29Dec2024 07:26:47.602] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 1
-[29Dec2024 07:26:47.872] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[29Dec2024 07:26:47.875] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 6 is dual wielding: false
-[29Dec2024 07:26:47.877] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 20 bread
-[29Dec2024 07:26:47.879] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
-[29Dec2024 07:26:47.880] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 1
-[29Dec2024 07:26:48.090] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[29Dec2024 07:26:48.093] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 7 is dual wielding: false
-[29Dec2024 07:26:48.095] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 20 bread
-[29Dec2024 07:26:48.096] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
-[29Dec2024 07:26:48.096] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 1
-[29Dec2024 07:26:48.336] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[29Dec2024 07:26:48.337] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 8 is dual wielding: false
-[29Dec2024 07:26:48.337] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 20 bread
-[29Dec2024 07:26:48.338] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
-[29Dec2024 07:26:48.338] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 1
-[29Dec2024 07:26:48.624] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[29Dec2024 07:26:48.627] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 9 is dual wielding: false
-[29Dec2024 07:26:48.629] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 20 bread
-[29Dec2024 07:26:48.631] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
-[29Dec2024 07:26:48.632] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 1
-[29Dec2024 07:26:48.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram was turned to stone by Gorgon
-[29Dec2024 07:26:48.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram moved too quickly! 0.3371956108252334,0.0,-10.068681469206695
-[29Dec2024 07:26:48.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! -9.687601222072772,2.3937796879152273,-2.3802760657428816
-[29Dec2024 07:26:48.827] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
-[29Dec2024 07:26:48.833] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7895ms or 157 ticks behind
-[29Dec2024 07:28:35.362] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d72e33c0-cade-33f4-8968-a71c4f61cbe5 timed out
-[29Dec2024 07:28:35.363] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player ram
-[29Dec2024 07:28:35.365] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to ram
-[29Dec2024 07:28:37.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Dungeon Effigy
-[29Dec2024 07:28:37.456] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
-[29Dec2024 07:28:37.459] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[29Dec2024 07:28:49.050] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram lost connection: Timed out
-[29Dec2024 07:28:49.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram left the game
-[29Dec2024 07:28:49.051] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ram
-[29Dec2024 07:30:35.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has reached the goal [Leeroy Is Back]
-[29Dec2024 07:31:50.261] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ram[/127.202.63.170:41451] logged in with entity id 75917 at (765.3535567433369, 55.0, -2552.49753999864)
-[29Dec2024 07:31:50.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram joined the game
-[29Dec2024 07:31:52.140] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ram (18)
-[29Dec2024 07:31:52.143] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ram
-[29Dec2024 07:31:52.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! 7.155246454026383,0.0,7.990889213821902
-[29Dec2024 07:31:52.177] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
-[29Dec2024 07:31:56.620] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d72e33c0-cade-33f4-8968-a71c4f61cbe5
-[29Dec2024 07:31:57.615] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d72e33c0-cade-33f4-8968-a71c4f61cbe5
-[29Dec2024 07:31:57.621] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ram (d72e33c0-cade-33f4-8968-a71c4f61cbe5) successfully connected to voice chat
-[29Dec2024 07:32:10.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram suffocated in a wall
-[29Dec2024 07:32:10.999] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
-[29Dec2024 07:32:11.001] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
-[29Dec2024 07:32:16.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram suffocated in a wall
-[29Dec2024 07:32:16.534] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
-[29Dec2024 07:32:27.933] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! 8.56885719020238,-0.807679031557754,5.4881538389449815
-[29Dec2024 07:32:27.947] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2760ms or 55 ticks behind
-[29Dec2024 07:32:34.406] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 07:32:34.407] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 07:32:34.408] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 07:32:34.408] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 07:32:34.969] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
-[29Dec2024 07:35:56.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [Clash of the Titans]
-[29Dec2024 07:37:42.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was slain by Ghost
-[29Dec2024 07:37:42.210] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
-[29Dec2024 07:37:42.213] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
-[29Dec2024 07:38:01.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ram to manu]
-[29Dec2024 07:41:12.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> [x:20, y:69, z:-708, dim:minecraft:overworld]
-[29Dec2024 07:41:49.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> [x:30, y:62, z:-679, dim:minecraft:overworld]
-[29Dec2024 07:45:13.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! 2.883300337996843,-10.63868240483211,0.006050979347918428
-[29Dec2024 07:45:35.643] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2105ms or 42 ticks behind
-[29Dec2024 07:46:17.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was slain by Zombie
-[29Dec2024 07:46:17.047] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
-[29Dec2024 07:46:17.058] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
-[29Dec2024 07:48:05.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has completed the challenge [A Soul for a Soul]
-[29Dec2024 07:48:42.423] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ulpt'/83576, l='ServerLevel[🗡No ties amigos?☠]', x=738.30, y=68.00, z=128.26] died, message: 'Ulpt was slain by ADMIN'
-[29Dec2024 07:48:42.427] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ulpt'/83576, l='ServerLevel[🗡No ties amigos?☠]', x=738.30, y=68.00, z=128.26] died: Ulpt was slain by ADMIN
-[29Dec2024 07:48:46.982] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Rupert'/84774, l='ServerLevel[🗡No ties amigos?☠]', x=747.19, y=68.00, z=129.31] died, message: 'Rupert was slain by ADMIN'
-[29Dec2024 07:48:46.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [Crime in Town]
-[29Dec2024 07:48:46.986] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Rupert'/84774, l='ServerLevel[🗡No ties amigos?☠]', x=747.19, y=68.00, z=129.31] died: Rupert was slain by ADMIN
-[29Dec2024 07:49:44.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Dungeon Effigy
-[29Dec2024 07:49:44.355] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
-[29Dec2024 07:49:44.357] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
-[29Dec2024 07:49:57.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported manu to ADMIN]
-[29Dec2024 07:50:23.619] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Manuel'/83567, l='ServerLevel[🗡No ties amigos?☠]', x=739.74, y=68.00, z=110.26] died, message: 'Manuel was slain by ADMIN'
-[29Dec2024 07:50:23.620] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Manuel'/83567, l='ServerLevel[🗡No ties amigos?☠]', x=739.74, y=68.00, z=110.26] died: Manuel was slain by ADMIN
-[29Dec2024 07:59:44.001] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
-[29Dec2024 07:59:44.003] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
-[29Dec2024 08:00:43.301] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN lost connection: Disconnected
-[29Dec2024 08:00:43.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN left the game
-[29Dec2024 08:00:43.303] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ADMIN
-[29Dec2024 08:13:42.446] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 7540910e-dd19-3b9f-b7cd-b628422714d6 timed out
-[29Dec2024 08:13:42.448] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player manu
-[29Dec2024 08:13:42.449] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to manu
-[29Dec2024 08:13:53.753] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manu lost connection: Timed out
-[29Dec2024 08:13:53.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu left the game
-[29Dec2024 08:13:53.754] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client manu
-[29Dec2024 08:13:53.795] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30Dec2024 05:10:51.544] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[30Dec2024 05:10:51.562] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[30Dec2024 05:10:57.544] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[30Dec2024 05:10:57.640] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/.2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[30Dec2024 05:10:58.690] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/.2/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[30Dec2024 05:10:58.691] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/.2/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[30Dec2024 05:10:58.692] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/.2/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[30Dec2024 05:10:58.694] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/.2/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[30Dec2024 05:10:59.884] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
+[30Dec2024 05:11:06.078] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[30Dec2024 05:11:06.389] [main/ERROR] [mixin/]: Mixin config cannibal.mixin.json does not specify "minVersion" property
+[30Dec2024 05:11:06.599] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[30Dec2024 05:11:06.608] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[30Dec2024 05:11:07.450] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[30Dec2024 05:11:11.560] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.2.0).
+[30Dec2024 05:11:40.540] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[30Dec2024 05:11:43.563] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[30Dec2024 05:11:43.564] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[30Dec2024 05:11:51.899] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:11:51.900] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:11:51.901] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:11:51.901] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:11:51.902] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:11:51.902] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:11:51.903] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:11:51.903] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[30Dec2024 05:11:51.905] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:11:51.905] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:11:51.906] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:11:51.906] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:11:51.907] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:11:51.907] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:11:51.907] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:11:51.908] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:11:51.909] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:11:51.909] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:11:51.910] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:11:51.910] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[30Dec2024 05:11:51.911] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:11:51.915] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:11:51.915] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[30Dec2024 05:11:51.916] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:11:51.916] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[30Dec2024 05:11:51.917] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[30Dec2024 05:11:51.917] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:11:51.917] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:11:51.918] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:11:51.919] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:11:51.919] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:11:51.922] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:11:51.927] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:11:51.927] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:11:51.929] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:11:51.929] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:11:51.930] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:11:51.933] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.GrimReaperEntity from class forge.net.mca.util.network.datasync.CEnumParameter
+[30Dec2024 05:11:53.272] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[30Dec2024 05:11:53.464] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[30Dec2024 05:11:53.507] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 1 plugin(s)
+[30Dec2024 05:11:53.510] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[30Dec2024 05:11:53.536] [modloading-worker-0/INFO] [Sound Physics - General/]: Initializing Simple Voice Chat integration
+[30Dec2024 05:11:53.537] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 1 plugin(s)
+[30Dec2024 05:11:53.542] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'sound_physics_remastered'
+[30Dec2024 05:11:53.860] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[30Dec2024 05:11:54.312] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[30Dec2024 05:11:54.315] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[30Dec2024 05:11:54.318] [main/INFO] [terrablender/]: Registered region regions_unexplored:primary to index 1 for type OVERWORLD
+[30Dec2024 05:11:54.321] [main/INFO] [terrablender/]: Registered region regions_unexplored:secondary to index 2 for type OVERWORLD
+[30Dec2024 05:11:54.324] [main/INFO] [terrablender/]: Registered region regions_unexplored:nether to index 1 for type NETHER
+[30Dec2024 05:11:54.502] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.10-7 Target: null
+[30Dec2024 05:11:54.503] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[30Dec2024 05:11:54.539] [main/INFO] [journeymap/]: Initializing Packet Registries
+[30Dec2024 05:11:54.778] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[30Dec2024 05:11:54.778] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[30Dec2024 05:11:54.876] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin waila:core at mcp.mobius.waila.plugin.core.WailaPluginCore
+[30Dec2024 05:11:54.898] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.WailaPluginVanilla
+[30Dec2024 05:11:54.968] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin waila:harvest at mcp.mobius.waila.plugin.harvest.WailaPluginHarvest
+[30Dec2024 05:11:54.973] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin waila:forge at mcp.mobius.waila.plugin.forge.WailaPluginForge
+[30Dec2024 05:11:54.990] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin securitycraft:plugin at net.geforcemods.securitycraft.compat.hudmods.WTHITDataProvider
+[30Dec2024 05:11:54.990] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin waila:extra at mcp.mobius.waila.plugin.extra.WailaPluginExtra
+[30Dec2024 05:11:55.065] [modloading-worker-0/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[30Dec2024 05:11:55.226] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.10 Target: 1.9.12
+[30Dec2024 05:11:55.227] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[30Dec2024 05:11:55.249] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.6.7 Target: 8.8.6
+[30Dec2024 05:11:55.250] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[30Dec2024 05:11:56.110] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.27 Target: null
+[30Dec2024 05:11:56.111] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[30Dec2024 05:11:56.263] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: AHEAD Current: 1.20.1-1.4.8 Target: null
+[30Dec2024 05:11:56.264] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[30Dec2024 05:11:56.576] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
+[30Dec2024 05:12:02.415] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[30Dec2024 05:12:08.133] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/.2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23185!/assets/.mcassetsroot' uses unexpected schema
+[30Dec2024 05:12:08.136] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/.2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23185!/data/.mcassetsroot' uses unexpected schema
+[30Dec2024 05:12:14.812] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[30Dec2024 05:12:23.538] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:roost:entities/roost_rider}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[30Dec2024 05:12:23.539] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:entities/villager}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[30Dec2024 05:12:23.921] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 23 recipes
+[30Dec2024 05:12:24.615] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement terramity:ocarina_advancement: Task Advancement{parentId=terramity:prismatic_jewel_advancement, display=net.minecraft.advancements.DisplayInfo@2fd68539, rewards=AdvancementRewards{experience=60, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@2ba8c94f}, criteria={ocarina_advancement_0=net.minecraft.advancements.Criterion@441ef847}, requirements=[[ocarina_advancement_0]], sends_telemetry_event=false}
+[30Dec2024 05:12:24.621] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement terramity:fairy_advancement: Task Advancement{parentId=terramity:deleted_mod_element, display=net.minecraft.advancements.DisplayInfo@3deff52f, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@2ba8c94f}, criteria={fairy_advancement_0=net.minecraft.advancements.Criterion@e80ee15}, requirements=[[fairy_advancement_0]], sends_telemetry_event=false}
+[30Dec2024 05:12:24.623] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement terramity:frenzied_flame_advancement: Task Advancement{parentId=terramity:prismatic_jewel_advancement, display=net.minecraft.advancements.DisplayInfo@f51b0e4, rewards=AdvancementRewards{experience=100, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@2ba8c94f}, criteria={frenzied_flame_advancement_0=net.minecraft.advancements.Criterion@628175d}, requirements=[[frenzied_flame_advancement_0]], sends_telemetry_event=false}
+[30Dec2024 05:12:24.624] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement terramity:microcosm_advancement: Task Advancement{parentId=terramity:prismatic_jewel_advancement, display=net.minecraft.advancements.DisplayInfo@4fec9fb8, rewards=AdvancementRewards{experience=20, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@2ba8c94f}, criteria={microcosm_advancement_0=net.minecraft.advancements.Criterion@938fbe7}, requirements=[[microcosm_advancement_0]], sends_telemetry_event=false}
+[30Dec2024 05:12:24.629] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement terramity:opaline_moonstone_advancement: Task Advancement{parentId=terramity:prismatic_jewel_advancement, display=net.minecraft.advancements.DisplayInfo@664e80e1, rewards=AdvancementRewards{experience=20, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@2ba8c94f}, criteria={opaline_moonstone_advancement_0=net.minecraft.advancements.Criterion@2867a80c}, requirements=[[opaline_moonstone_advancement_0]], sends_telemetry_event=false}
+[30Dec2024 05:12:24.631] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement terramity:prismatic_jewel_advancement: Task Advancement{parentId=terramity:fairy_advancement, display=net.minecraft.advancements.DisplayInfo@305f7b45, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@2ba8c94f}, criteria={prismatic_jewel_advancement_0=net.minecraft.advancements.Criterion@25ed828a}, requirements=[[prismatic_jewel_advancement_0]], sends_telemetry_event=false}
+[30Dec2024 05:12:24.632] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement terramity:angel_feather_advancement: Task Advancement{parentId=terramity:prismatic_jewel_advancement, display=net.minecraft.advancements.DisplayInfo@1344c5db, rewards=AdvancementRewards{experience=20, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@2ba8c94f}, criteria={angel_feather_advancement_0=net.minecraft.advancements.Criterion@5af4fceb}, requirements=[[angel_feather_advancement_0]], sends_telemetry_event=false}
+[30Dec2024 05:12:24.634] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4463 advancements
+[30Dec2024 05:12:24.649] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
+[30Dec2024 05:12:24.656] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[30Dec2024 05:12:33.411] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[30Dec2024 05:12:33.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[30Dec2024 05:12:33.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[30Dec2024 05:12:33.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[30Dec2024 05:12:33.973] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[30Dec2024 05:12:34.460] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[30Dec2024 05:12:34.627] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[30Dec2024 05:12:34.629] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[30Dec2024 05:12:34.630] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[30Dec2024 05:12:34.638] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[30Dec2024 05:12:34.716] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[30Dec2024 05:12:36.865] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[30Dec2024 05:12:36.868] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[30Dec2024 05:12:36.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "🗡No ties amigos?☠"
+[30Dec2024 05:12:39.407] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:12:39.409] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:12:39.412] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:12:39.414] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:12:39.414] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:12:39.416] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:12:39.416] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:12:39.421] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[30Dec2024 05:12:39.421] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:12:39.444] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:12:39.445] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:12:39.446] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:12:39.447] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:12:39.447] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:12:39.450] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:12:39.452] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:12:39.452] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:12:39.452] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:12:39.453] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:12:39.453] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[30Dec2024 05:12:39.458] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:12:39.463] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:12:39.464] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[30Dec2024 05:12:39.464] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:12:39.464] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[30Dec2024 05:12:39.468] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[30Dec2024 05:12:39.469] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:12:39.469] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:12:39.473] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:12:39.473] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:12:39.473] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:12:39.474] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:12:39.474] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:12:39.474] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:12:39.475] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:12:39.482] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:12:39.482] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[30Dec2024 05:12:54.115] [Server thread/INFO] [net.regions_unexplored.RegionsUnexploredMod/]: Loading dimension "minecraft:the_nether" with biome source: "minecraft:multi_noise".
+[30Dec2024 05:12:54.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[30Dec2024 05:13:03.221] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 05:13:03.283] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 05:13:03.289] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 05:13:03.308] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 05:13:03.335] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 05:13:03.359] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 05:13:03.372] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 05:13:03.373] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 05:13:03.375] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 05:13:03.376] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 05:13:03.377] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 05:13:03.379] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 05:13:03.380] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 05:13:03.382] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 05:13:03.383] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 05:13:03.384] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 05:13:03.386] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 05:13:03.386] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 05:13:03.387] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 05:13:03.618] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 05:13:04.160] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Dec2024 05:13:04.625] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[30Dec2024 05:13:05.192] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 11075 ms
+[30Dec2024 05:13:05.193] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (30.503s)! For help, type "help"
+[30Dec2024 05:13:05.303] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[30Dec2024 05:13:05.310] [Server thread/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[30Dec2024 05:13:05.356] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[30Dec2024 05:13:05.357] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[30Dec2024 05:13:05.633] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 161719 bytes (in 17 string chunks with the size of 10000)
+[30Dec2024 05:13:05.634] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[30Dec2024 05:13:05.640] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[30Dec2024 05:13:05.666] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'units-constitute.gl.at.ply.gg:3140'
+[30Dec2024 05:13:05.668] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 3140
+[30Dec2024 05:13:44.048] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: manu[/127.227.189.202:39583] logged in with entity id 729 at (766.3084005129934, 63.0, 34.070819720190016)
+[30Dec2024 05:13:44.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu joined the game
+[30Dec2024 05:13:47.822] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of manu (18)
+[30Dec2024 05:13:47.826] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to manu
+[30Dec2024 05:13:47.851] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3895ms or 77 ticks behind
+[30Dec2024 05:13:57.386] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7540910e-dd19-3b9f-b7cd-b628422714d6
+[30Dec2024 05:13:58.638] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ADMIN[/127.227.189.202:44497] logged in with entity id 1012 at (826.5826898542347, 63.0, -45.49163285078235)
+[30Dec2024 05:13:58.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN joined the game
+[30Dec2024 05:14:00.207] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7540910e-dd19-3b9f-b7cd-b628422714d6
+[30Dec2024 05:14:00.214] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player manu (7540910e-dd19-3b9f-b7cd-b628422714d6) successfully connected to voice chat
+[30Dec2024 05:14:00.942] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ADMIN (18)
+[30Dec2024 05:14:00.945] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ADMIN
+[30Dec2024 05:14:04.956] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2150ms or 43 ticks behind
+[30Dec2024 05:14:08.861] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f462eb29-aa29-3588-8da2-a2565774ca02
+[30Dec2024 05:14:09.870] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f462eb29-aa29-3588-8da2-a2565774ca02
+[30Dec2024 05:14:09.872] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ADMIN (f462eb29-aa29-3588-8da2-a2565774ca02) successfully connected to voice chat
+[30Dec2024 05:14:28.321] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ram[/127.202.63.170:48619] logged in with entity id 1131 at (812.6007620613459, 63.0, 31.294111092546984)
+[30Dec2024 05:14:28.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram joined the game
+[30Dec2024 05:14:29.590] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ram (18)
+[30Dec2024 05:14:29.594] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ram
+[30Dec2024 05:14:36.019] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d72e33c0-cade-33f4-8968-a71c4f61cbe5
+[30Dec2024 05:14:37.020] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d72e33c0-cade-33f4-8968-a71c4f61cbe5
+[30Dec2024 05:14:37.022] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ram (d72e33c0-cade-33f4-8968-a71c4f61cbe5) successfully connected to voice chat
+[30Dec2024 05:15:04.969] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
+[30Dec2024 05:16:03.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved wrongly!
+[30Dec2024 05:16:03.723] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3117ms or 62 ticks behind
+[30Dec2024 05:16:44.344] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manu moved too quickly! -0.9013321754027572,0.0,-10.041218231621713
+[30Dec2024 05:16:56.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved wrongly!
+[30Dec2024 05:19:53.063] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 7540910e-dd19-3b9f-b7cd-b628422714d6 timed out
+[30Dec2024 05:19:53.068] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player manu
+[30Dec2024 05:19:53.070] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to manu
+[30Dec2024 05:19:59.826] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manu lost connection: Disconnected
+[30Dec2024 05:19:59.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu left the game
+[30Dec2024 05:19:59.832] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client manu
+[30Dec2024 05:19:59.896] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30Dec2024 05:21:14.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! -4.649327094754199,0.6200000047683716,-9.08830392696592
+[30Dec2024 05:24:02.311] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: manu[/127.227.189.202:55967] logged in with entity id 5897 at (94.38773204147607, 19.0, 55.702432752745715)
+[30Dec2024 05:24:02.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu joined the game
+[30Dec2024 05:24:04.073] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of manu (18)
+[30Dec2024 05:24:04.074] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to manu
+[30Dec2024 05:24:04.939] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
+[30Dec2024 05:24:32.376] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manu lost connection: Timed out
+[30Dec2024 05:24:32.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu left the game
+[30Dec2024 05:24:32.379] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client manu
+[30Dec2024 05:26:46.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was shot by Dungeon Sentry
+[30Dec2024 05:26:46.930] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[30Dec2024 05:26:47.030] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[30Dec2024 05:27:06.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to ram]
+[30Dec2024 05:27:42.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was shot by Dungeon Sentry
+[30Dec2024 05:27:42.575] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[30Dec2024 05:27:42.578] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[30Dec2024 05:29:54.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> [x:834, y:70, z:-15, dim:minecraft:overworld]
+[30Dec2024 05:29:54.302] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: manu[/127.227.189.202:57655] logged in with entity id 7774 at (94.38773204147607, 19.0, 55.702432752745715)
+[30Dec2024 05:29:54.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu joined the game
+[30Dec2024 05:29:56.257] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of manu (18)
+[30Dec2024 05:29:56.261] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to manu
+[30Dec2024 05:30:07.487] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7540910e-dd19-3b9f-b7cd-b628422714d6
+[30Dec2024 05:30:08.487] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7540910e-dd19-3b9f-b7cd-b628422714d6
+[30Dec2024 05:30:08.490] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player manu (7540910e-dd19-3b9f-b7cd-b628422714d6) successfully connected to voice chat
+[30Dec2024 05:31:38.152] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2746ms or 54 ticks behind
+[30Dec2024 05:33:11.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has made the advancement [Hidden in the Depths]
+[30Dec2024 05:33:31.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu tried to swim in lava
+[30Dec2024 05:33:31.433] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[30Dec2024 05:33:31.433] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[30Dec2024 05:33:34.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu tried to swim in lava
+[30Dec2024 05:33:34.501] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[30Dec2024 05:34:08.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was simmered in stygian blood
+[30Dec2024 05:34:08.432] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[30Dec2024 05:34:08.436] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[30Dec2024 05:34:10.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram was simmered in stygian blood
+[30Dec2024 05:34:10.435] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[30Dec2024 05:37:27.425] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['susano'/7552, l='ServerLevel[🗡No ties amigos?☠]', x=829.37, y=63.00, z=-47.74] died, message: 'susano was shot by Oak'
+[30Dec2024 05:37:27.427] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['susano'/7552, l='ServerLevel[🗡No ties amigos?☠]', x=829.37, y=63.00, z=-47.74] died: susano was shot by Oak
+[30Dec2024 05:37:38.611] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['thor'/7550, l='ServerLevel[🗡No ties amigos?☠]', x=834.33, y=67.00, z=-49.90] died, message: 'thor suffocated in a wall'
+[30Dec2024 05:37:38.612] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['thor'/7550, l='ServerLevel[🗡No ties amigos?☠]', x=834.33, y=67.00, z=-49.90] died: thor suffocated in a wall
+[30Dec2024 05:38:46.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu burned to death
+[30Dec2024 05:38:46.577] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[30Dec2024 05:38:46.579] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[30Dec2024 05:39:02.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu burned to death
+[30Dec2024 05:44:47.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu burned to death
+[30Dec2024 05:44:47.580] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[30Dec2024 05:44:47.583] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[30Dec2024 05:44:54.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu burned to death
+[30Dec2024 05:45:08.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [Your First Receptacle]
+[30Dec2024 05:48:46.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was slain by Cyclops
+[30Dec2024 05:48:46.184] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
+[30Dec2024 05:48:46.213] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[30Dec2024 05:49:00.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to ram]
+[30Dec2024 05:50:30.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [Back to childhood]
+[30Dec2024 05:50:30.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [Not even afraid of death]

@@ -7010,6 +7010,18 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2024-12-29 05:51:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_aquatic_life": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-29 05:55:00 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/use_tide_trident": {
     "criteria": {
       "shot_arrow": "2024-12-29 05:59:38 +0000"
@@ -7028,21 +7040,27 @@
     },
     "done": true
   },
-  "tombstone:adventure/create_magic_tablet": {
-    "criteria": {
-      "has_magic_tablet": "2024-12-29 05:51:34 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/use_purification": {
     "criteria": {
       "has_magic_scroll": "2024-12-29 07:19:08 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/use_aquatic_life": {
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
-      "has_magic_scroll": "2024-12-29 05:55:00 +0000"
+      "has_ancient_debris": "2024-12-30 05:33:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-30 05:33:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-30 05:33:11 +0000"
     },
     "done": true
   },
