@@ -7064,6 +7064,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/yellow_bioshroom_hanging_sign": {
+    "criteria": {
+      "has_stripped_yellow_bioshroom_stem": "2024-12-30 06:01:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/stripped_yellow_bioshroom_hyphae": {
+    "criteria": {
+      "has_log": "2024-12-30 06:01:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_purple_dye": "2024-12-30 06:05:25 +0000"
@@ -7076,27 +7088,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/purple_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2024-12-30 06:05:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
     "criteria": {
       "has_purple_dye": "2024-12-30 06:05:25 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_home": {
-    "criteria": {
-      "coded_trigger": "2024-12-30 06:28:33 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_feather_fall": {
-    "criteria": {
-      "has_magic_scroll": "2024-12-30 06:42:49 +0000"
     },
     "done": true
   },
@@ -7118,15 +7112,21 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/yellow_bioshroom_hanging_sign": {
+  "minecraft:recipes/decorations/purple_stained_glass_pane": {
     "criteria": {
-      "has_stripped_yellow_bioshroom_stem": "2024-12-30 06:01:31 +0000"
+      "has_glass": "2024-12-30 06:05:59 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/stripped_yellow_bioshroom_hyphae": {
+  "tombstone:adventure/use_home": {
     "criteria": {
-      "has_log": "2024-12-30 06:01:31 +0000"
+      "coded_trigger": "2024-12-30 06:28:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_feather_fall": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-30 06:42:49 +0000"
     },
     "done": true
   },

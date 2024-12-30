@@ -741,3 +741,52 @@
 [30Dec2024 06:53:21.869] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
 [30Dec2024 06:53:22.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN was simmered in stygian blood
 [30Dec2024 06:53:22.122] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[30Dec2024 06:53:44.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was simmered in stygian blood
+[30Dec2024 06:53:44.720] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
+[30Dec2024 06:53:44.721] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[30Dec2024 06:53:46.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN was simmered in stygian blood
+[30Dec2024 06:53:46.806] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[30Dec2024 06:54:20.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ram to ADMIN]
+[30Dec2024 06:54:32.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported manu to ADMIN]
+[30Dec2024 06:55:06.734] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player f462eb29-aa29-3588-8da2-a2565774ca02 timed out
+[30Dec2024 06:55:06.734] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player ADMIN
+[30Dec2024 06:55:06.735] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to ADMIN
+[30Dec2024 06:55:06.736] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 7540910e-dd19-3b9f-b7cd-b628422714d6 timed out
+[30Dec2024 06:55:06.736] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player manu
+[30Dec2024 06:55:06.736] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to manu
+[30Dec2024 06:55:22.612] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manu lost connection: Timed out
+[30Dec2024 06:55:22.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu left the game
+[30Dec2024 06:55:22.612] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client manu
+[30Dec2024 06:55:25.062] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN lost connection: Timed out
+[30Dec2024 06:55:25.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN left the game
+[30Dec2024 06:55:25.063] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ADMIN
+[30Dec2024 06:55:46.032] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ADMIN[/127.227.189.202:47083] logged in with entity id 48794 at (83.58834830607732, 139.0, 1233.9899065421494)
+[30Dec2024 06:55:46.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN joined the game
+[30Dec2024 06:55:46.379] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ADMIN (18)
+[30Dec2024 06:55:46.380] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ADMIN
+[30Dec2024 06:55:49.713] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f462eb29-aa29-3588-8da2-a2565774ca02
+[30Dec2024 06:55:50.714] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f462eb29-aa29-3588-8da2-a2565774ca02
+[30Dec2024 06:55:50.715] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ADMIN (f462eb29-aa29-3588-8da2-a2565774ca02) successfully connected to voice chat
+[30Dec2024 06:55:53.381] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: manu[/127.227.189.202:41487] logged in with entity id 48799 at (82.89534387221865, 139.0, 1233.3549174911973)
+[30Dec2024 06:55:53.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu joined the game
+[30Dec2024 06:55:53.821] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of manu (18)
+[30Dec2024 06:55:53.822] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to manu
+[30Dec2024 06:56:00.311] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7540910e-dd19-3b9f-b7cd-b628422714d6
+[30Dec2024 06:56:01.308] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7540910e-dd19-3b9f-b7cd-b628422714d6
+[30Dec2024 06:56:01.308] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player manu (7540910e-dd19-3b9f-b7cd-b628422714d6) successfully connected to voice chat
+[30Dec2024 06:56:09.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was shot by Dungeon Sentry
+[30Dec2024 06:56:09.717] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
+[30Dec2024 06:56:09.720] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[30Dec2024 06:56:24.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was burnt to a crisp whilst fighting manu
+[30Dec2024 06:56:24.823] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
+[30Dec2024 06:56:24.824] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[30Dec2024 06:56:52.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Dungeon Effigy
+[30Dec2024 06:56:52.512] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[30Dec2024 06:56:52.521] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[30Dec2024 06:56:53.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was slain by Dungeon Effigy
+[30Dec2024 06:56:53.912] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
+[30Dec2024 06:56:53.921] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[30Dec2024 06:57:00.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN was slain by Dungeon Effigy
+[30Dec2024 06:57:12.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was slain by Dungeon Effigy
+[30Dec2024 06:58:40.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ram to manu]
+[30Dec2024 06:58:46.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to manu]
