@@ -862,3 +862,17 @@
 [30Dec2024 07:21:02.195] [Worker-Main-72/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [30Dec2024 07:21:02.196] [Worker-Main-72/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [30Dec2024 07:21:02.197] [Worker-Main-72/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[30Dec2024 07:25:04.842] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=459, y=-58, z=482}
+[30Dec2024 07:25:04.843] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=460, y=-58, z=482}
+[30Dec2024 07:25:04.843] [Worker-Main-72/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=461, y=-58, z=482}
+[30Dec2024 07:27:09.967] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram lost connection: Disconnected
+[30Dec2024 07:27:09.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram left the game
+[30Dec2024 07:27:09.968] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ram
+[30Dec2024 07:30:10.831] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ram[/127.202.63.170:59755] logged in with entity id 62193 at (684.66087654256, 62.9375, 1846.1767415056347)
+[30Dec2024 07:30:10.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram joined the game
+[30Dec2024 07:30:11.930] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ram (18)
+[30Dec2024 07:30:11.936] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ram
+[30Dec2024 07:30:17.450] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d72e33c0-cade-33f4-8968-a71c4f61cbe5
+[30Dec2024 07:30:18.455] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d72e33c0-cade-33f4-8968-a71c4f61cbe5
+[30Dec2024 07:30:18.456] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ram (d72e33c0-cade-33f4-8968-a71c4f61cbe5) successfully connected to voice chat
+[30Dec2024 07:34:04.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> azazzzzzzzzzzzzzzzzzzzzzzz
