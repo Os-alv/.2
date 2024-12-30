@@ -876,3 +876,13 @@
 [30Dec2024 07:30:18.455] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d72e33c0-cade-33f4-8968-a71c4f61cbe5
 [30Dec2024 07:30:18.456] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ram (d72e33c0-cade-33f4-8968-a71c4f61cbe5) successfully connected to voice chat
 [30Dec2024 07:34:04.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> azazzzzzzzzzzzzzzzzzzzzzzz
+[30Dec2024 07:38:59.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manu moved wrongly!
+[30Dec2024 07:44:19.336] [Worker-Main-71/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[30Dec2024 07:44:19.337] [Worker-Main-71/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[30Dec2024 07:44:19.337] [Worker-Main-71/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[30Dec2024 07:44:19.337] [Worker-Main-71/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[30Dec2024 07:44:20.884] [Worker-Main-71/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[30Dec2024 07:44:20.886] [Worker-Main-71/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[30Dec2024 07:44:20.887] [Worker-Main-71/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[30Dec2024 07:44:20.888] [Worker-Main-71/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[30Dec2024 07:44:25.454] [Worker-Main-71/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
