@@ -302,3 +302,54 @@
 [30Dec2024 05:56:32.476] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7540910e-dd19-3b9f-b7cd-b628422714d6
 [30Dec2024 05:56:32.477] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player manu (7540910e-dd19-3b9f-b7cd-b628422714d6) successfully connected to voice chat
 [30Dec2024 05:57:34.074] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! -0.10531489737331867,0.20000004768371582,19.61542248725891
+[30Dec2024 06:02:20.969] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[30Dec2024 06:02:24.318] [Worker-Main-62/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[30Dec2024 06:02:24.322] [Worker-Main-62/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[30Dec2024 06:02:24.471] [Worker-Main-62/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[30Dec2024 06:02:25.536] [Worker-Main-62/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[30Dec2024 06:02:30.846] [Worker-Main-71/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[30Dec2024 06:02:30.849] [Worker-Main-71/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[30Dec2024 06:03:41.692] [Worker-Main-62/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[30Dec2024 06:05:31.570] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[30Dec2024 06:05:52.050] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5494ms or 109 ticks behind
+[30Dec2024 06:06:10.505] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3499ms or 69 ticks behind
+[30Dec2024 06:06:32.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [Those Were the Days]
+[30Dec2024 06:07:09.485] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[30Dec2024 06:07:44.960] [Worker-Main-62/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[30Dec2024 06:07:44.964] [Worker-Main-62/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[30Dec2024 06:07:44.983] [Worker-Main-62/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[30Dec2024 06:07:44.986] [Worker-Main-62/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[30Dec2024 06:07:44.988] [Worker-Main-62/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[30Dec2024 06:07:44.990] [Worker-Main-62/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[30Dec2024 06:07:44.992] [Worker-Main-62/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[30Dec2024 06:07:46.291] [Worker-Main-71/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[30Dec2024 06:07:46.292] [Worker-Main-71/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[30Dec2024 06:07:46.504] [Worker-Main-71/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[30Dec2024 06:07:46.507] [Worker-Main-71/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[30Dec2024 06:07:46.510] [Worker-Main-71/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[30Dec2024 06:07:46.512] [Worker-Main-71/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[30Dec2024 06:07:46.515] [Worker-Main-71/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:fire_magic_resist'
+[30Dec2024 06:07:46.517] [Worker-Main-71/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[30Dec2024 06:07:46.518] [Worker-Main-71/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:fire_magic_resist'
+[30Dec2024 06:07:46.520] [Worker-Main-71/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[30Dec2024 06:07:46.523] [Worker-Main-71/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[30Dec2024 06:07:46.526] [Worker-Main-71/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[30Dec2024 06:07:46.528] [Worker-Main-71/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:fire_magic_resist'
+[30Dec2024 06:07:46.529] [Worker-Main-71/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[30Dec2024 06:07:46.727] [Worker-Main-71/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[30Dec2024 06:07:48.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ram to ADMIN]
+[30Dec2024 06:07:49.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [Those Were the Days]
+[30Dec2024 06:09:08.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [War Pigs]
+[30Dec2024 06:09:16.720] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d72e33c0-cade-33f4-8968-a71c4f61cbe5 timed out
+[30Dec2024 06:09:16.722] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player ram
+[30Dec2024 06:09:16.726] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to ram
+[30Dec2024 06:09:19.270] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram lost connection: Disconnected
+[30Dec2024 06:09:19.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram left the game
+[30Dec2024 06:09:19.274] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ram
+[30Dec2024 06:11:42.228] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ram[/127.202.63.170:59641] logged in with entity id 27059 at (-278.6915017636405, 49.0, 366.2721440690337)
+[30Dec2024 06:11:42.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram joined the game
+[30Dec2024 06:11:43.643] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ram (18)
+[30Dec2024 06:11:43.644] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ram
+[30Dec2024 06:11:50.496] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d72e33c0-cade-33f4-8968-a71c4f61cbe5
+[30Dec2024 06:11:51.495] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d72e33c0-cade-33f4-8968-a71c4f61cbe5
+[30Dec2024 06:11:51.496] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ram (d72e33c0-cade-33f4-8968-a71c4f61cbe5) successfully connected to voice chat
