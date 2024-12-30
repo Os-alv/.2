@@ -281,3 +281,24 @@
 [30Dec2024 05:49:00.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to ram]
 [30Dec2024 05:50:30.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [Back to childhood]
 [30Dec2024 05:50:30.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [Not even afraid of death]
+[30Dec2024 05:54:56.764] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manu lost connection: Timed out
+[30Dec2024 05:54:56.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu left the game
+[30Dec2024 05:54:56.767] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client manu
+[30Dec2024 05:55:02.813] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN lost connection: Timed out
+[30Dec2024 05:55:02.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN left the game
+[30Dec2024 05:55:02.815] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ADMIN
+[30Dec2024 05:56:17.686] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ADMIN[/127.227.189.202:57197] logged in with entity id 18885 at (794.7264653323253, 72.0, 25.50364302954539)
+[30Dec2024 05:56:17.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN joined the game
+[30Dec2024 05:56:18.123] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ADMIN (18)
+[30Dec2024 05:56:18.125] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ADMIN
+[30Dec2024 05:56:22.883] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: manu[/127.227.189.202:51741] logged in with entity id 18951 at (803.3323296094916, 72.0, 24.483296358688335)
+[30Dec2024 05:56:22.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu joined the game
+[30Dec2024 05:56:23.271] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of manu (18)
+[30Dec2024 05:56:23.272] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to manu
+[30Dec2024 05:56:25.742] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f462eb29-aa29-3588-8da2-a2565774ca02
+[30Dec2024 05:56:26.741] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f462eb29-aa29-3588-8da2-a2565774ca02
+[30Dec2024 05:56:26.742] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ADMIN (f462eb29-aa29-3588-8da2-a2565774ca02) successfully connected to voice chat
+[30Dec2024 05:56:31.463] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7540910e-dd19-3b9f-b7cd-b628422714d6
+[30Dec2024 05:56:32.476] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7540910e-dd19-3b9f-b7cd-b628422714d6
+[30Dec2024 05:56:32.477] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player manu (7540910e-dd19-3b9f-b7cd-b628422714d6) successfully connected to voice chat
+[30Dec2024 05:57:34.074] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! -0.10531489737331867,0.20000004768371582,19.61542248725891

@@ -969,6 +969,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-11 21:43:25 +0000",
       "minecraft:skeleton": "2024-12-11 06:02:53 +0000",
+      "minecraft:ghast": "2024-12-30 05:58:18 +0000",
       "minecraft:vindicator": "2024-12-11 21:42:48 +0000",
       "minecraft:spider": "2024-12-12 01:19:45 +0000",
       "minecraft:creeper": "2024-12-12 01:05:28 +0000",
@@ -1014,6 +1015,7 @@
       "golden_apple": "2024-12-12 04:04:47 +0000",
       "rotten_flesh": "2024-12-11 05:58:10 +0000",
       "golden_carrot": "2024-12-21 06:31:57 +0000",
+      "cooked_chicken": "2024-12-30 05:49:56 +0000",
       "carrot": "2024-12-12 06:25:23 +0000"
     },
     "done": false
