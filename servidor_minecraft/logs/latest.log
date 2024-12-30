@@ -701,3 +701,43 @@
 [30Dec2024 06:40:39.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ram to ADMIN]
 [30Dec2024 06:42:49.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has reached the goal [Like a bird]
 [30Dec2024 06:43:06.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to ram]
+[30Dec2024 06:43:15.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was slain by Dungeon Effigy
+[30Dec2024 06:43:15.999] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
+[30Dec2024 06:43:16.027] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[30Dec2024 06:45:28.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Dungeon Effigy
+[30Dec2024 06:45:28.216] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[30Dec2024 06:45:28.220] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[30Dec2024 06:45:43.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was slain by Dungeon Effigy
+[30Dec2024 06:46:03.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Dungeon Effigy
+[30Dec2024 06:46:03.814] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[30Dec2024 06:46:03.826] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[30Dec2024 06:46:06.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was slain by Dungeon Effigy
+[30Dec2024 06:46:06.613] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
+[30Dec2024 06:46:06.622] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[30Dec2024 06:46:10.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was slain by Dungeon Effigy
+[30Dec2024 06:46:13.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN was slain by Dungeon Effigy
+[30Dec2024 06:47:38.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ram to ADMIN]
+[30Dec2024 06:47:50.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was shot by ram
+[30Dec2024 06:47:50.865] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
+[30Dec2024 06:47:50.870] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[30Dec2024 06:47:59.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was slain by Dungeon Effigy
+[30Dec2024 06:47:59.110] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[30Dec2024 06:47:59.124] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[30Dec2024 06:48:06.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN was shot by ram
+[30Dec2024 06:51:12.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was shot by Dungeon Sentry
+[30Dec2024 06:51:12.468] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
+[30Dec2024 06:51:12.469] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[30Dec2024 06:52:34.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ram to ADMIN]
+[30Dec2024 06:52:44.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was shot by Dungeon Sentry
+[30Dec2024 06:52:44.366] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
+[30Dec2024 06:52:44.370] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[30Dec2024 06:53:19.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was simmered in stygian blood
+[30Dec2024 06:53:19.871] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[30Dec2024 06:53:19.873] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[30Dec2024 06:53:20.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was simmered in stygian blood
+[30Dec2024 06:53:20.116] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
+[30Dec2024 06:53:20.118] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[30Dec2024 06:53:21.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was simmered in stygian blood
+[30Dec2024 06:53:21.869] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[30Dec2024 06:53:22.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN was simmered in stygian blood
+[30Dec2024 06:53:22.122] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
