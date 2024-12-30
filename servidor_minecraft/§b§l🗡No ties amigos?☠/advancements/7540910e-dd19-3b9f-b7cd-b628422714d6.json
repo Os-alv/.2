@@ -7088,6 +7088,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_home": {
+    "criteria": {
+      "coded_trigger": "2024-12-30 06:28:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_purple_bed": {
     "criteria": {
       "has_needed_dye": "2024-12-30 06:05:25 +0000"
