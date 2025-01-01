@@ -504,3 +504,18 @@
 [01Jan2025 23:32:45.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram left the game
 [01Jan2025 23:32:45.258] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ram
 [01Jan2025 23:39:16.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! 13.280030871654048,0.705600013732905,1.0534659860651345
+[01Jan2025 23:40:20.783] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3542ms or 70 ticks behind
+[01Jan2025 23:42:05.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported manu to ADMIN]
+[01Jan2025 23:42:18.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to manu]
+[01Jan2025 23:43:41.028] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ram[/127.132.119.231:58989] logged in with entity id 45326 at (-775.6598651617344, 74.0, -386.2011349849386)
+[01Jan2025 23:43:41.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram joined the game
+[01Jan2025 23:43:42.241] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ram (18)
+[01Jan2025 23:43:42.248] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ram
+[01Jan2025 23:43:48.513] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d72e33c0-cade-33f4-8968-a71c4f61cbe5
+[01Jan2025 23:43:49.513] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d72e33c0-cade-33f4-8968-a71c4f61cbe5
+[01Jan2025 23:43:49.514] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ram (d72e33c0-cade-33f4-8968-a71c4f61cbe5) successfully connected to voice chat
+[01Jan2025 23:44:46.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ram to manu]
+[01Jan2025 23:44:59.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has made the advancement [Local Brewery]
+[01Jan2025 23:45:01.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> zzzzzzzzzzzzzzzzzzzzzz
+[01Jan2025 23:45:04.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> jungla diff
+[01Jan2025 23:45:12.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [A Seedy Place]
