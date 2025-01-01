@@ -300,3 +300,32 @@
 [01Jan2025 23:07:26.499] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
 [01Jan2025 23:07:39.635] [Worker-Main-14/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [01Jan2025 23:07:43.402] [Worker-Main-14/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Jan2025 23:08:15.078] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Jan2025 23:08:16.105] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Jan2025 23:08:41.171] [Worker-Main-14/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Jan2025 23:08:41.205] [Worker-Main-14/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Jan2025 23:08:43.902] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Jan2025 23:08:43.936] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Jan2025 23:08:56.565] [Worker-Main-14/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Jan2025 23:09:03.548] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Jan2025 23:09:03.751] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Jan2025 23:09:03.753] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Jan2025 23:09:03.753] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Jan2025 23:10:35.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to manu]
+[01Jan2025 23:11:02.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN was kicked for floating too long!
+[01Jan2025 23:11:02.404] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN lost connection: Flying is not enabled on this server
+[01Jan2025 23:11:02.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN left the game
+[01Jan2025 23:11:02.405] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ADMIN
+[01Jan2025 23:11:51.489] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ADMIN[/127.227.189.202:53923] logged in with entity id 32349 at (794.8240001252582, 74.39377968791523, 26.2824156574501)
+[01Jan2025 23:11:51.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN joined the game
+[01Jan2025 23:11:51.937] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ADMIN (18)
+[01Jan2025 23:11:51.938] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ADMIN
+[01Jan2025 23:11:56.979] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f462eb29-aa29-3588-8da2-a2565774ca02
+[01Jan2025 23:11:57.937] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f462eb29-aa29-3588-8da2-a2565774ca02
+[01Jan2025 23:11:57.938] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ADMIN (f462eb29-aa29-3588-8da2-a2565774ca02) successfully connected to voice chat
+[01Jan2025 23:13:45.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <manu> [name:"aramadura negra", x:1054, y:23, z:-1634, dim:minecraft:overworld]
+[01Jan2025 23:14:50.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has reached the goal [To be or not to be]
+[01Jan2025 23:14:57.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has reached the goal [Powder Snow Walk]
+[01Jan2025 23:15:42.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has completed the challenge [Just a Flesh Wound]
+[01Jan2025 23:17:40.009] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jan2025 23:17:46.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! -0.35867078150592135,0.20000004768371582,20.00355446673432
