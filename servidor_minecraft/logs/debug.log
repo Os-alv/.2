@@ -7192,3 +7192,20 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [01Jan2025 23:28:31.943] [Worker-Main-14/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [01Jan2025 23:28:31.955] [Worker-Main-14/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [01Jan2025 23:28:39.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has made the advancement [Spooky Scary Skeleton]
+[01Jan2025 23:29:04.701] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[01Jan2025 23:29:04.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[01Jan2025 23:29:07.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has made the advancement [Into Fire]
+[01Jan2025 23:29:51.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [Into Fire]
+[01Jan2025 23:30:26.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported manu to ADMIN]
+[01Jan2025 23:31:01.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has made the advancement [Light Snack]
+[01Jan2025 23:31:18.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [Into Fire]
+[01Jan2025 23:32:45.255] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram lost connection: Disconnected
+[01Jan2025 23:32:45.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram left the game
+[01Jan2025 23:32:45.258] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of ram
+[01Jan2025 23:32:45.258] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ram
+[01Jan2025 23:32:45.271] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player d72e33c0-cade-33f4-8968-a71c4f61cbe5 does not have a secret
+[01Jan2025 23:34:04.482] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[01Jan2025 23:34:04.494] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[01Jan2025 23:39:04.504] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[01Jan2025 23:39:04.515] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[01Jan2025 23:39:16.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! 13.280030871654048,0.705600013732905,1.0534659860651345

@@ -495,3 +495,12 @@
 [01Jan2025 23:28:31.943] [Worker-Main-14/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [01Jan2025 23:28:31.955] [Worker-Main-14/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [01Jan2025 23:28:39.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has made the advancement [Spooky Scary Skeleton]
+[01Jan2025 23:29:07.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has made the advancement [Into Fire]
+[01Jan2025 23:29:51.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has made the advancement [Into Fire]
+[01Jan2025 23:30:26.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported manu to ADMIN]
+[01Jan2025 23:31:01.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has made the advancement [Light Snack]
+[01Jan2025 23:31:18.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [Into Fire]
+[01Jan2025 23:32:45.255] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram lost connection: Disconnected
+[01Jan2025 23:32:45.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram left the game
+[01Jan2025 23:32:45.258] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ram
+[01Jan2025 23:39:16.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! 13.280030871654048,0.705600013732905,1.0534659860651345
