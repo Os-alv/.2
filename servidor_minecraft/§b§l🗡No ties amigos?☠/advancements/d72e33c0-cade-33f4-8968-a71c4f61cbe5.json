@@ -2276,6 +2276,7 @@
       "bread": "2024-12-11 07:20:41 +0000",
       "golden_apple": "2024-12-29 06:46:55 +0000",
       "rotten_flesh": "2024-12-14 08:14:13 +0000",
+      "glow_berries": "2025-01-01 22:52:03 +0000",
       "melon_slice": "2025-01-01 03:17:16 +0000",
       "beetroot": "2024-12-11 07:41:55 +0000",
       "cooked_chicken": "2025-01-01 03:08:05 +0000",
@@ -6998,6 +6999,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/forest_troll_leather_boots": {
+    "criteria": {
+      "has_item": "2025-01-01 22:52:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/palettes/scorchia": {
     "criteria": {
       "has_item": "2025-01-01 21:56:28 +0000"
@@ -7007,6 +7014,12 @@
   "create:recipes/building_blocks/layered_scoria_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-01-01 21:56:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_leggings": {
+    "criteria": {
+      "has_item": "2025-01-01 22:52:09 +0000"
     },
     "done": true
   },
@@ -7031,6 +7044,12 @@
   "create:recipes/building_blocks/cut_scoria_wall_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-01-01 21:56:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-01 22:52:09 +0000"
     },
     "done": true
   },
@@ -7061,6 +7080,12 @@
   "create:recipes/building_blocks/polished_cut_scoria_wall_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-01-01 21:56:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-01 22:51:51 +0000"
     },
     "done": true
   },
