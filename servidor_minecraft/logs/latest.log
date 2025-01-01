@@ -297,3 +297,4 @@
 [01Jan2025 03:34:01.519] [Worker-Main-115/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [01Jan2025 03:34:01.521] [Worker-Main-115/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [01Jan2025 03:34:01.522] [Worker-Main-115/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Jan2025 03:41:45.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> [x:1179, y:81, z:-1397, dim:minecraft:overworld]
