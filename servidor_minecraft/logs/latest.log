@@ -281,3 +281,7 @@
 [01Jan2025 03:04:31.708] [Worker-Main-59/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [01Jan2025 03:04:31.711] [Worker-Main-59/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [01Jan2025 03:04:31.724] [Worker-Main-59/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Jan2025 03:21:13.384] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram lost connection: Timed out
+[01Jan2025 03:21:13.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram left the game
+[01Jan2025 03:21:13.394] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ram
+[01Jan2025 03:21:13.430] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
