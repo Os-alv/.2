@@ -285,3 +285,15 @@
 [01Jan2025 03:21:13.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram left the game
 [01Jan2025 03:21:13.394] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ram
 [01Jan2025 03:21:13.430] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Jan2025 03:30:23.122] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ram[/127.132.119.231:51557] logged in with entity id 12577 at (1163.0, 55.0, -1389.0)
+[01Jan2025 03:30:23.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram joined the game
+[01Jan2025 03:30:23.439] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ram (18)
+[01Jan2025 03:30:23.444] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ram
+[01Jan2025 03:30:29.110] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d72e33c0-cade-33f4-8968-a71c4f61cbe5
+[01Jan2025 03:30:30.126] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d72e33c0-cade-33f4-8968-a71c4f61cbe5
+[01Jan2025 03:30:30.128] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ram (d72e33c0-cade-33f4-8968-a71c4f61cbe5) successfully connected to voice chat
+[01Jan2025 03:34:00.998] [Worker-Main-115/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Jan2025 03:34:01.517] [Worker-Main-115/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Jan2025 03:34:01.519] [Worker-Main-115/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Jan2025 03:34:01.521] [Worker-Main-115/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[01Jan2025 03:34:01.522] [Worker-Main-115/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
