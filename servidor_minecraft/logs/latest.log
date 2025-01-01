@@ -298,3 +298,13 @@
 [01Jan2025 03:34:01.521] [Worker-Main-115/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [01Jan2025 03:34:01.522] [Worker-Main-115/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [01Jan2025 03:41:45.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> [x:1179, y:81, z:-1397, dim:minecraft:overworld]
+[01Jan2025 04:15:48.156] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram lost connection: Disconnected
+[01Jan2025 04:15:48.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram left the game
+[01Jan2025 04:15:48.158] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ram
+[01Jan2025 04:19:06.440] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ram[/127.132.119.231:34255] logged in with entity id 18212 at (1176.461711630736, 50.25220334025373, -1399.1011479578103)
+[01Jan2025 04:19:06.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram joined the game
+[01Jan2025 04:19:07.724] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ram (18)
+[01Jan2025 04:19:07.727] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ram
+[01Jan2025 04:19:13.141] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d72e33c0-cade-33f4-8968-a71c4f61cbe5
+[01Jan2025 04:19:14.141] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d72e33c0-cade-33f4-8968-a71c4f61cbe5
+[01Jan2025 04:19:14.143] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ram (d72e33c0-cade-33f4-8968-a71c4f61cbe5) successfully connected to voice chat
