@@ -216,3 +216,4 @@
 [01Jan2025 02:11:16.069] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d72e33c0-cade-33f4-8968-a71c4f61cbe5
 [01Jan2025 02:11:17.066] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d72e33c0-cade-33f4-8968-a71c4f61cbe5
 [01Jan2025 02:11:17.070] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ram (d72e33c0-cade-33f4-8968-a71c4f61cbe5) successfully connected to voice chat
+[01Jan2025 02:22:57.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> wj
