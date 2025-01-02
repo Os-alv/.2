@@ -987,7 +987,8 @@
       "minecraft:piglin": "2024-12-12 03:00:54 +0000",
       "minecraft:stray": "2024-12-11 07:16:06 +0000",
       "minecraft:enderman": "2024-12-21 05:27:58 +0000",
-      "minecraft:zombie": "2024-12-11 05:58:04 +0000"
+      "minecraft:zombie": "2024-12-11 05:58:04 +0000",
+      "minecraft:drowned": "2025-01-02 03:19:03 +0000"
     },
     "done": false
   },
@@ -8073,39 +8074,9 @@
     },
     "done": true
   },
-  "goblins_tyranny:goblins_encounter_success": {
-    "criteria": {
-      "goblins_encounter_success_0": "2025-01-02 03:02:31 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/blasting/copper_ingot_from_crushed": {
-    "criteria": {
-      "has_item": "2025-01-02 03:04:03 +0000"
-    },
-    "done": true
-  },
-  "goblins_tyranny:goblins_slayer_success": {
-    "criteria": {
-      "goblins_slayer_success_0": "2025-01-02 03:02:33 +0000"
-    },
-    "done": true
-  },
-  "goblins_tyranny:bag_success": {
-    "criteria": {
-      "bag_success_0": "2025-01-02 03:04:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-01-02 02:13:11 +0000"
-    },
-    "done": true
-  },
-  "goblins_tyranny:poison_success": {
-    "criteria": {
-      "poison_success_0": "2025-01-02 03:04:27 +0000"
     },
     "done": true
   },
@@ -8145,12 +8116,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/smelting/copper_ingot_from_crushed": {
-    "criteria": {
-      "has_item": "2025-01-02 03:04:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-01-02 02:13:11 +0000"
@@ -8169,15 +8134,27 @@
     },
     "done": true
   },
-  "goblins_tyranny:bomb_success": {
-    "criteria": {
-      "bomb_success_0": "2025-01-02 03:04:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-01-02 02:13:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-01-02 02:13:11 +0000"
+    },
+    "done": true
+  },
+  "goblins_tyranny:goblins_encounter_success": {
+    "criteria": {
+      "goblins_encounter_success_0": "2025-01-02 03:02:31 +0000"
+    },
+    "done": true
+  },
+  "goblins_tyranny:goblins_slayer_success": {
+    "criteria": {
+      "goblins_slayer_success_0": "2025-01-02 03:02:33 +0000"
     },
     "done": true
   },
@@ -8187,9 +8164,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+  "create:recipes/misc/blasting/copper_ingot_from_crushed": {
     "criteria": {
-      "has_polished_deepslate": "2025-01-02 02:13:11 +0000"
+      "has_item": "2025-01-02 03:04:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/copper_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-01-02 03:04:03 +0000"
+    },
+    "done": true
+  },
+  "goblins_tyranny:bag_success": {
+    "criteria": {
+      "bag_success_0": "2025-01-02 03:04:27 +0000"
+    },
+    "done": true
+  },
+  "goblins_tyranny:poison_success": {
+    "criteria": {
+      "poison_success_0": "2025-01-02 03:04:27 +0000"
+    },
+    "done": true
+  },
+  "goblins_tyranny:bomb_success": {
+    "criteria": {
+      "bomb_success_0": "2025-01-02 03:04:27 +0000"
+    },
+    "done": true
+  },
+  "goblins_tyranny:blazing_liquor_success": {
+    "criteria": {
+      "blazing_liquor_success_0": "2025-01-02 03:06:13 +0000"
     },
     "done": true
   },

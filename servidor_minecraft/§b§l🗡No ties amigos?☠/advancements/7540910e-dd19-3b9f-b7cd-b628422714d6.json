@@ -747,6 +747,7 @@
       "minecraft:deep_cold_ocean": "2024-12-14 04:15:17 +0000",
       "minecraft:ice_spikes": "2024-12-18 05:56:25 +0000",
       "minecraft:frozen_ocean": "2024-12-18 05:53:20 +0000",
+      "minecraft:desert": "2025-01-02 03:21:55 +0000",
       "minecraft:windswept_forest": "2024-12-18 06:09:04 +0000",
       "minecraft:jungle": "2024-12-11 05:56:46 +0000",
       "minecraft:ocean": "2024-12-11 21:38:38 +0000",
@@ -7596,6 +7597,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2025-01-02 03:20:46 +0000"
+    },
+    "done": true
+  },
   "goblins_tyranny:bag_success": {
     "criteria": {
       "bag_success_0": "2025-01-02 03:05:31 +0000"
@@ -7608,9 +7615,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_red_leggings": {
+    "criteria": {
+      "has_item": "2025-01-02 03:22:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
     "criteria": {
       "has_emerald_ore": "2025-01-02 01:22:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_helmet": {
+    "criteria": {
+      "has_item": "2025-01-02 03:22:22 +0000"
     },
     "done": true
   },
@@ -7623,6 +7642,12 @@
   "regions_unexplored:recipes/misc/blue_magnolia_sapling_from_blue_magnolia_shrub": {
     "criteria": {
       "has_blue_magnolia_shrub": "2025-01-02 02:55:59 +0000"
+    },
+    "done": true
+  },
+  "goblins_tyranny:deadly_liquor_success": {
+    "criteria": {
+      "deadly_liquor_success_0": "2025-01-02 03:06:32 +0000"
     },
     "done": true
   },
@@ -7680,9 +7705,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-02 03:22:22 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/maple_door": {
     "criteria": {
       "has_maple_planks": "2025-01-02 02:47:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_boots": {
+    "criteria": {
+      "has_item": "2025-01-02 03:22:22 +0000"
     },
     "done": true
   },

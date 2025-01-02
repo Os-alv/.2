@@ -518,3 +518,162 @@
 [02Jan2025 03:05:42.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ram to manu]
 [02Jan2025 03:05:42.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [It's Time for Marshmallow]
 [02Jan2025 03:05:42.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [Oh Right. The Poison.]
+[02Jan2025 03:08:28.555] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[02Jan2025 03:08:45.812] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2272ms or 45 ticks behind
+[02Jan2025 03:09:16.308] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram lost connection: Disconnected
+[02Jan2025 03:09:16.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram left the game
+[02Jan2025 03:09:16.310] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ram
+[02Jan2025 03:09:29.265] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ram[/127.132.119.231:56293] logged in with entity id 154446 at (243.0, 54.25000041225844, 167.0)
+[02Jan2025 03:09:29.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram joined the game
+[02Jan2025 03:09:30.663] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ram (18)
+[02Jan2025 03:09:30.664] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ram
+[02Jan2025 03:09:36.904] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d72e33c0-cade-33f4-8968-a71c4f61cbe5
+[02Jan2025 03:09:37.907] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d72e33c0-cade-33f4-8968-a71c4f61cbe5
+[02Jan2025 03:09:37.910] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ram (d72e33c0-cade-33f4-8968-a71c4f61cbe5) successfully connected to voice chat
+[02Jan2025 03:10:22.916] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ram) moved wrongly! 0.5982470466649943
+[02Jan2025 03:10:24.997] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:10:24.999] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:10:25.001] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:10:25.002] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:10:25.003] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:10:30.953] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:10:30.955] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:10:54.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ram) moved wrongly! 0.3918622224817625
+[02Jan2025 03:10:54.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ram) moved wrongly! 0.7011375220173193
+[02Jan2025 03:10:54.555] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ram) moved wrongly! 0.6031539608817695
+[02Jan2025 03:10:54.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ram) moved wrongly! 0.5138206106857695
+[02Jan2025 03:12:02.411] [Server thread/ERROR] [mezz.jei.common.transfer.BasicRecipeTransferHandlerServer/]: Tried to transfer recipe but was given an empty inventory slot as an ingredient source: 11
+[02Jan2025 03:12:07.976] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player f462eb29-aa29-3588-8da2-a2565774ca02 timed out
+[02Jan2025 03:12:07.978] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player ADMIN
+[02Jan2025 03:12:07.978] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to ADMIN
+[02Jan2025 03:12:13.664] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN lost connection: Timed out
+[02Jan2025 03:12:13.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN left the game
+[02Jan2025 03:12:13.666] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ADMIN
+[02Jan2025 03:12:53.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ram) moved wrongly! 0.2669395101487595
+[02Jan2025 03:12:53.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ram) moved wrongly! 0.5930310354392496
+[02Jan2025 03:12:53.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ram) moved wrongly! 0.789268921967345
+[02Jan2025 03:12:53.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ram) moved wrongly! 0.9848774061284615
+[02Jan2025 03:12:53.851] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ram) moved wrongly! 0.25871985803178177
+[02Jan2025 03:15:18.098] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ADMIN[/127.227.189.202:45357] logged in with entity id 159505 at (831.1797489148662, 63.0, -48.70206549464976)
+[02Jan2025 03:15:18.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN joined the game
+[02Jan2025 03:15:18.605] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ADMIN (18)
+[02Jan2025 03:15:18.610] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ADMIN
+[02Jan2025 03:15:22.717] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f462eb29-aa29-3588-8da2-a2565774ca02
+[02Jan2025 03:15:23.712] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f462eb29-aa29-3588-8da2-a2565774ca02
+[02Jan2025 03:15:23.717] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ADMIN (f462eb29-aa29-3588-8da2-a2565774ca02) successfully connected to voice chat
+[02Jan2025 03:20:24.643] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2102ms or 42 ticks behind
+[02Jan2025 03:20:46.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has made the advancement [Wingin' It]
+[02Jan2025 03:21:04.475] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2185ms or 43 ticks behind
+[02Jan2025 03:21:41.202] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:21:41.206] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:21:41.206] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:21:41.213] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:21:45.581] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:21:54.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported manu to ram]
+[02Jan2025 03:22:03.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [The Desert Swimmers]
+[02Jan2025 03:22:43.117] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:22:43.120] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:22:43.123] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:22:43.126] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:22:46.212] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:22:46.213] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:22:46.214] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:22:46.214] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:22:46.215] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:22:50.151] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[02Jan2025 03:23:03.526] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:23:03.727] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:23:03.728] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:23:03.728] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:23:03.729] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:23:03.730] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:fire_magic_resist'
+[02Jan2025 03:23:03.730] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:23:03.730] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:fire_magic_resist'
+[02Jan2025 03:23:03.730] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:23:03.731] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:fire_magic_resist'
+[02Jan2025 03:23:03.731] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:23:03.732] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:23:03.732] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:23:03.733] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:fire_magic_resist'
+[02Jan2025 03:23:03.733] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:23:03.927] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:23:03.929] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:23:10.943] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:23:10.944] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:fire_magic_resist'
+[02Jan2025 03:23:10.944] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:23:11.350] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:23:11.351] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:23:11.352] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:23:11.353] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:fire_magic_resist'
+[02Jan2025 03:23:11.354] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:23:11.354] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:23:11.355] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:fire_magic_resist'
+[02Jan2025 03:23:11.355] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:23:11.356] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:fire_magic_resist'
+[02Jan2025 03:23:11.357] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:23:11.357] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:23:11.358] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:23:11.359] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:fire_magic_resist'
+[02Jan2025 03:23:11.359] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:23:11.360] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:fire_magic_resist'
+[02Jan2025 03:23:11.360] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:23:11.361] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:fire_magic_resist'
+[02Jan2025 03:23:11.361] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:23:11.362] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:fire_magic_resist'
+[02Jan2025 03:23:11.362] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:23:11.363] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:fire_magic_resist'
+[02Jan2025 03:23:11.363] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:23:11.364] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:fire_magic_resist'
+[02Jan2025 03:23:11.364] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:23:11.365] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:fire_magic_resist'
+[02Jan2025 03:23:11.365] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:23:11.366] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:fire_magic_resist'
+[02Jan2025 03:23:11.366] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:23:11.367] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:fire_magic_resist'
+[02Jan2025 03:23:11.368] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:23:12.241] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:23:12.244] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:23:12.253] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:fire_magic_resist'
+[02Jan2025 03:23:12.253] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:23:12.254] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:23:12.255] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:23:12.256] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:fire_magic_resist'
+[02Jan2025 03:23:12.256] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:23:12.257] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:23:12.258] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:23:12.268] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:23:12.268] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:23:12.269] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:fire_magic_resist'
+[02Jan2025 03:23:12.270] [Worker-Main-34/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:23:52.453] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 03:23:55.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu suffocated in a wall
+[02Jan2025 03:23:55.946] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[02Jan2025 03:23:55.982] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[02Jan2025 03:24:03.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ram to manu]
+[02Jan2025 03:24:10.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ram to ADMIN]
+[02Jan2025 03:24:19.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported manu to ram]
+[02Jan2025 03:25:00.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to ram]
+[02Jan2025 03:25:01.705] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN lost connection: Disconnected
+[02Jan2025 03:25:01.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN left the game
+[02Jan2025 03:25:01.707] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ADMIN
+[02Jan2025 03:25:56.601] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram lost connection: Disconnected
+[02Jan2025 03:25:56.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram left the game
+[02Jan2025 03:25:56.602] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ram
+[02Jan2025 03:27:28.866] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ram[/127.132.119.231:43683] logged in with entity id 165954 at (-561.0453510503755, 63.0, 1756.736628185856)
+[02Jan2025 03:27:28.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram joined the game
+[02Jan2025 03:27:29.795] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ram (18)
+[02Jan2025 03:27:29.796] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ram
+[02Jan2025 03:27:32.854] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d72e33c0-cade-33f4-8968-a71c4f61cbe5
+[02Jan2025 03:27:33.854] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d72e33c0-cade-33f4-8968-a71c4f61cbe5
+[02Jan2025 03:27:33.855] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ram (d72e33c0-cade-33f4-8968-a71c4f61cbe5) successfully connected to voice chat
+[02Jan2025 03:28:05.071] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ADMIN[/127.227.189.202:57067] logged in with entity id 166588 at (-583.4097756892099, 62.53789972074292, 1778.316951818811)
+[02Jan2025 03:28:05.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN joined the game
+[02Jan2025 03:28:07.769] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ADMIN (18)
+[02Jan2025 03:28:07.769] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ADMIN
+[02Jan2025 03:28:12.650] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f462eb29-aa29-3588-8da2-a2565774ca02
+[02Jan2025 03:28:13.632] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f462eb29-aa29-3588-8da2-a2565774ca02
+[02Jan2025 03:28:13.633] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ADMIN (f462eb29-aa29-3588-8da2-a2565774ca02) successfully connected to voice chat
+[02Jan2025 03:28:16.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> [x:-563, y:62, z:1761, dim:minecraft:overworld]
+[02Jan2025 03:28:58.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu fell from a high place
+[02Jan2025 03:28:58.571] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[02Jan2025 03:28:58.572] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
