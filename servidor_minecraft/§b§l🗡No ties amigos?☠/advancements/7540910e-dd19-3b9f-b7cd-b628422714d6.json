@@ -7558,6 +7558,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2025-01-02 01:56:14 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/magnolia_wood": {
     "criteria": {
       "has_log": "2025-01-02 01:39:32 +0000"
@@ -7582,6 +7588,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-01-02 01:57:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2025-01-02 01:56:14 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/magnolia_branch_from_magnolia_log": {
     "criteria": {
       "has_log": "2025-01-02 01:39:32 +0000"
@@ -7597,6 +7615,12 @@
   "iceandfire:recipes/misc/dragon_stick": {
     "criteria": {
       "has_item": "2025-01-02 01:31:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-01-02 01:57:54 +0000"
     },
     "done": true
   },

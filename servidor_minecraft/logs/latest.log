@@ -246,3 +246,33 @@
 [02Jan2025 01:30:37.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! -19.154017358243664,1.1380000247359305,21.157648512208112
 [02Jan2025 01:39:27.480] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Katica'/95326, l='ServerLevel[🗡No ties amigos?☠]', x=716.23, y=67.17, z=1776.59] died, message: 'Katica was slain by ADMIN'
 [02Jan2025 01:39:27.482] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Katica'/95326, l='ServerLevel[🗡No ties amigos?☠]', x=716.23, y=67.17, z=1776.59] died: Katica was slain by ADMIN
+[02Jan2025 01:44:03.553] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Manuel'/92849, l='ServerLevel[🗡No ties amigos?☠]', x=866.42, y=62.54, z=-13.15] died, message: 'Manuel was impaled by Drowned'
+[02Jan2025 01:44:03.554] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Manuel'/92849, l='ServerLevel[🗡No ties amigos?☠]', x=866.42, y=62.54, z=-13.15] died: Manuel was impaled by Drowned
+[02Jan2025 01:46:18.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <manu> [name:"dragon madre", x:995, y:13, z:267, dim:minecraft:overworld]
+[02Jan2025 01:48:25.452] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3162ms or 63 ticks behind
+[02Jan2025 01:48:29.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram blew up
+[02Jan2025 01:48:29.712] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[02Jan2025 01:48:29.714] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[02Jan2025 01:49:58.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram fell from a high place
+[02Jan2025 01:49:58.525] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[02Jan2025 01:49:58.525] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[02Jan2025 01:50:15.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ram to manu]
+[02Jan2025 01:54:53.851] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 01:54:53.852] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 01:54:53.853] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 01:54:53.853] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 01:54:53.860] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 01:54:53.860] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 01:54:53.860] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 01:54:53.860] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 01:54:55.042] [Worker-Main-33/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 01:54:57.634] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9344ms or 186 ticks behind
+[02Jan2025 01:58:27.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was killed by [Intentional Game Design]
+[02Jan2025 01:58:27.159] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[02Jan2025 01:58:27.175] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[02Jan2025 01:58:37.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was killed by [Intentional Game Design]
+[02Jan2025 02:02:38.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was killed by [Intentional Game Design]
+[02Jan2025 02:02:38.340] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[02Jan2025 02:02:38.366] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[02Jan2025 02:02:46.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu burned to death
+[02Jan2025 02:02:46.844] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
