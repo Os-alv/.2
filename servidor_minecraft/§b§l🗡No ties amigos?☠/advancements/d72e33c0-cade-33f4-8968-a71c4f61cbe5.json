@@ -92,6 +92,7 @@
       "gravel_beach": "2024-12-11 19:29:34 +0000",
       "redwoods": "2024-12-11 05:54:45 +0000",
       "golden_boreal_taiga": "2024-12-20 01:23:22 +0000",
+      "rainforest": "2025-01-02 06:35:38 +0000",
       "bioshroom_caves": "2024-12-11 06:15:31 +0000",
       "lupine_plains": "2024-12-11 07:25:35 +0000"
     },
@@ -131,6 +132,7 @@
       "gravel_beach": "2024-12-11 19:29:34 +0000",
       "redwoods": "2024-12-11 05:54:45 +0000",
       "golden_boreal_taiga": "2024-12-20 01:23:22 +0000",
+      "rainforest": "2025-01-02 06:35:38 +0000",
       "lupine_plains": "2024-12-11 07:25:35 +0000"
     },
     "done": false
@@ -7471,6 +7473,78 @@
   "iceandfire:iceandfire/deathworm_egg": {
     "criteria": {
       "egg": "2025-01-02 06:22:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-01-02 06:36:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-02 06:37:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-02 06:37:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-01-02 06:37:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-01-02 06:37:04 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/jungle_branch_from_jungle_log": {
+    "criteria": {
+      "has_log": "2025-01-02 06:36:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-01-02 06:37:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/jungle_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-02 06:37:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-01-02 06:37:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-01-02 06:37:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-02 06:37:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-02 06:37:04 +0000"
     },
     "done": true
   },
