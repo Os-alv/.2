@@ -1057,6 +1057,7 @@
       "minecraft:jungle": "2024-12-11 06:30:09 +0000",
       "minecraft:ocean": "2024-12-11 18:42:14 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-20 02:02:38 +0000",
+      "minecraft:warm_ocean": "2025-01-02 03:31:48 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-21 05:29:26 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-28 06:46:26 +0000",
       "minecraft:savanna": "2024-12-20 03:28:25 +0000",
@@ -7283,27 +7284,39 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/deathworm_white_chestplate": {
-    "criteria": {
-      "has_item": "2025-01-02 03:23:05 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/deathworm_red_leggings": {
     "criteria": {
       "has_item": "2025-01-02 03:22:06 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/deathworm_white_boots": {
+  "iceandfire:recipes/combat/deathworm_red_helmet": {
+    "criteria": {
+      "has_item": "2025-01-02 03:22:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-02 03:22:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_boots": {
+    "criteria": {
+      "has_item": "2025-01-02 03:22:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_chestplate": {
     "criteria": {
       "has_item": "2025-01-02 03:23:05 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/deathworm_red_helmet": {
+  "iceandfire:recipes/combat/deathworm_white_boots": {
     "criteria": {
-      "has_item": "2025-01-02 03:22:06 +0000"
+      "has_item": "2025-01-02 03:23:05 +0000"
     },
     "done": true
   },
@@ -7319,15 +7332,27 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/deathworm_red_chestplate": {
+  "iceandfire:recipes/combat/deathworm_yellow_helmet": {
     "criteria": {
-      "has_item": "2025-01-02 03:22:06 +0000"
+      "has_item": "2025-01-02 03:27:57 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/deathworm_red_boots": {
+  "iceandfire:recipes/combat/deathworm_yellow_boots": {
     "criteria": {
-      "has_item": "2025-01-02 03:22:06 +0000"
+      "has_item": "2025-01-02 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_leggings": {
+    "criteria": {
+      "has_item": "2025-01-02 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-02 03:27:57 +0000"
     },
     "done": true
   },
