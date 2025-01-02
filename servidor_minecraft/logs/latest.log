@@ -106,3 +106,11 @@
 [02Jan2025 00:37:03.859] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7540910e-dd19-3b9f-b7cd-b628422714d6
 [02Jan2025 00:37:04.861] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7540910e-dd19-3b9f-b7cd-b628422714d6
 [02Jan2025 00:37:04.862] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player manu (7540910e-dd19-3b9f-b7cd-b628422714d6) successfully connected to voice chat
+[02Jan2025 00:43:44.002] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=824, y=64, z=28} BlockPos{x=824, y=62, z=27}
+[02Jan2025 00:47:01.143] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Edine'/68880, l='ServerLevel[🗡No ties amigos?☠]', x=801.72, y=85.00, z=213.55] died, message: 'Edine was slain by Zombie'
+[02Jan2025 00:47:01.146] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Edine'/68880, l='ServerLevel[🗡No ties amigos?☠]', x=801.72, y=85.00, z=213.55] died: Edine was slain by Zombie
+[02Jan2025 00:48:18.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> [x:386, y:62, z:-622, dim:minecraft:overworld]
+[02Jan2025 00:48:21.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to ram]
+[02Jan2025 00:50:10.079] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=388, y=63, z=-625} in minecraft:overworld
+[02Jan2025 00:50:10.080] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 5607
+[02Jan2025 00:50:58.654] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3514ms or 70 ticks behind

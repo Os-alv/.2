@@ -146,6 +146,7 @@
       "yellow_bioshroom_stem": "2024-12-12 14:36:49 +0000",
       "pine_log": "2024-12-20 01:31:05 +0000",
       "silver_birch_log": "2024-12-11 19:29:36 +0000",
+      "small_oak_log": "2025-01-02 00:41:56 +0000",
       "cobalt_log": "2024-12-12 02:46:17 +0000",
       "redwood_log": "2024-12-11 05:54:49 +0000",
       "green_bioshroom_stem": "2024-12-12 06:21:17 +0000",
@@ -7170,9 +7171,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-01-02 00:45:07 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/red_maple_sapling_from_red_maple_shrub": {
     "criteria": {
       "has_red_maple_shrub": "2025-01-02 00:37:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-01-02 00:45:07 +0000"
     },
     "done": true
   },
