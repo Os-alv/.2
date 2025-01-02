@@ -7205,9 +7205,27 @@
     },
     "done": true
   },
+  "goblins_tyranny:goblins_slayer_success": {
+    "criteria": {
+      "goblins_slayer_success_0": "2025-01-02 03:02:53 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/fortuitous_militia": {
     "criteria": {
       "coded_trigger": "2025-01-02 02:41:04 +0000"
+    },
+    "done": true
+  },
+  "goblins_tyranny:fire_success": {
+    "criteria": {
+      "fire_success_0": "2025-01-02 03:05:42 +0000"
+    },
+    "done": true
+  },
+  "goblins_tyranny:poison_success": {
+    "criteria": {
+      "poison_success_0": "2025-01-02 03:05:42 +0000"
     },
     "done": true
   },

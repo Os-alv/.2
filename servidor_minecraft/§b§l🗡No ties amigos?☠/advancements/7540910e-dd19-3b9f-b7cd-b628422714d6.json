@@ -7542,6 +7542,12 @@
     },
     "done": true
   },
+  "goblins_tyranny:goblins_encounter_success": {
+    "criteria": {
+      "goblins_encounter_success_0": "2025-01-02 03:02:28 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/maple_fence_gate": {
     "criteria": {
       "has_maple_planks": "2025-01-02 02:47:00 +0000"
@@ -7578,6 +7584,24 @@
     },
     "done": true
   },
+  "goblins_tyranny:goblins_slayer_success": {
+    "criteria": {
+      "goblins_slayer_success_0": "2025-01-02 03:02:22 +0000"
+    },
+    "done": true
+  },
+  "goblins_tyranny:goblins_meat_success": {
+    "criteria": {
+      "goblins_meat_success_0": "2025-01-02 03:03:21 +0000"
+    },
+    "done": true
+  },
+  "goblins_tyranny:bag_success": {
+    "criteria": {
+      "bag_success_0": "2025-01-02 03:05:31 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/skull_to_bone_meal": {
     "criteria": {
       "has_item": "2025-01-02 01:31:35 +0000"
@@ -7593,6 +7617,12 @@
   "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
     "criteria": {
       "has_nether_gold_ore": "2025-01-02 01:56:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/blue_magnolia_sapling_from_blue_magnolia_shrub": {
+    "criteria": {
+      "has_blue_magnolia_shrub": "2025-01-02 02:55:59 +0000"
     },
     "done": true
   },
@@ -7674,9 +7704,21 @@
     },
     "done": true
   },
+  "goblins_tyranny:bomb_success": {
+    "criteria": {
+      "bomb_success_0": "2025-01-02 03:05:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
     "criteria": {
       "has_nether_gold_ore": "2025-01-02 01:56:14 +0000"
+    },
+    "done": true
+  },
+  "goblins_tyranny:engineer_success": {
+    "criteria": {
+      "engineer_success_0": "2025-01-02 03:04:51 +0000"
     },
     "done": true
   },
