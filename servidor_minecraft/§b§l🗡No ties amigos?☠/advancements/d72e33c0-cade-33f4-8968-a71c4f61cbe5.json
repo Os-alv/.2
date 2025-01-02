@@ -7398,12 +7398,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_green_leggings": {
-    "criteria": {
-      "has_item": "2025-01-02 05:01:01 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/tide_teal_boots": {
     "criteria": {
       "has_item": "2025-01-02 04:59:47 +0000"
@@ -7419,6 +7413,12 @@
   "iceandfire:recipes/building_blocks/sea_serpent_scales_teal_to_sea_serpent_scale_block_teal": {
     "criteria": {
       "has_sea_serpent_scales_teal": "2025-01-02 04:59:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_leggings": {
+    "criteria": {
+      "has_item": "2025-01-02 05:01:01 +0000"
     },
     "done": true
   },
@@ -7443,6 +7443,12 @@
   "iceandfire:recipes/combat/tide_green_helmet": {
     "criteria": {
       "has_item": "2025-01-02 05:01:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/almost_unkillable": {
+    "criteria": {
+      "coded_trigger": "2025-01-02 05:09:59 +0000"
     },
     "done": true
   },

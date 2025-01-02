@@ -2196,6 +2196,7 @@
       "sweet_berries": "2024-12-11 07:15:51 +0000",
       "cooked_beef": "2024-12-12 02:39:09 +0000",
       "baked_potato": "2024-12-12 03:37:13 +0000",
+      "beef": "2025-01-02 05:37:35 +0000",
       "porkchop": "2024-12-12 02:37:27 +0000",
       "spider_eye": "2024-12-14 05:33:39 +0000",
       "potato": "2024-12-20 00:26:15 +0000",
@@ -7534,15 +7535,15 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
+  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
     "criteria": {
-      "has_bone_block": "2025-01-02 03:31:02 +0000"
+      "has_emerald_ore": "2025-01-02 01:22:42 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/maple_fence": {
+  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
     "criteria": {
-      "has_maple_planks": "2025-01-02 02:47:00 +0000"
+      "has_emerald_ore": "2025-01-02 01:22:42 +0000"
     },
     "done": true
   },
@@ -7552,21 +7553,117 @@
     },
     "done": true
   },
-  "goblins_tyranny:goblins_encounter_success": {
+  "iceandfire:recipes/combat/armor_green_helmet": {
     "criteria": {
-      "goblins_encounter_success_0": "2025-01-02 03:02:28 +0000"
+      "has_item": "2025-01-02 01:31:27 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/redstone/maple_fence_gate": {
+  "iceandfire:recipes/combat/armor_green_chestplate": {
     "criteria": {
-      "has_maple_planks": "2025-01-02 02:47:00 +0000"
+      "has_item": "2025-01-02 01:31:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
+    "criteria": {
+      "has_dragonscales_green": "2025-01-02 01:31:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_boots": {
+    "criteria": {
+      "has_item": "2025-01-02 01:31:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-01-02 01:31:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-01-02 01:31:35 +0000"
     },
     "done": true
   },
   "regions_unexplored:recipes/building_blocks/magnolia_planks": {
     "criteria": {
       "has_logs": "2025-01-02 01:39:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magnolia_wood": {
+    "criteria": {
+      "has_log": "2025-01-02 01:39:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/magnolia_branch_from_magnolia_log": {
+    "criteria": {
+      "has_log": "2025-01-02 01:39:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2025-01-02 01:56:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2025-01-02 01:56:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-01-02 01:57:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-01-02 01:57:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2025-01-02 02:21:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_branch_from_maple_log": {
+    "criteria": {
+      "has_log": "2025-01-02 02:46:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2025-01-02 02:46:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_logs": "2025-01-02 02:46:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_fence": {
+    "criteria": {
+      "has_maple_planks": "2025-01-02 02:47:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_fence_gate": {
+    "criteria": {
+      "has_maple_planks": "2025-01-02 02:47:00 +0000"
     },
     "done": true
   },
@@ -7582,111 +7679,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/maple_branch_from_maple_log": {
-    "criteria": {
-      "has_log": "2025-01-02 02:46:45 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_green_helmet": {
-    "criteria": {
-      "has_item": "2025-01-02 01:31:27 +0000"
-    },
-    "done": true
-  },
-  "goblins_tyranny:goblins_slayer_success": {
-    "criteria": {
-      "goblins_slayer_success_0": "2025-01-02 03:02:22 +0000"
-    },
-    "done": true
-  },
-  "goblins_tyranny:goblins_meat_success": {
-    "criteria": {
-      "goblins_meat_success_0": "2025-01-02 03:03:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2025-01-02 03:31:02 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_naga": {
-    "criteria": {
-      "naga": "2025-01-02 03:20:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
-    "criteria": {
-      "has_cut_sandstone": "2025-01-02 03:32:56 +0000"
-    },
-    "done": true
-  },
-  "goblins_tyranny:bag_success": {
-    "criteria": {
-      "bag_success_0": "2025-01-02 03:05:31 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/skull_to_bone_meal": {
-    "criteria": {
-      "has_item": "2025-01-02 01:31:35 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/deathworm_red_leggings": {
-    "criteria": {
-      "has_item": "2025-01-02 03:22:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
-    "criteria": {
-      "has_emerald_ore": "2025-01-02 01:22:42 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/deathworm_red_helmet": {
-    "criteria": {
-      "has_item": "2025-01-02 03:22:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
-    "criteria": {
-      "has_nether_gold_ore": "2025-01-02 01:56:14 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/blue_magnolia_sapling_from_blue_magnolia_shrub": {
-    "criteria": {
-      "has_blue_magnolia_shrub": "2025-01-02 02:55:59 +0000"
-    },
-    "done": true
-  },
-  "goblins_tyranny:deadly_liquor_success": {
-    "criteria": {
-      "deadly_liquor_success_0": "2025-01-02 03:06:32 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/maple_wood": {
-    "criteria": {
-      "has_log": "2025-01-02 02:46:45 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/building_blocks/maple_stairs": {
     "criteria": {
       "has_maple_planks": "2025-01-02 02:47:00 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/magnolia_wood": {
-    "criteria": {
-      "has_log": "2025-01-02 01:39:32 +0000"
     },
     "done": true
   },
@@ -7696,21 +7691,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
-    "criteria": {
-      "has_emerald_ore": "2025-01-02 01:22:42 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/decorations/maple_sign": {
     "criteria": {
       "has_maple_planks": "2025-01-02 02:47:00 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_green_chestplate": {
-    "criteria": {
-      "has_item": "2025-01-02 01:31:27 +0000"
     },
     "done": true
   },
@@ -7720,63 +7703,33 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/maple_planks": {
-    "criteria": {
-      "has_logs": "2025-01-02 02:46:45 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/deathworm_red_chestplate": {
-    "criteria": {
-      "has_item": "2025-01-02 03:22:22 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/redstone/maple_door": {
     "criteria": {
       "has_maple_planks": "2025-01-02 02:47:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+  "regions_unexplored:recipes/misc/blue_magnolia_sapling_from_blue_magnolia_shrub": {
     "criteria": {
-      "has_cut_sandstone": "2025-01-02 03:32:56 +0000"
+      "has_blue_magnolia_shrub": "2025-01-02 02:55:59 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/deathworm_red_boots": {
+  "goblins_tyranny:goblins_slayer_success": {
     "criteria": {
-      "has_item": "2025-01-02 03:22:22 +0000"
+      "goblins_slayer_success_0": "2025-01-02 03:02:22 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
+  "goblins_tyranny:goblins_encounter_success": {
     "criteria": {
-      "has_dragonscales_green": "2025-01-02 01:31:27 +0000"
+      "goblins_encounter_success_0": "2025-01-02 03:02:28 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+  "goblins_tyranny:goblins_meat_success": {
     "criteria": {
-      "has_sapphire_gem": "2025-01-02 02:21:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/quartz": {
-    "criteria": {
-      "has_nether_quartz_ore": "2025-01-02 01:57:54 +0000"
-    },
-    "done": true
-  },
-  "goblins_tyranny:bomb_success": {
-    "criteria": {
-      "bomb_success_0": "2025-01-02 03:05:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
-    "criteria": {
-      "has_nether_gold_ore": "2025-01-02 01:56:14 +0000"
+      "goblins_meat_success_0": "2025-01-02 03:03:21 +0000"
     },
     "done": true
   },
@@ -7786,27 +7739,75 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/magnolia_branch_from_magnolia_log": {
+  "goblins_tyranny:bag_success": {
     "criteria": {
-      "has_log": "2025-01-02 01:39:32 +0000"
+      "bag_success_0": "2025-01-02 03:05:31 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_green_boots": {
+  "goblins_tyranny:bomb_success": {
     "criteria": {
-      "has_item": "2025-01-02 01:31:27 +0000"
+      "bomb_success_0": "2025-01-02 03:05:33 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_stick": {
+  "goblins_tyranny:deadly_liquor_success": {
     "criteria": {
-      "has_item": "2025-01-02 01:31:35 +0000"
+      "deadly_liquor_success_0": "2025-01-02 03:06:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/quartz_from_blasting": {
+  "mowziesmobs:kill_naga": {
     "criteria": {
-      "has_nether_quartz_ore": "2025-01-02 01:57:54 +0000"
+      "naga": "2025-01-02 03:20:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_leggings": {
+    "criteria": {
+      "has_item": "2025-01-02 03:22:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_helmet": {
+    "criteria": {
+      "has_item": "2025-01-02 03:22:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-02 03:22:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_boots": {
+    "criteria": {
+      "has_item": "2025-01-02 03:22:22 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-01-02 03:31:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-01-02 03:31:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-01-02 03:32:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-01-02 03:32:56 +0000"
     },
     "done": true
   },
