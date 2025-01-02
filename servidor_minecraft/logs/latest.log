@@ -90,3 +90,19 @@
 [02Jan2025 00:23:56.311] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
 [02Jan2025 00:27:53.322] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! -0.6902733895148003,0.7999999999999972,13.752386030910774
 [02Jan2025 00:29:55.927] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! -8.393375217541916,1.1355143004412867,19.66991533293057
+[02Jan2025 00:32:35.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has reached the goal [Great minds think alike]
+[02Jan2025 00:35:50.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. death.attack.mob.player
+[02Jan2025 00:35:50.001] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
+[02Jan2025 00:35:50.012] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[02Jan2025 00:36:01.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to ram]
+[02Jan2025 00:36:27.581] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manu lost connection: Timed out
+[02Jan2025 00:36:27.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu left the game
+[02Jan2025 00:36:27.591] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client manu
+[02Jan2025 00:36:27.647] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Jan2025 00:36:54.925] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: manu[/127.227.189.202:38475] logged in with entity id 65742 at (814.2211281287575, 72.0, 23.140468958683257)
+[02Jan2025 00:36:54.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu joined the game
+[02Jan2025 00:36:55.325] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of manu (18)
+[02Jan2025 00:36:55.326] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to manu
+[02Jan2025 00:37:03.859] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7540910e-dd19-3b9f-b7cd-b628422714d6
+[02Jan2025 00:37:04.861] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7540910e-dd19-3b9f-b7cd-b628422714d6
+[02Jan2025 00:37:04.862] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player manu (7540910e-dd19-3b9f-b7cd-b628422714d6) successfully connected to voice chat
