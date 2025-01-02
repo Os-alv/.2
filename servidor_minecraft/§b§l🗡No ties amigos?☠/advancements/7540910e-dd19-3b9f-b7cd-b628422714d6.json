@@ -157,7 +157,8 @@
       "silver_birch_log": "2024-12-11 21:29:03 +0000",
       "redwood_log": "2024-12-11 05:52:58 +0000",
       "green_bioshroom_stem": "2024-12-11 06:39:55 +0000",
-      "blackwood_log": "2024-12-27 06:37:34 +0000"
+      "blackwood_log": "2024-12-27 06:37:34 +0000",
+      "maple_log": "2025-01-02 02:46:45 +0000"
     },
     "done": false
   },
@@ -2203,6 +2204,7 @@
       "salmon": "2024-12-28 07:06:19 +0000",
       "melon_slice": "2024-12-27 05:50:25 +0000",
       "golden_carrot": "2024-12-29 07:10:29 +0000",
+      "beetroot": "2025-01-02 02:51:30 +0000",
       "cooked_chicken": "2024-12-11 06:29:53 +0000",
       "cod": "2024-12-28 07:04:06 +0000",
       "carrot": "2024-12-12 06:37:04 +0000"
@@ -7528,15 +7530,45 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/maple_fence": {
+    "criteria": {
+      "has_maple_planks": "2025-01-02 02:47:00 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_green_leggings": {
     "criteria": {
       "has_item": "2025-01-02 01:31:27 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/maple_fence_gate": {
+    "criteria": {
+      "has_maple_planks": "2025-01-02 02:47:00 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/magnolia_planks": {
     "criteria": {
       "has_logs": "2025-01-02 01:39:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_button": {
+    "criteria": {
+      "has_maple_planks": "2025-01-02 02:47:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_pressure_plate": {
+    "criteria": {
+      "has_maple_planks": "2025-01-02 02:47:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_branch_from_maple_log": {
+    "criteria": {
+      "has_log": "2025-01-02 02:46:45 +0000"
     },
     "done": true
   },
@@ -7564,9 +7596,27 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2025-01-02 02:46:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_stairs": {
+    "criteria": {
+      "has_maple_planks": "2025-01-02 02:47:00 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/magnolia_wood": {
     "criteria": {
       "has_log": "2025-01-02 01:39:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_trapdoor": {
+    "criteria": {
+      "has_maple_planks": "2025-01-02 02:47:00 +0000"
     },
     "done": true
   },
@@ -7576,9 +7626,33 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/maple_sign": {
+    "criteria": {
+      "has_maple_planks": "2025-01-02 02:47:00 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_green_chestplate": {
     "criteria": {
       "has_item": "2025-01-02 01:31:27 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_slab": {
+    "criteria": {
+      "has_maple_planks": "2025-01-02 02:47:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_logs": "2025-01-02 02:46:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_door": {
+    "criteria": {
+      "has_maple_planks": "2025-01-02 02:47:00 +0000"
     },
     "done": true
   },
