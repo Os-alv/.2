@@ -54,3 +54,39 @@
 [02Jan2025 00:09:01.556] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7540910e-dd19-3b9f-b7cd-b628422714d6
 [02Jan2025 00:09:02.552] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7540910e-dd19-3b9f-b7cd-b628422714d6
 [02Jan2025 00:09:02.553] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player manu (7540910e-dd19-3b9f-b7cd-b628422714d6) successfully connected to voice chat
+[02Jan2025 00:11:18.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN was kicked for floating too long!
+[02Jan2025 00:11:18.158] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN lost connection: Disconnected
+[02Jan2025 00:11:18.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN left the game
+[02Jan2025 00:11:18.160] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ADMIN
+[02Jan2025 00:11:18.213] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Jan2025 00:12:09.872] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ADMIN[/127.227.189.202:45511] logged in with entity id 54556 at (94.59185985376614, 40.20997923329005, 20.89219741889942)
+[02Jan2025 00:12:09.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN joined the game
+[02Jan2025 00:12:10.883] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ADMIN (18)
+[02Jan2025 00:12:10.885] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ADMIN
+[02Jan2025 00:12:13.839] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f462eb29-aa29-3588-8da2-a2565774ca02
+[02Jan2025 00:12:14.840] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f462eb29-aa29-3588-8da2-a2565774ca02
+[02Jan2025 00:12:14.842] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ADMIN (f462eb29-aa29-3588-8da2-a2565774ca02) successfully connected to voice chat
+[02Jan2025 00:12:53.849] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[02Jan2025 00:13:47.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! -9.792364646091585,0.7407417946020445,-7.590118393311968
+[02Jan2025 00:14:17.141] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5400ms or 108 ticks behind
+[02Jan2025 00:17:58.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved wrongly!
+[02Jan2025 00:20:24.771] [Worker-Main-14/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 00:20:25.387] [Worker-Main-14/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 00:20:25.683] [Worker-Main-14/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 00:20:25.686] [Worker-Main-14/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 00:20:25.688] [Worker-Main-14/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 00:20:25.758] [Worker-Main-14/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 00:20:25.759] [Worker-Main-14/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 00:20:25.792] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2201ms or 44 ticks behind
+[02Jan2025 00:21:31.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was incinerated by Fire Dragon
+[02Jan2025 00:21:31.461] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[02Jan2025 00:21:31.478] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[02Jan2025 00:21:49.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu burned to death
+[02Jan2025 00:21:49.312] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[02Jan2025 00:23:36.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Fire Dragon
+[02Jan2025 00:23:36.655] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[02Jan2025 00:23:36.669] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[02Jan2025 00:23:56.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu burned to death
+[02Jan2025 00:23:56.311] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[02Jan2025 00:27:53.322] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! -0.6902733895148003,0.7999999999999972,13.752386030910774
+[02Jan2025 00:29:55.927] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! -8.393375217541916,1.1355143004412867,19.66991533293057

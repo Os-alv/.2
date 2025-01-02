@@ -2192,6 +2192,7 @@
       "spider_eye": "2024-12-14 05:33:39 +0000",
       "potato": "2024-12-20 00:26:15 +0000",
       "pumpkin_pie": "2024-12-28 08:24:54 +0000",
+      "mutton": "2025-01-02 00:18:51 +0000",
       "bread": "2024-12-11 07:12:14 +0000",
       "golden_apple": "2024-12-29 06:46:57 +0000",
       "rotten_flesh": "2024-12-11 06:41:53 +0000",
@@ -7503,6 +7504,24 @@
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2025-01-01 23:44:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-01-02 00:10:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/protecto": {
+    "criteria": {
+      "has_ender_eye": "2025-01-02 00:10:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-01-02 00:10:29 +0000"
     },
     "done": true
   },
