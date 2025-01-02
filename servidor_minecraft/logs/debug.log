@@ -10751,3 +10751,49 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [02Jan2025 03:38:41.259] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
 [02Jan2025 03:38:48.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was shot by Dungeon Sentry
 [02Jan2025 03:38:48.811] [Server thread/DEBUG] [tombstone/]: A new grave of the player manu was created at position [x:-593, y:73, z:1630, dim:minecraft:overworld]
+[02Jan2025 03:41:07.720] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[02Jan2025 03:41:07.732] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[02Jan2025 03:41:54.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was shot by Dungeon Sentry
+[02Jan2025 03:41:54.104] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
+[02Jan2025 03:41:54.107] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[02Jan2025 03:43:41.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was blown up by Dungeon Effigy
+[02Jan2025 03:43:41.703] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[02Jan2025 03:43:41.705] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[02Jan2025 03:44:54.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was slain by Dungeon Effigy
+[02Jan2025 03:44:54.349] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
+[02Jan2025 03:44:54.355] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[02Jan2025 03:46:07.703] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[02Jan2025 03:46:07.714] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[02Jan2025 03:47:11.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was blown up by Dungeon Effigy
+[02Jan2025 03:47:11.309] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
+[02Jan2025 03:47:11.312] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[02Jan2025 03:47:38.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has made the advancement [Mutual Aid]
+[02Jan2025 03:47:38.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram has reached the goal [Death Will Not Be Enough]
+[02Jan2025 03:49:28.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was shot by Dungeon Sentry
+[02Jan2025 03:49:28.408] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
+[02Jan2025 03:49:28.415] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[02Jan2025 03:51:07.807] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[02Jan2025 03:51:07.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[02Jan2025 03:53:23.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to manu]
+[02Jan2025 03:53:28.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was shot by Dungeon Sentry
+[02Jan2025 03:53:28.459] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[02Jan2025 03:53:28.462] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[02Jan2025 03:53:39.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was shot by Dungeon Sentry
+[02Jan2025 03:53:39.814] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[02Jan2025 03:53:39.816] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[02Jan2025 03:54:04.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was slain by Dungeon Effigy
+[02Jan2025 03:54:04.703] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
+[02Jan2025 03:54:04.712] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[02Jan2025 03:54:15.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to manu]
+[02Jan2025 03:54:42.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! 15.93753064905718,1.5056000137329022,-32.59073435647461
+[02Jan2025 03:54:44.580] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! 1.1634063709075235,-11.064980402202252,0.8078231845530635
+[02Jan2025 03:54:45.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN fell from a high place
+[02Jan2025 03:54:45.390] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
+[02Jan2025 03:54:45.416] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[02Jan2025 03:54:49.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to manu]
+[02Jan2025 03:54:55.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to manu]
+[02Jan2025 03:56:07.705] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save 🗡No ties amigos?☠
+[02Jan2025 03:56:07.717] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete 🗡No ties amigos?☠
+[02Jan2025 03:57:20.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was shot by Dungeon Sentry
+[02Jan2025 03:57:20.798] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[02Jan2025 03:57:20.801] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
