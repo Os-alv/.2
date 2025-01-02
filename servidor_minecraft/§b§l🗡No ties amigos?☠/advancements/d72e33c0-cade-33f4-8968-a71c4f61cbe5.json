@@ -7386,5 +7386,65 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_teal_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-02 04:59:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_leggings": {
+    "criteria": {
+      "has_item": "2025-01-02 04:59:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_leggings": {
+    "criteria": {
+      "has_item": "2025-01-02 05:01:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_boots": {
+    "criteria": {
+      "has_item": "2025-01-02 04:59:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_helmet": {
+    "criteria": {
+      "has_item": "2025-01-02 04:59:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_teal_to_sea_serpent_scale_block_teal": {
+    "criteria": {
+      "has_sea_serpent_scales_teal": "2025-01-02 04:59:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_boots": {
+    "criteria": {
+      "has_item": "2025-01-02 05:01:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-02 05:01:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_green_to_sea_serpent_scale_block_green": {
+    "criteria": {
+      "has_sea_serpent_scales_green": "2025-01-02 05:01:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_helmet": {
+    "criteria": {
+      "has_item": "2025-01-02 05:01:01 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

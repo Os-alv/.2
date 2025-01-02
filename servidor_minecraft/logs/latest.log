@@ -774,3 +774,11 @@
 [02Jan2025 04:48:46.745] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram lost connection: Disconnected
 [02Jan2025 04:48:46.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram left the game
 [02Jan2025 04:48:46.746] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ram
+[02Jan2025 04:55:58.009] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ram[/127.29.133.87:47647] logged in with entity id 186741 at (-526.0, 59.33184856222175, 859.0)
+[02Jan2025 04:55:58.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram joined the game
+[02Jan2025 04:55:59.729] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ram (18)
+[02Jan2025 04:55:59.736] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ram
+[02Jan2025 04:56:06.504] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d72e33c0-cade-33f4-8968-a71c4f61cbe5
+[02Jan2025 04:56:07.483] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d72e33c0-cade-33f4-8968-a71c4f61cbe5
+[02Jan2025 04:56:07.484] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ram (d72e33c0-cade-33f4-8968-a71c4f61cbe5) successfully connected to voice chat
+[02Jan2025 05:00:28.405] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
