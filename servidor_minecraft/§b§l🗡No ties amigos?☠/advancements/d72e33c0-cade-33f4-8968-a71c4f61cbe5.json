@@ -74,9 +74,11 @@
       "magnolia_highlands": "2024-12-11 07:28:38 +0000",
       "outback": "2025-01-02 03:12:49 +0000",
       "sparse_redwoods": "2024-12-20 02:54:14 +0000",
+      "joshua_desert": "2025-01-02 06:20:53 +0000",
       "boreal_forest": "2024-12-20 01:04:29 +0000",
       "glistering_meadow": "2024-12-30 06:14:24 +0000",
       "blackstone_basin": "2024-12-11 23:44:41 +0000",
+      "fungal_fen": "2025-01-02 06:24:17 +0000",
       "towering_cliffs": "2024-12-20 00:56:25 +0000",
       "chalk_cliffs": "2024-12-28 07:49:06 +0000",
       "infernal_holt": "2024-12-30 06:07:50 +0000",
@@ -114,7 +116,9 @@
       "magnolia_highlands": "2024-12-11 07:28:38 +0000",
       "outback": "2025-01-02 03:12:49 +0000",
       "sparse_redwoods": "2024-12-20 02:54:14 +0000",
+      "joshua_desert": "2025-01-02 06:20:53 +0000",
       "boreal_forest": "2024-12-20 01:04:29 +0000",
+      "fungal_fen": "2025-01-02 06:24:17 +0000",
       "towering_cliffs": "2024-12-20 00:56:25 +0000",
       "chalk_cliffs": "2024-12-28 07:49:06 +0000",
       "bamboo_forest": "2024-12-20 03:01:12 +0000",
@@ -7461,6 +7465,12 @@
   "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
     "criteria": {
       "has_item": "2025-01-02 06:19:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/deathworm_egg": {
+    "criteria": {
+      "egg": "2025-01-02 06:22:36 +0000"
     },
     "done": true
   },
