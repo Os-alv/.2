@@ -248,3 +248,91 @@
 [02Jan2025 05:42:29.711] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7540910e-dd19-3b9f-b7cd-b628422714d6
 [02Jan2025 05:42:29.712] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player manu (7540910e-dd19-3b9f-b7cd-b628422714d6) successfully connected to voice chat
 [02Jan2025 05:51:54.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! 11.952194379051207,0.6130880253906241,-0.9299613951331196
+[02Jan2025 05:54:45.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to ram]
+[02Jan2025 05:55:02.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu has reached the goal [Ally Enhancer]
+[02Jan2025 05:55:43.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was slain by Trial Guardian
+[02Jan2025 05:55:43.738] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[02Jan2025 05:55:43.745] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[02Jan2025 05:56:08.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram was simmered in stygian blood
+[02Jan2025 05:56:08.670] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[02Jan2025 05:57:39.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Dungeon Effigy
+[02Jan2025 05:57:39.093] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[02Jan2025 05:57:39.102] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[02Jan2025 05:57:58.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was wiped off the map
+[02Jan2025 05:57:58.447] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[02Jan2025 05:57:58.458] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[02Jan2025 05:58:12.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was slain by Trial Guardian
+[02Jan2025 05:58:12.845] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[02Jan2025 05:58:12.852] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[02Jan2025 05:58:14.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was wiped off the map
+[02Jan2025 05:58:14.843] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[02Jan2025 05:58:14.851] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[02Jan2025 05:58:36.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! 1.4995598125577771,0.7056000137329121,-10.79135967349157
+[02Jan2025 05:58:38.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu drowned
+[02Jan2025 05:58:38.811] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[02Jan2025 05:58:38.815] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[02Jan2025 05:59:14.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram was slain by Trial Guardian
+[02Jan2025 06:00:42.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to ram]
+[02Jan2025 06:02:00.541] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manu moved too quickly! -7.139282319435324,-3.290519703155738,-6.74876939291471
+[02Jan2025 06:03:48.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was wiped off the map
+[02Jan2025 06:03:48.601] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[02Jan2025 06:03:48.605] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[02Jan2025 06:03:53.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was wiped off the map
+[02Jan2025 06:03:53.175] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[02Jan2025 06:03:53.198] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[02Jan2025 06:04:23.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! -11.623967084366768,0.7056000137329121,2.6596928303533787
+[02Jan2025 06:04:48.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram was wiped off the map
+[02Jan2025 06:05:58.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was slain by Trial Guardian
+[02Jan2025 06:05:58.587] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[02Jan2025 06:05:58.604] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[02Jan2025 06:06:11.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was wiped off the map
+[02Jan2025 06:06:11.539] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[02Jan2025 06:06:11.550] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[02Jan2025 06:06:29.125] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! 14.018056141016586,0.7056000137329121,0.8021183873313475
+[02Jan2025 06:06:38.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was simmered in stygian blood
+[02Jan2025 06:06:38.481] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[02Jan2025 06:07:33.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu boiled away whilst trying to escape Trial Guardian
+[02Jan2025 06:07:33.294] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[02Jan2025 06:07:33.296] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[02Jan2025 06:07:44.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was simmered in stygian blood
+[02Jan2025 06:09:34.302] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:fire_magic_resist'
+[02Jan2025 06:09:34.304] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 06:09:53.782] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[02Jan2025 06:10:06.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> [x:-677, y:62, z:2210, dim:minecraft:overworld]
+[02Jan2025 06:10:22.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu suffocated in a wall
+[02Jan2025 06:10:22.155] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[02Jan2025 06:10:22.162] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[02Jan2025 06:10:27.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu suffocated in a wall
+[02Jan2025 06:10:27.965] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[02Jan2025 06:10:43.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> [x:-670, y:62, z:2211, dim:minecraft:overworld]
+[02Jan2025 06:11:10.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported manu to ram]
+[02Jan2025 06:11:31.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to manu]
+[02Jan2025 06:12:12.665] [Worker-Main-40/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 06:12:12.666] [Worker-Main-40/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 06:12:12.667] [Worker-Main-40/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 06:12:12.667] [Worker-Main-40/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 06:12:49.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was slain by Hellrok
+[02Jan2025 06:12:49.062] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
+[02Jan2025 06:12:49.081] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[02Jan2025 06:12:52.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN experienced kinetic energy
+[02Jan2025 06:12:52.701] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player f462eb29-aa29-3588-8da2-a2565774ca02 timed out
+[02Jan2025 06:12:52.702] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player ADMIN
+[02Jan2025 06:12:52.703] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to ADMIN
+[02Jan2025 06:12:52.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram experienced kinetic energy
+[02Jan2025 06:12:52.709] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[02Jan2025 06:12:52.712] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[02Jan2025 06:12:52.713] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[02Jan2025 06:13:02.191] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN lost connection: Disconnected
+[02Jan2025 06:13:02.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN left the game
+[02Jan2025 06:13:02.192] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ADMIN
+[02Jan2025 06:13:37.251] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@240ba31d[id=<null>,name=ADMIN,properties={},legacy=false] (/127.227.189.202:58393): Took too long to log in
+[02Jan2025 06:13:37.254] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@240ba31d[id=<null>,name=ADMIN,properties={},legacy=false] (/127.227.189.202:58393) lost connection: Took too long to log in
+[02Jan2025 06:13:37.295] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Jan2025 06:13:52.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram experienced kinetic energy
+[02Jan2025 06:13:59.546] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ADMIN[/127.227.189.202:45821] logged in with entity id 14364 at (-678.5640294299834, 48.0, 2218.4586649278785)
+[02Jan2025 06:13:59.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN joined the game
+[02Jan2025 06:14:00.112] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ADMIN (18)
+[02Jan2025 06:14:00.113] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ADMIN
+[02Jan2025 06:14:04.447] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f462eb29-aa29-3588-8da2-a2565774ca02
+[02Jan2025 06:14:05.437] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f462eb29-aa29-3588-8da2-a2565774ca02
+[02Jan2025 06:14:05.440] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ADMIN (f462eb29-aa29-3588-8da2-a2565774ca02) successfully connected to voice chat

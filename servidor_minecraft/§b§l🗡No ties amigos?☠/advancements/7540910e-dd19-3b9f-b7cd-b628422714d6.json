@@ -7811,5 +7811,11 @@
     },
     "done": true
   },
+  "tombstone:adventure/ally_enhancer": {
+    "criteria": {
+      "coded_trigger": "2025-01-02 05:55:02 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
