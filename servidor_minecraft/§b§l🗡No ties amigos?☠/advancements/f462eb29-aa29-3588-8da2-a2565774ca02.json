@@ -7745,6 +7745,132 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-01-01 23:27:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-01 23:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-01 23:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-01 23:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-01 23:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-01 23:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-01 23:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-01 23:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-01 23:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-01 23:27:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-01-01 23:27:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-01-01 23:29:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-01 23:29:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-01 23:29:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2025-01-01 23:45:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-01 23:47:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/socotra_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-01 23:47:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-01 23:47:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-01 23:47:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-01 23:47:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-01 23:47:54 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/mauve_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-01 23:47:55 +0000"
@@ -7775,18 +7901,6 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-01-01 23:29:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-01-01 23:47:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-01 23:47:55 +0000"
@@ -7811,21 +7925,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-01-01 23:27:44 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/transportation/redwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-01 23:47:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-01-01 23:27:44 +0000"
     },
     "done": true
   },
@@ -7835,33 +7937,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/nether_brick_wall": {
-    "criteria": {
-      "has_nether_bricks": "2025-01-01 23:27:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "fortress": "2025-01-01 23:27:17 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/transportation/magnolia_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-01 23:47:55 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/transportation/socotra_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-01-01 23:47:54 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/transportation/pine_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-01-01 23:47:54 +0000"
     },
     "done": true
   },
@@ -7871,39 +7949,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_brick_stairs": {
-    "criteria": {
-      "has_nether_bricks": "2025-01-01 23:27:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_brick_slab": {
-    "criteria": {
-      "has_nether_bricks": "2025-01-01 23:27:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-01-01 23:47:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-01-01 23:27:44 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/transportation/eucalyptus_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-01 23:47:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/cherry_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-01-01 23:47:54 +0000"
     },
     "done": true
   },
@@ -7919,12 +7967,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/nether_brick_fence": {
-    "criteria": {
-      "has_nether_bricks": "2025-01-01 23:27:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-01 23:47:55 +0000"
@@ -7937,51 +7979,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
-    "criteria": {
-      "has_nether_bricks": "2025-01-01 23:27:44 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/iron_hippogryph_armor": {
-    "criteria": {
-      "has_item": "2025-01-01 23:27:59 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/transportation/dead_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-01-01 23:47:54 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/transportation/maple_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-01 23:47:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/blaze_powder": {
+  "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
-      "has_blaze_rod": "2025-01-01 23:29:51 +0000"
+      "has_blaze_powder": "2025-01-01 23:52:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+  "minecraft:recipes/misc/fire_charge": {
     "criteria": {
-      "has_nether_bricks": "2025-01-01 23:27:44 +0000"
+      "has_blaze_powder": "2025-01-01 23:52:00 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
+  "minecraft:recipes/misc/ender_eye": {
     "criteria": {
-      "nether_wart": "2025-01-01 23:45:12 +0000"
+      "has_blaze_powder": "2025-01-01 23:52:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/brewing_stand": {
+  "minecraft:nether/brew_potion": {
     "criteria": {
-      "has_blaze_rod": "2025-01-01 23:29:51 +0000"
+      "potion": "2025-01-01 23:53:04 +0000"
     },
     "done": true
   },

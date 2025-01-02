@@ -7404,6 +7404,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_unstable_intangibility": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-01 23:14:50 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_frost_resistance": {
     "criteria": {
       "has_magic_scroll": "2025-01-01 23:14:57 +0000"
@@ -7416,39 +7422,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/magma_cream": {
+  "minecraft:recipes/tools/recovery_compass": {
     "criteria": {
-      "has_blaze_powder": "2025-01-01 23:43:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/brew_potion": {
-    "criteria": {
-      "potion": "2025-01-01 23:44:59 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_unstable_intangibility": {
-    "criteria": {
-      "has_magic_scroll": "2025-01-01 23:14:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-01-01 23:29:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2025-01-01 23:43:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_blaze_powder": "2025-01-01 23:43:02 +0000"
+      "has_echo_shard": "2025-01-01 23:21:42 +0000"
     },
     "done": true
   },
@@ -7464,12 +7440,6 @@
     },
     "done": true
   },
-  "regions_unexplored:light_snack": {
-    "criteria": {
-      "earlight": "2025-01-01 23:31:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2025-01-01 23:27:17 +0000"
@@ -7482,9 +7452,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/recovery_compass": {
+  "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
-      "has_echo_shard": "2025-01-01 23:21:42 +0000"
+      "has_wither_skeleton_skull": "2025-01-01 23:28:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-01-01 23:29:07 +0000"
     },
     "done": true
   },
@@ -7494,15 +7470,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/skull_banner_pattern": {
-    "criteria": {
-      "has_wither_skeleton_skull": "2025-01-01 23:28:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-01-01 23:29:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:light_snack": {
+    "criteria": {
+      "earlight": "2025-01-01 23:31:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-01 23:43:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-01 23:43:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-01 23:43:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-01-01 23:44:59 +0000"
     },
     "done": true
   },
