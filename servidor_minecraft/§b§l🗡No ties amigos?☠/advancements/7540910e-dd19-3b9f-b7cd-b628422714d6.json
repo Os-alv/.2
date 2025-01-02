@@ -56,6 +56,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "silver_birch_forest": "2024-12-11 21:29:04 +0000",
+      "shrubland": "2025-01-02 01:01:26 +0000",
       "dry_bushland": "2024-12-29 05:06:17 +0000",
       "fen": "2024-12-20 01:25:02 +0000",
       "pine_taiga": "2024-12-14 04:58:57 +0000",
@@ -96,6 +97,7 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "silver_birch_forest": "2024-12-11 21:29:04 +0000",
+      "shrubland": "2025-01-02 01:01:26 +0000",
       "dry_bushland": "2024-12-29 05:06:17 +0000",
       "fen": "2024-12-20 01:25:02 +0000",
       "pine_taiga": "2024-12-14 04:58:57 +0000",

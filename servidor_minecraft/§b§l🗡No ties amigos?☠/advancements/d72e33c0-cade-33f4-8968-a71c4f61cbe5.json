@@ -7171,9 +7171,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/brown_dye": {
+  "tombstone:adventure/use_knowledge": {
     "criteria": {
-      "has_cocoa_beans": "2025-01-02 00:45:07 +0000"
+      "coded_trigger": "2025-01-02 00:32:35 +0000"
     },
     "done": true
   },
@@ -7183,15 +7183,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-01-02 00:45:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2025-01-02 00:45:07 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/use_knowledge": {
+  "mca:recipes/misc/staff_of_life": {
     "criteria": {
-      "coded_trigger": "2025-01-02 00:32:35 +0000"
+      "has_item": "2025-01-02 01:04:00 +0000"
     },
     "done": true
   },

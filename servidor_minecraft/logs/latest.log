@@ -153,3 +153,62 @@
 [02Jan2025 01:00:08.048] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=388, y=63, z=-625} in minecraft:overworld
 [02Jan2025 01:00:08.049] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 17134
 [02Jan2025 01:00:08.051] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 3 totems
+[02Jan2025 01:02:47.388] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! 12.858644261437917,1.3186880391235292,-32.09051618934734
+[02Jan2025 01:03:58.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN has completed the challenge [Beat Death]
+[02Jan2025 01:04:09.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was burnt to a crisp whilst fighting manu
+[02Jan2025 01:04:09.148] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
+[02Jan2025 01:04:09.152] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[02Jan2025 01:04:26.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was slain by manu
+[02Jan2025 01:04:26.812] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
+[02Jan2025 01:04:26.815] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[02Jan2025 01:04:54.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by ADMIN
+[02Jan2025 01:04:54.201] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[02Jan2025 01:04:54.204] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[02Jan2025 01:07:44.905] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram lost connection: Disconnected
+[02Jan2025 01:07:44.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram left the game
+[02Jan2025 01:07:44.906] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ram
+[02Jan2025 01:10:38.519] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ram[/127.132.119.231:52137] logged in with entity id 80949 at (394.5496907853783, 63.0, -625.2513276670275)
+[02Jan2025 01:10:38.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram joined the game
+[02Jan2025 01:10:39.701] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ram (18)
+[02Jan2025 01:10:39.706] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ram
+[02Jan2025 01:10:44.911] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d72e33c0-cade-33f4-8968-a71c4f61cbe5
+[02Jan2025 01:10:45.911] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d72e33c0-cade-33f4-8968-a71c4f61cbe5
+[02Jan2025 01:10:45.912] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ram (d72e33c0-cade-33f4-8968-a71c4f61cbe5) successfully connected to voice chat
+[02Jan2025 01:11:15.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> [x:640, y:62, z:1768, dim:minecraft:overworld]
+[02Jan2025 01:11:36.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to ram]
+[02Jan2025 01:11:47.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to ram]
+[02Jan2025 01:12:02.845] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player f462eb29-aa29-3588-8da2-a2565774ca02 timed out
+[02Jan2025 01:12:02.847] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player ADMIN
+[02Jan2025 01:12:02.849] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to ADMIN
+[02Jan2025 01:12:10.157] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN lost connection: Timed out
+[02Jan2025 01:12:10.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN left the game
+[02Jan2025 01:12:10.160] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ADMIN
+[02Jan2025 01:12:30.224] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ADMIN[/127.227.189.202:59921] logged in with entity id 82024 at (639.5224556377234, 63.0, 1769.8367659569285)
+[02Jan2025 01:12:30.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN joined the game
+[02Jan2025 01:12:30.631] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ADMIN (18)
+[02Jan2025 01:12:30.632] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ADMIN
+[02Jan2025 01:12:33.860] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f462eb29-aa29-3588-8da2-a2565774ca02
+[02Jan2025 01:12:34.863] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f462eb29-aa29-3588-8da2-a2565774ca02
+[02Jan2025 01:12:34.863] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ADMIN (f462eb29-aa29-3588-8da2-a2565774ca02) successfully connected to voice chat
+[02Jan2025 01:12:43.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ram to ADMIN]
+[02Jan2025 01:13:00.324] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Džamela'/81244, l='ServerLevel[🗡No ties amigos?☠]', x=649.72, y=64.00, z=1763.48] died, message: 'Džamela was slain by ADMIN'
+[02Jan2025 01:13:00.326] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Džamela'/81244, l='ServerLevel[🗡No ties amigos?☠]', x=649.72, y=64.00, z=1763.48] died: Džamela was slain by ADMIN
+[02Jan2025 01:15:27.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to ram]
+[02Jan2025 01:15:50.134] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Jovo'/81414, l='ServerLevel[🗡No ties amigos?☠]', x=685.03, y=63.00, z=1805.18] died, message: 'Jovo was slain by ADMIN'
+[02Jan2025 01:15:50.135] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Jovo'/81414, l='ServerLevel[🗡No ties amigos?☠]', x=685.03, y=63.00, z=1805.18] died: Jovo was slain by ADMIN
+[02Jan2025 01:16:31.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Fire Dragon
+[02Jan2025 01:16:31.153] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[02Jan2025 01:16:31.185] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[02Jan2025 01:16:54.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported manu to ram]
+[02Jan2025 01:18:07.379] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Anes'/84285, l='ServerLevel[🗡No ties amigos?☠]', x=618.30, y=61.22, z=1716.34] died, message: 'Anes was slain by ADMIN'
+[02Jan2025 01:18:07.381] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Anes'/84285, l='ServerLevel[🗡No ties amigos?☠]', x=618.30, y=61.22, z=1716.34] died: Anes was slain by ADMIN
+[02Jan2025 01:18:44.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to ram]
+[02Jan2025 01:19:13.540] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2350ms or 47 ticks behind
+[02Jan2025 01:19:45.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <manu> [name:"dragon madre", x:995, y:13, z:267, dim:minecraft:overworld]
+[02Jan2025 01:19:46.971] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Fuad'/81328, l='ServerLevel[🗡No ties amigos?☠]', x=678.39, y=64.00, z=1758.30] died, message: 'Fuad was slain by ADMIN'
+[02Jan2025 01:19:46.972] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Fuad'/81328, l='ServerLevel[🗡No ties amigos?☠]', x=678.39, y=64.00, z=1758.30] died: Fuad was slain by ADMIN
+[02Jan2025 01:20:03.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! 14.638903850338124,0.7999999999999972,-8.150703153935652
+[02Jan2025 01:20:23.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was incinerated by Fire Dragon
+[02Jan2025 01:20:23.801] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[02Jan2025 01:20:23.819] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[02Jan2025 01:21:02.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ram to manu]
