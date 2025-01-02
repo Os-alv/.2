@@ -240,3 +240,11 @@
 [02Jan2025 05:41:50.542] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manu lost connection: Timed out
 [02Jan2025 05:41:50.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu left the game
 [02Jan2025 05:41:50.546] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client manu
+[02Jan2025 05:42:21.122] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: manu[/127.227.189.202:60901] logged in with entity id 3410 at (-576.8328940609857, 36.0, 1612.3429739307244)
+[02Jan2025 05:42:21.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu joined the game
+[02Jan2025 05:42:21.561] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of manu (18)
+[02Jan2025 05:42:21.562] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to manu
+[02Jan2025 05:42:28.712] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7540910e-dd19-3b9f-b7cd-b628422714d6
+[02Jan2025 05:42:29.711] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7540910e-dd19-3b9f-b7cd-b628422714d6
+[02Jan2025 05:42:29.712] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player manu (7540910e-dd19-3b9f-b7cd-b628422714d6) successfully connected to voice chat
+[02Jan2025 05:51:54.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! 11.952194379051207,0.6130880253906241,-0.9299613951331196
