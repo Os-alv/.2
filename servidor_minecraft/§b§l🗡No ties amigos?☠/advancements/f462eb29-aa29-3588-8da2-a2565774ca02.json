@@ -8202,9 +8202,9 @@
     },
     "done": true
   },
-  "ants_unleashed:long_live_the_queen": {
+  "minecraft:recipes/misc/raw_iron": {
     "criteria": {
-      "long_live_the_queen": "2025-01-02 03:33:52 +0000"
+      "has_raw_iron_block": "2025-01-02 03:31:27 +0000"
     },
     "done": true
   },
@@ -8220,9 +8220,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/raw_iron": {
+  "ants_unleashed:long_live_the_queen": {
     "criteria": {
-      "has_raw_iron_block": "2025-01-02 03:31:27 +0000"
+      "long_live_the_queen": "2025-01-02 03:33:52 +0000"
     },
     "done": true
   },
