@@ -754,3 +754,23 @@
 [02Jan2025 04:18:57.144] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manu lost connection: Disconnected
 [02Jan2025 04:18:57.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu left the game
 [02Jan2025 04:18:57.146] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client manu
+[02Jan2025 04:43:28.008] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ram[/127.132.119.231:54607] logged in with entity id 185585 at (-513.7807272867112, 66.0, 1600.5029450262325)
+[02Jan2025 04:43:28.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram joined the game
+[02Jan2025 04:43:29.584] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ram (18)
+[02Jan2025 04:43:29.586] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ram
+[02Jan2025 04:43:34.618] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d72e33c0-cade-33f4-8968-a71c4f61cbe5
+[02Jan2025 04:43:35.629] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d72e33c0-cade-33f4-8968-a71c4f61cbe5
+[02Jan2025 04:43:35.630] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ram (d72e33c0-cade-33f4-8968-a71c4f61cbe5) successfully connected to voice chat
+[02Jan2025 04:44:05.664] [Worker-Main-533/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 04:44:05.667] [Worker-Main-533/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 04:44:05.668] [Worker-Main-533/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 04:44:05.669] [Worker-Main-533/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 04:44:05.669] [Worker-Main-533/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 04:44:05.694] [Worker-Main-533/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 04:44:05.695] [Worker-Main-533/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[02Jan2025 04:48:41.892] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d72e33c0-cade-33f4-8968-a71c4f61cbe5 timed out
+[02Jan2025 04:48:41.893] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player ram
+[02Jan2025 04:48:41.894] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to ram
+[02Jan2025 04:48:46.745] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ram lost connection: Disconnected
+[02Jan2025 04:48:46.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram left the game
+[02Jan2025 04:48:46.746] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ram
