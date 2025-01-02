@@ -212,3 +212,37 @@
 [02Jan2025 01:20:23.801] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
 [02Jan2025 01:20:23.819] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
 [02Jan2025 01:21:02.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ram to manu]
+[02Jan2025 01:23:12.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to manu]
+[02Jan2025 01:26:53.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to ram]
+[02Jan2025 01:27:27.847] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/85813, l='ServerLevel[🗡No ties amigos?☠]', x=879.02, y=81.97, z=369.25]
+[02Jan2025 01:27:27.848] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/85816, l='ServerLevel[🗡No ties amigos?☠]', x=879.76, y=85.06, z=370.58]
+[02Jan2025 01:27:27.849] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/85818, l='ServerLevel[🗡No ties amigos?☠]', x=879.56, y=78.94, z=387.58]
+[02Jan2025 01:27:27.850] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/85821, l='ServerLevel[🗡No ties amigos?☠]', x=880.00, y=79.43, z=368.77]
+[02Jan2025 01:27:27.850] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/85822, l='ServerLevel[🗡No ties amigos?☠]', x=879.99, y=80.14, z=362.52]
+[02Jan2025 01:27:30.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was slain by Fire Dragon
+[02Jan2025 01:27:30.100] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[02Jan2025 01:27:30.106] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[02Jan2025 01:27:40.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu was slain by Fire Dragon
+[02Jan2025 01:27:41.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN is bleeding. ADMIN was doomed to fall
+[02Jan2025 01:27:41.521] [Server thread/WARN] [tombstone/]: The death event of the player ADMIN was canceled by another mod
+[02Jan2025 01:27:41.523] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[02Jan2025 01:27:52.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ADMIN to manu]
+[02Jan2025 01:28:03.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ADMIN burned to death
+[02Jan2025 01:28:03.788] [Server thread/INFO] [tombstone/]: The player ADMIN has successfully been saved
+[02Jan2025 01:28:19.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was slain by Fire Dragon
+[02Jan2025 01:28:19.898] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[02Jan2025 01:28:19.922] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[02Jan2025 01:28:39.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ram to ADMIN]
+[02Jan2025 01:29:00.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> [x:1011, y:62, z:250, dim:minecraft:overworld]{
+[02Jan2025 01:29:01.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu suffocated in a wall whilst fighting Fire Dragon
+[02Jan2025 01:29:01.931] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[02Jan2025 01:29:01.934] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[02Jan2025 01:29:05.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ram> [x:1018, y:62, z:247, dim:minecraft:overworld]
+[02Jan2025 01:29:32.149] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[02Jan2025 01:29:47.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was turned into KFC by Fire Dragon
+[02Jan2025 01:29:47.263] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
+[02Jan2025 01:29:47.270] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[02Jan2025 01:30:07.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported ram to manu]
+[02Jan2025 01:30:37.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ADMIN moved too quickly! -19.154017358243664,1.1380000247359305,21.157648512208112
+[02Jan2025 01:39:27.480] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Katica'/95326, l='ServerLevel[🗡No ties amigos?☠]', x=716.23, y=67.17, z=1776.59] died, message: 'Katica was slain by ADMIN'
+[02Jan2025 01:39:27.482] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Katica'/95326, l='ServerLevel[🗡No ties amigos?☠]', x=716.23, y=67.17, z=1776.59] died: Katica was slain by ADMIN

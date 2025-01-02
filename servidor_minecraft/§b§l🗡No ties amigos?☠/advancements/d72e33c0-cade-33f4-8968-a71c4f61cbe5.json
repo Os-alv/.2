@@ -2274,10 +2274,12 @@
       "beef": "2024-12-29 07:53:09 +0000",
       "potato": "2024-12-11 18:45:07 +0000",
       "cooked_cod": "2024-12-28 23:33:51 +0000",
+      "pumpkin_pie": "2025-01-02 01:30:24 +0000",
       "bread": "2024-12-11 07:20:41 +0000",
       "golden_apple": "2024-12-29 06:46:55 +0000",
       "rotten_flesh": "2024-12-14 08:14:13 +0000",
       "glow_berries": "2025-01-01 22:52:03 +0000",
+      "salmon": "2025-01-02 01:29:18 +0000",
       "melon_slice": "2025-01-01 03:17:16 +0000",
       "beetroot": "2024-12-11 07:41:55 +0000",
       "cooked_chicken": "2025-01-01 03:08:05 +0000",
@@ -7198,6 +7200,12 @@
   "mca:recipes/misc/staff_of_life": {
     "criteria": {
       "has_item": "2025-01-02 01:04:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/blue_magnolia_shrub": {
+    "criteria": {
+      "has_blue_magnolia_sapling": "2025-01-02 01:19:52 +0000"
     },
     "done": true
   },
