@@ -728,3 +728,7 @@
 [02Jan2025 03:57:20.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ram is bleeding. ram was shot by Dungeon Sentry
 [02Jan2025 03:57:20.798] [Server thread/WARN] [tombstone/]: The death event of the player ram was canceled by another mod
 [02Jan2025 03:57:20.801] [Server thread/INFO] [tombstone/]: The player ram has successfully been saved
+[02Jan2025 04:08:59.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manu is bleeding. manu was doomed to fall
+[02Jan2025 04:08:59.263] [Server thread/WARN] [tombstone/]: The death event of the player manu was canceled by another mod
+[02Jan2025 04:08:59.266] [Server thread/INFO] [tombstone/]: The player manu has successfully been saved
+[02Jan2025 04:09:25.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ADMIN: Teleported manu to ADMIN]
