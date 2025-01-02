@@ -2138,6 +2138,7 @@
       "minecraft:zombified_piglin": "2024-12-12 03:00:30 +0000",
       "minecraft:witch": "2024-12-14 05:01:45 +0000",
       "minecraft:wither_skeleton": "2024-12-12 03:01:55 +0000",
+      "minecraft:husk": "2025-01-02 06:19:33 +0000",
       "minecraft:cave_spider": "2024-12-14 04:46:40 +0000",
       "minecraft:piglin": "2024-12-12 03:06:58 +0000",
       "minecraft:stray": "2024-12-11 07:13:25 +0000",
@@ -7814,6 +7815,54 @@
   "tombstone:adventure/ally_enhancer": {
     "criteria": {
       "coded_trigger": "2025-01-02 05:55:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_leggings": {
+    "criteria": {
+      "has_item": "2025-01-02 06:18:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_boots": {
+    "criteria": {
+      "has_item": "2025-01-02 06:18:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-01-02 06:15:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
+    "criteria": {
+      "has_dragonscales_black": "2025-01-02 06:18:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-01-02 06:14:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-01-02 06:14:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-02 06:18:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_helmet": {
+    "criteria": {
+      "has_item": "2025-01-02 06:18:18 +0000"
     },
     "done": true
   },
